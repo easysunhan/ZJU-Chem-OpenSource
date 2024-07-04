@@ -8,22 +8,22 @@ Welcome to the Open Source Learning Platform of the Department of Chemistry, Zhe
 Our platform covers the following content:
 
 - **Basic Chemistry** 📖
-  - General Chemistry(Lack Resources)
-  - Inorganic Chemistry(Lack Resources)
-  - Organic Chemistry(Lack Resources)
-  - Analytical Chemistry(Lack Resources)
-  - Structural Chemistry(Lack Resources)
-  - Physical Chemistry(🚀)
+  - General Chemistry
+  - Inorganic Chemistry
+  - Organic Chemistry
+  - Analytical Chemistry
+  - Structural Chemistry
+  - Physical Chemistry
   
 - **Experimental Courses** 🧪
-  - General Chemistry Experiment(Lack Resources)
-  - Analytical Chemistry Experiment(Lack Resources)
-  - Organic Chemistry Experiment(Lack Resources)
-  - Physical Chemistry Experiment(Lack Resources)
+  - General Chemistry Experiment
+  - Analytical Chemistry Experiment
+  - Organic Chemistry Experiment
+  - Physical Chemistry Experiment
 
 - **Professional Courses** 🔬
-  - Statistical Thermodynamics(Lack Resources)
-  - Quantum Chemistry(Lack Resources)
+  - Statistical Thermodynamics
+  - Quantum Chemistry
   - To be continued...
 
 **Note:** Due to copyright issues, please be mindful of copyright concerns when uploading materials. If any infringement is found, please contact us for removal! This platform encourages students to upload their own study notes and learning experiences. 💗 
