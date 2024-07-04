@@ -1,0 +1,673 @@
+
+├── Endnote x9.3.3
+│   ├── EndNote X9.3.3破解包.zip
+│   ├── EndNote X9.3.3 安装包.zip
+├── Gaussian
+│   ├── gaussian+vasp
+│   │   ├── 高斯软件
+│   │   │   ├── 16
+│   │   │   │   ├── 64bit_win.zip
+│   │   │   │   ├── GV6_WIN-64.zip
+│   │   │   ├── 09
+│   │   │   │   ├── GaussView_v5.08.zip
+│   │   │   │   ├── gaosi09W-D01.rar
+│   │   ├── VASP-买高斯的不用管
+│   │   │   ├── VASP视屏易文才
+│   │   │   │   ├── kk 2018-08-05 23-38-57.mp4
+│   │   │   │   ├── kk 2018-08-05 22-24-24.mp4
+│   │   │   │   ├── 易文才.mp4
+│   │   │   │   ├── kk 2018-10-24 15-02-28.mp4
+│   │   │   │   ├── kk 2018-10-28 15-08-07.mp4
+│   │   │   │   ├── 易文才电荷局域分析.mp4
+│   │   │   │   ├── kk 2018-10-07 10-49-54.mp4
+│   │   │   │   ├── 第二讲及其附件 vasp的编译与安装.rar
+│   │   │   │   ├── 易文才视频8.mp4
+│   │   │   │   ├── 第三讲 VASP主要的输入和输出 - 副本.pdf
+│   │   │   │   ├── kk 2018-10-23 15-01-22.mp4
+│   │   │   │   ├── 易文才k点.mp4
+│   │   │   │   ├── 易文才1.mp4
+│   │   │   │   ├── kk 2018-10-06 22-43-13.mp4
+│   │   │   │   ├── vasp 吸附.mp4
+│   │   │   │   ├── (16min) 第10讲HSE06计算能带.mp4
+│   │   │   │   ├── k点测试易文才.mp4
+│   │   │   │   ├── 第七讲之二 电荷局域分析 附件 - 副本.rar
+│   │   │   │   ├── 易文才8.mp4
+│   │   │   │   ├── 易文才 (2).mp4
+│   │   │   │   ├── 截断能测试.mp4
+│   │   │   │   ├── kk 2018-10-06 23-58-12.mp4
+│   │   │   │   ├── ms建模
+│   │   │   │   ├── 第六讲附件 TSfile - 副本.rar
+│   │   │   │   ├── kk 2018-11-03 21-10-52.mp4
+│   │   │   │   ├── 模型搭建之二——通用建模.pdf
+│   │   │   │   ├── 第三讲 VASP主要的输入和输出.pdf
+│   │   │   │   ├── 第七讲 电荷差分与bader分析 附件.rar
+│   │   │   │   ├── 第四讲的全部测试文件.rar
+│   │   │   │   ├── kk 2018-10-07 00-14-21.mp4
+│   │   │   │   ├── ms建模2.mp4
+│   │   │   │   ├── kk 2018-10-07 00-17-48.mp4
+│   │   │   │   ├── 第二讲及其附件 vasp的编译与安装 - 副本.rar
+│   │   │   │   ├── 能带计算.mp4
+│   │   │   │   ├── kk 2018-10-23 17-43-41.mp4
+│   │   │   │   ├── 第一讲 VASP程序使用概述.pdf
+│   │   │   │   ├── kk 2018-08-04 08-43-36.mp4
+│   │   │   │   ├── yiwencai.mp4
+│   │   │   │   ├── 第六讲附件 TSfile.rar
+│   │   │   │   ├── 第一讲.mp4
+│   │   │   │   ├── ms建模.mp4
+│   │   │   │   ├── 太原理工大学--VASP--讲解.pdf
+│   │   │   │   ├── kk 2018-10-24 17-55-10.mp4
+│   │   │   │   ├── 易文才视频10.mp4
+│   │   │   │   ├── 易文才视频2.mp4
+│   │   │   │   ├── ms建模3.mp4
+│   │   │   │   ├── kk 2018-10-23 14-25-48.mp4
+│   │   │   │   ├── 第七讲 电荷差分与bader分析 附件 - 副本.rar
+│   │   │   │   ├── 苏长荣-vasp中文说明书.pdf
+│   │   │   │   ├── 易文才.rar
+│   │   │   │   ├── 第一讲附件内容.rar
+│   │   │   │   ├── MS初级入门视频—纳米管构建.mp4
+│   │   │   │   ├── 易文才视频6.mp4
+│   │   │   │   ├── 第七讲之二 电荷局域分析 附件.rar
+│   │   │   ├── VASP
+│   │   │   │   ├── VASP
+│   │   │   │   │   ├── software
+│   │   │   │   │   │   ├── origin
+│   │   │   │   │   │   │   ├── for crack
+│   │   │   │   │   │   │   │   ├── install_instructions.txt
+│   │   │   │   │   │   │   │   ├── ok9.dll
+│   │   │   │   │   │   │   │   ├── ok9_64.dll
+│   │   │   │   │   │   │   ├── ok9_64.dll
+│   │   │   │   │   │   │   ├── OriginInstaller_v9.0.x86.exe
+│   │   │   │   │   │   ├── p4vasp-0.3.29-win
+│   │   │   │   │   │   │   ├── p4vasp_STM_0007.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0014.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0022.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0003.tga
+│   │   │   │   │   │   │   ├── PARCHG1
+│   │   │   │   │   │   │   ├── p4vasp_STM_0016.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0005.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0023.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0013.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0017.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0021.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0020.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0011.tga
+│   │   │   │   │   │   │   ├── LICENSE
+│   │   │   │   │   │   │   ├── p4v.exe
+│   │   │   │   │   │   │   ├── PARCHG
+│   │   │   │   │   │   │   ├── README
+│   │   │   │   │   │   │   ├── p4vasp_STM_0019.tga
+│   │   │   │   │   │   │   ├── tmp.dat
+│   │   │   │   │   │   │   ├── vasprun.xml
+│   │   │   │   │   │   │   ├── p4vasp.log
+│   │   │   │   │   │   │   ├── p4vasp_STM_0002.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0015.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0006.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0009.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0010.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0004.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0001.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0012.tga
+│   │   │   │   │   │   │   ├── tmp1.dat
+│   │   │   │   │   │   │   ├── p4vasp_STM_0018.tga
+│   │   │   │   │   │   │   ├── p4vasp_STM_0008.tga
+│   │   │   │   │   │   ├── VM+OS
+│   │   │   │   │   │   │   ├── CentOS-6.5-x86_64-LiveCD.iso
+│   │   │   │   │   │   │   ├── vm.txt
+│   │   │   │   │   │   │   ├── VMware-workstation_full_12.1.1.6932.exe
+│   │   │   │   │   │   ├── MaterialsStudio60
+│   │   │   │   │   │   │   ├── License Pack
+│   │   │   │   │   │   │   │   ├── share
+│   │   │   │   │   │   │   │   │   ├── htmldoc
+│   │   │   │   │   │   │   │   │   │   ├── LicensePackDoc
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_flexlm-command-line-tools-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-diagnostics.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_dialog.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_restrict-server-administration.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_silent-installation-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-file-administration.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_ms40.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_environment-variables.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl_unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_license-administrator-windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_contents.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_select-a-license-server-machine_netconf-examples.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_fts.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_multiple-license-packs.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene15.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_non-accelrys-software-using-flexlm.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_accelrys-licensing.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_solaris.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_crs2-insii-quant_conf-dtls.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_irix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-server-connections.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_node-locked.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_configuration-detail.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_install-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_install-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-connections.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_sla.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_flexlm-license-management-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_select-a-reliable-license-server.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_license-configuration.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_uninstall-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_toolbar.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_start-license-manager-at-system-startup.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene25-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_favs.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_lpvrsns-compatible.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_index.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-administration.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2_view-license-usage.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-types.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy_unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_contacting-scientific-support.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility-table_web-version.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── assistant-manual.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_usng-help.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatible-products.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_stop-start-a-license-server.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_view-realtime-usage.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf_unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls_unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_install-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_how-do-i-read-the-license-manager-log-file.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_copy.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-cmd-line-usage-reporter.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_topic.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-wzrd-win-lnx-acc-lic-adm.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_floating.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_how-licensing-works.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_is-the-license-server-running.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_customize-usage-access.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-adm-win-lnx_lic-adm-help-pgs.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_license-administration-tasks.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_token.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_token-usage-for-parallel-processing.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_accelrys-advantage.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_view-server-status.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_ds15.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2_manual-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-usage-report.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-command-line-tools.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_archive_log.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_using-software-no-longer-supported-by-lp.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_can-comm-w-lic-svr.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-command-line-tools-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-offline-access.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_configuration-summary.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_additional-information.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_multiple-license-files.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-file-structure.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_generating-historical-usage-data.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_more.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_per-user-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_file-names-and-locations.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_create-license-server-alias.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene15-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_platforms-os-supported.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_view-license-file-contents.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-expired-temporary-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_connection-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_error-table.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_automatic-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   ├── welcome.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_mss_temp-lic-inst_ms-vis-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_view-license-usage.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene25.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_console-installation-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_use-lic-mgr-w-temp-lic.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_install-temp-instructions.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_install-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_install-on-unix-trbleshoot.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redsvrmgt_select-redundant-servers.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_platforms-linux-os-supported.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_temporary.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-test.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-usage-send.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_select-a-license-server-machine.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_faq.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_new.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_reread-a-license-file.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup-products.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-a-license-file.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_monitor-license-usage-with-a-unix-cron-job.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_manual-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_usage-report-options.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility-table.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_training.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_flexible-token-library-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_firewall-configuration.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_request-license.html
+│   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_shortcut.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_linux.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_dschemistry.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_uninstall-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_is-the-license-file-installed-and-valid.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_wait-functionality.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_connection-windows.html
+│   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-adm-win-lnx-acc-lic-adm.html
+│   │   │   │   │   │   │   │   │   │   │   ├── dl_auto-trial-licensing.html
+│   │   │   │   │   │   │   │   │   │   ├── styles
+│   │   │   │   │   │   │   │   │   │   │   ├── stylesheet.css
+│   │   │   │   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   │   │   │   ├── example1.png
+│   │   │   │   │   │   │   │   │   │   │   ├── tip.gif
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_next.png
+│   │   │   │   │   │   │   │   │   │   │   ├── WindowsServer.png
+│   │   │   │   │   │   │   │   │   │   │   ├── UNIX-network-install.png
+│   │   │   │   │   │   │   │   │   │   │   ├── InstallationUNIX.png
+│   │   │   │   │   │   │   │   │   │   │   ├── LicenseTerminologyDiagram.png
+│   │   │   │   │   │   │   │   │   │   │   ├── warn.gif
+│   │   │   │   │   │   │   │   │   │   │   ├── InstallationUNIX-NFS.png
+│   │   │   │   │   │   │   │   │   │   │   ├── example2.png
+│   │   │   │   │   │   │   │   │   │   │   ├── UNIXServer2.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sbclose.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_zoomin.png
+│   │   │   │   │   │   │   │   │   │   │   ├── UNIXServer.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_undock.png
+│   │   │   │   │   │   │   │   │   │   │   ├── example3.png
+│   │   │   │   │   │   │   │   │   │   │   ├── server-detail.png
+│   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-1.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_whats.png
+│   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-2.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_home.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_find.png
+│   │   │   │   │   │   │   │   │   │   │   ├── license-test.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_closepage.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_copy.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sbdock.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_print.png
+│   │   │   │   │   │   │   │   │   │   │   ├── LicenseRequestProcess.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_zoomout.png
+│   │   │   │   │   │   │   │   │   │   │   ├── ext_link.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sync.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_prev.png
+│   │   │   │   │   │   │   │   │   │   │   ├── btn_help_addpage.png
+│   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-3.png
+│   │   │   │   │   │   │   │   │   │   │   ├── edit.png
+│   │   │   │   │   │   │   │   ├── lp_setup.exe
+│   │   │   │   │   │   │   │   ├── LicensePack.html
+│   │   │   │   │   │   │   ├── Info
+│   │   │   │   │   │   │   │   ├── Graphics
+│   │   │   │   │   │   │   │   │   ├── ext_link.gif
+│   │   │   │   │   │   │   │   │   ├── GW_remote_edit.png
+│   │   │   │   │   │   │   │   │   ├── cs_web_page.png
+│   │   │   │   │   │   │   │   │   ├── GW_remote.png
+│   │   │   │   │   │   │   │   ├── installation_info.htm
+│   │   │   │   │   │   │   │   ├── auto_trial.htm
+│   │   │   │   │   │   │   │   ├── installation_info_queue.htm
+│   │   │   │   │   │   │   │   ├── GWSec_UserAuthentication.htm
+│   │   │   │   │   │   │   │   ├── licensing_doc.htm
+│   │   │   │   │   │   │   │   ├── system_requirements_info.htm
+│   │   │   │   │   │   │   │   ├── GWSec_Transport.htm
+│   │   │   │   │   │   │   │   ├── using_lic_admin_tool.htm
+│   │   │   │   │   │   │   │   ├── installation_info_remove.htm
+│   │   │   │   │   │   │   │   ├── GatewayData.htm
+│   │   │   │   │   │   │   │   ├── Stylesheet.css
+│   │   │   │   │   │   │   │   ├── licensing_UNIX.htm
+│   │   │   │   │   │   │   │   ├── installation_info_Win.htm
+│   │   │   │   │   │   │   │   ├── licensing_Win.htm
+│   │   │   │   │   │   │   │   ├── Support.fm.htm
+│   │   │   │   │   │   │   │   ├── GatewayConfigure.htm
+│   │   │   │   │   │   │   │   ├── install_temp.htm
+│   │   │   │   │   │   │   │   ├── system_info.htm
+│   │   │   │   │   │   │   │   ├── license_info.htm
+│   │   │   │   │   │   │   │   ├── GatewaySecurity_info.htm
+│   │   │   │   │   │   │   │   ├── license_features.htm
+│   │   │   │   │   │   │   │   ├── GWSec_AccessControl.htm
+│   │   │   │   │   │   │   │   ├── GatewayAdministration_info.htm
+│   │   │   │   │   │   │   │   ├── tskSMC_GW_Reg.htm
+│   │   │   │   │   │   │   │   ├── installation_info_UNIX.htm
+│   │   │   │   │   │   │   │   ├── GWSec_Administration.htm
+│   │   │   │   │   │   │   │   ├── GatewayQueue.htm
+│   │   │   │   │   │   │   ├── Legal
+│   │   │   │   │   │   │   │   ├── perl.txt
+│   │   │   │   │   │   │   │   ├── WinCE.txt
+│   │   │   │   │   │   │   │   ├── xpcom.txt
+│   │   │   │   │   │   │   │   ├── gunzip.txt
+│   │   │   │   │   │   │   │   ├── python.txt
+│   │   │   │   │   │   │   │   ├── numpy.txt
+│   │   │   │   │   │   │   ├── Accelrys Materials Studio 6.0 (x64 Server).msi
+│   │   │   │   │   │   │   ├── Accelrys Materials Studio Gateway Service (i686).msi
+│   │   │   │   │   │   │   ├── README_Materials_Studio.htm
+│   │   │   │   │   │   │   ├── Accelrys Materials Studio 6.0.msi
+│   │   │   │   │   │   │   ├── Container.ico
+│   │   │   │   │   │   │   ├── Autorun.exe
+│   │   │   │   │   │   │   ├── msi.lic
+│   │   │   │   │   │   │   ├── Accelrys Materials Studio Gateway Service (x64).msi
+│   │   │   │   │   │   │   ├── SplashBitmap.bmp
+│   │   │   │   │   │   │   ├── autorun.inf
+│   │   │   │   │   │   │   ├── Data1.cab
+│   │   │   │   │   │   │   ├── setup.exe
+│   │   │   │   │   │   ├── CentOS
+│   │   │   │   │   │   │   ├── CentOS-6.4-x86_64-LiveDVD.iso
+│   │   │   │   │   │   │   ├── CentOS-6.8-x86_64-LiveCD.iso
+│   │   │   │   │   │   ├── Xmanager.Enterprise.5.0.0436.rar
+│   │   │   │   │   │   ├── rarlinux-x64-5.4.0.tar.gz
+│   │   │   │   │   │   ├── openmpi-1.8.8.tar.gz
+│   │   │   │   │   │   ├── vesta-3.3.8.tar.gz
+│   │   │   │   │   │   ├── VESTA.rar
+│   │   │   │   │   │   ├── Anaconda3-4.1.1-Linux-x86_64.sh
+│   │   │   │   │   │   ├── pseudo potential.rar
+│   │   │   │   │   │   ├── xcrysden-1.5.60.tar.gz
+│   │   │   │   │   │   ├── vtstcode.tgz
+│   │   │   │   │   │   ├── VASP52_stand_alone.rar
+│   │   │   │   │   │   ├── mvapich2-2.0.tar.gz
+│   │   │   │   │   │   ├── phonopy-1.9.7.tar.gz
+│   │   │   │   │   │   ├── xcrysden-1.5.60-linux_x86_64-semishared.tar.gz
+│   │   │   │   │   │   ├── vtst.png
+│   │   │   │   │   │   ├── phonopy-1.11.2.tar.gz
+│   │   │   │   │   │   ├── xcrysden-1.5.60-linux_x86_64-shared.tar.gz
+│   │   │   │   │   │   ├── Anaconda2-4.3.1-Linux-x86_64.sh
+│   │   │   │   │   │   ├── openmpi-1.8.8.tar.bz2
+│   │   │   │   │   │   ├── VESTA-win64.zip
+│   │   │   │   │   │   ├── vtstscripts.tgz
+│   │   │   │   │   ├── resources
+│   │   │   │   │   │   ├── 台湾大学资料
+│   │   │   │   │   │   │   ├── 3-bloch2.rar
+│   │   │   │   │   │   │   ├── 5-Surface.rar
+│   │   │   │   │   │   │   ├── 12-vasp2_exe.rar
+│   │   │   │   │   │   │   ├── 6-Surface2_exe.rar
+│   │   │   │   │   │   │   ├── 2-bloch1_exe.rar
+│   │   │   │   │   │   │   ├── 13-unix_exe.rar
+│   │   │   │   │   │   │   ├── 2-bloch1.rar
+│   │   │   │   │   │   │   ├── 7-STM-theory_exe.rar
+│   │   │   │   │   │   │   ├── 6-Surface2.rar
+│   │   │   │   │   │   │   ├── 4-LDA_exe.rar
+│   │   │   │   │   │   │   ├── 4-LDA.rar
+│   │   │   │   │   │   │   ├── 3-bloch2_exe.rar
+│   │   │   │   │   │   │   ├── 10-handon1.rar
+│   │   │   │   │   │   │   ├── 14-fortran_exe.rar
+│   │   │   │   │   │   │   ├── 8-normcon-pseudo_exe.rar
+│   │   │   │   │   │   │   ├── 13&14-unix.rar
+│   │   │   │   │   │   │   ├── 10-handon1_exe.rar
+│   │   │   │   │   │   │   ├── 11-vasp.rar
+│   │   │   │   │   │   │   ├── 11-vasp_exe.rar
+│   │   │   │   │   │   │   ├── 9-normcon-pseudo_exe.rar
+│   │   │   │   │   │   │   ├── 7-STM-theory.rar
+│   │   │   │   │   │   │   ├── 12-vasp2.rar
+│   │   │   │   │   │   │   ├── 1-Crystal-structure.rar
+│   │   │   │   │   │   │   ├── 8&9-Normcon-pseudo.rar
+│   │   │   │   │   │   ├── vasp-PPT
+│   │   │   │   │   │   │   ├── 6 VASP输入文件设置.pptx
+│   │   │   │   │   │   │   ├── 3 MS-基础1.pptx
+│   │   │   │   │   │   │   ├── 7 VASP计算流程.pptx
+│   │   │   │   │   │   │   ├── 4 linux-基础.pptx
+│   │   │   │   │   │   │   ├── 2 赝势.pptx
+│   │   │   │   │   │   │   ├── 8 VASP计算实例.pptx
+│   │   │   │   │   │   │   ├── 5 linux-软件安装.pptx
+│   │   │   │   │   │   │   ├── 3 MS-基础2.pptx
+│   │   │   │   │   │   │   ├── 1 计算化学基本原理.pptx
+│   │   │   │   │   │   ├── vasp_manual_chinese.pdf
+│   │   │   │   │   │   ├── vasp_manual_5.2.pdf
+│   │   │   │   │   │   ├── VASP SESSION Hands On Session I-IV.pdf
+│   │   │   │   │   │   ├── vasp_manual_2014.pdf
+│   │   │   │   │   │   ├── vasp-PPT.rar
+│   │   │   │   │   │   ├── VASP_manual_Dr_hou.pdf
+│   │   │   │   │   │   ├── gnuplot.pdf
+│   │   │   │   │   ├── basic software
+│   │   │   │   │   │   ├── arch.make
+│   │   │   │   │   │   ├── VASP.5.3-linux-intelmpi.tar.gz
+│   │   │   │   │   ├── Si.cif
+│   │   │   │   │   ├── soft.tar.gz
+│   │   │   │   │   ├── BP.vasp
+│   │   │   │   │   ├── work_example.tar.gz
+│   │   │   ├── VASP-pdf.zip
+│   │   ├── 掌柜录制视频-优先看
+│   │   │   ├── 如何计算自然电荷和电离势，亲和势
+│   │   │   │   ├── 最后算-1价的能量忘记改电荷和自旋多重度了，要改成-1  2  .mp4
+│   │   │   ├── 关于视频清晰度说明
+│   │   │   │   ├── 关于视频清晰度说明.txt
+│   │   │   ├── 激发态专栏
+│   │   │   │   ├── 紫外荧光.mp4
+│   │   │   │   ├── 激发态计算2-激发态计算泛函和如何计算代尔塔Est.mp4
+│   │   │   ├── 如何计算反应热，完整版
+│   │   │   │   ├── 部分3.mp4
+│   │   │   │   ├── 部分1.mp4
+│   │   │   │   ├── 部分2.mp4
+│   │   │   ├── 反应位点预测  fed加福井函数
+│   │   │   │   ├── 2.mp4
+│   │   │   │   ├── 1.mp4
+│   │   │   │   ├── 如何制作福井函数填色等值面图.mp4
+│   │   │   │   ├── 3.mp4
+│   │   │   ├── 安装视频
+│   │   │   │   ├── 安装视频.mp4
+│   │   │   │   ├── 安装视频补充.doc
+│   │   │   ├── 如何画合理配合物
+│   │   │   │   ├── 怎么画出合理的配合物.mp4
+│   │   │   │   ├── 配位.mp4
+│   │   │   ├── 如何将chk转成fchk，chk或者fchk的键型不对怎么办专题
+│   │   │   │   ├── 2.mp4
+│   │   │   │   ├── 1.mp4
+│   │   │   │   ├── 完整版本.mp4
+│   │   │   ├── 如何精确的计算H键
+│   │   │   │   ├── 派派
+│   │   │   │   │   ├── 派派2.mp4
+│   │   │   │   │   ├── 派派.mp4
+│   │   │   │   ├── 氢键+派派
+│   │   │   │   │   ├── 1.mp4
+│   │   │   │   ├── 视频1.mp4
+│   │   │   │   ├── 视频4.mp4
+│   │   │   │   ├── 视频2.mp4
+│   │   │   │   ├── 视频3.mp4
+│   │   │   │   ├── 视频5.mp4
+│   │   │   │   ├── 氢键.mp4
+│   │   │   ├── 键能
+│   │   │   │   ├── 键能(1).mp4
+│   │   │   │   ├── 键能.mp4
+│   │   │   ├── 遇到错误怎么办
+│   │   │   │   ├── 遇到错误视频2-遇到虚频怎么办.mp4
+│   │   │   │   ├── 遇到错误怎么办4，长时间计算不动怎么办.mp4
+│   │   │   │   ├── 错误视频5—长时间不结束2和原子计算过程中挤在一块.mp4
+│   │   │   │   ├── 常见错误1—遇到错误必看.mp4
+│   │   │   │   ├── 遇到错误怎么办3  内坐标和问号.mp4
+│   │   │   ├── 静电势图绘制
+│   │   │   │   ├── multiwfn+vmd绘制2.mp4
+│   │   │   │   ├── multiwfn+vmd绘制1.mp4
+│   │   │   │   ├── 如何快速制备esp图.mp4
+│   │   │   │   ├── multiwfn引用通知.docx
+│   │   │   ├── 如何续算
+│   │   │   │   ├── VID_20210616_162410.mp4
+│   │   │   ├── 过渡态视频
+│   │   │   │   ├── 重复science计算，记得添加掌柜b站关注，renlangfen
+│   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   ├── 10.mp4
+│   │   │   │   │   ├── 4.mp4
+│   │   │   │   │   ├── 5.mp4
+│   │   │   │   │   ├── 9.mp4
+│   │   │   │   │   ├── 8.mp4
+│   │   │   │   │   ├── 13.mp4
+│   │   │   │   │   ├── 14.mp4
+│   │   │   │   │   ├── 1.mp4
+│   │   │   │   │   ├── 9(1).mp4
+│   │   │   │   │   ├── 6.mp4
+│   │   │   │   │   ├── 12.mp4
+│   │   │   │   │   ├── 11.mp4
+│   │   │   │   │   ├── 7.mp4
+│   │   │   │   │   ├── 3.mp4
+│   │   │   │   ├── 有机反应机理
+│   │   │   │   │   ├── 5.mp4
+│   │   │   │   │   ├── 4.mp4
+│   │   │   │   │   ├── 3.mp4
+│   │   │   │   │   ├── 11.mp4
+│   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   ├── 6.mp4
+│   │   │   │   │   ├── 8.mp4
+│   │   │   │   │   ├── 9.mp4
+│   │   │   │   │   ├── 7.mp4
+│   │   │   │   │   ├── 10.mp4
+│   │   │   │   │   ├── 有机反应机理1.mp4
+│   │   │   │   ├── Au催化选择性问题
+│   │   │   │   │   ├── Au7.mp4
+│   │   │   │   │   ├── Au6.mp4
+│   │   │   │   │   ├── Au3.mp4
+│   │   │   │   │   ├── Au2.mp4
+│   │   │   │   │   ├── Au催化选择性体系-1.mp4
+│   │   │   │   │   ├── Au5.mp4
+│   │   │   │   │   ├── Au4.mp4
+│   │   │   │   ├── 金属催化体系-1.mp4
+│   │   │   │   ├── 如何找过渡态，一个例子.mp4
+│   │   │   │   ├── 如何训练找过渡态的感觉.mp4
+│   │   │   │   ├── 金属催化体系-2.mp4
+│   │   │   ├── 初学必看
+│   │   │   │   ├── 初学必看1，怎么用chemdraw和chem3d搭建结构.mp4
+│   │   │   │   ├── 初学必看4.mp4
+│   │   │   │   ├── 清晰度说明.docx
+│   │   │   │   ├── 初学必看2-2重录版本更清晰更详细.mp4
+│   │   │   │   ├── 初学必看2，快速交作业，掌柜录制.mp4
+│   │   │   ├── 能量统计和画出漂亮的能垒图.mp4
+│   │   │   ├── 如何查看轨道.mp4
+│   │   │   ├── 混合基组使用方法.mp4
+│   │   │   ├── linux系统怎么交作业.mp4
+│   │   │   ├── 溶剂.mp4
+│   │   │   ├── 怎么提高运算速度.mp4
+│   │   ├── 不成键修改器
+│   │   │   ├── 不成键修改器.zip
+│   │   ├── 基组1.pptx
+│   │   ├── 技巧1.pptx
+│   │   ├── 不收敛怎么办.ppt
+│   │   ├── 怎么消掉虚频.pptx
+│   │   ├── 几个问题.ppt
+│   │   ├── 极品高斯教程——量子化学计算方法.ppt
+│   │   ├── Gaussian16 User Manual_某翻译公司半人工半机翻注释版_已尽量去掉了其中的广告.pdf
+│   │   ├── g09ug.pdf
+│   │   ├── G16_User_Guide官网说明书离线版.pdf
+│   │   ├── 溶液中的计算.pptx
+│   │   ├── ExploringChemistrywithElectronicStru.pdf
+│   │   ├── GV6 Manual_GaussView6 官方说明书.pdf
+│   ├── Gaussian16
+│   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part1.rar
+│   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part2.rar
+│   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part3.rar
+│   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part4.rar
+│   ├── GaussView 5.0.9_win(GVS034548958280W-1113N).rar
+│   ├── gaosi09W-D01.rar
+├── chemdraw 20
+│   ├── Chemdraw V20.zip
+│   ├── ChemOffice2018(0).rar
+│   ├── chemdraw20安装教程.pdf
+│   ├── ChemDraw18crack.zip
+├── OriginPro 2020安装包
+│   ├── Origin 2020安装包.rar
+├── Aspen
+│   ├── Aspen Plus V11.zip
+├── mestrenova
+│   ├── 673494 mestrenova14_.rar
+├── Mathematica12
+│   ├── Keygen
+│   │   ├── mma11_2_keygen_64.exe
+│   │   ├── Readme.txt
+│   │   ├── mma11_2_keygen_32.exe
+│   ├── Setup
+│   │   ├── setup-1b.bin
+│   │   ├── setup-1a.bin
+│   │   ├── .InstallID
+│   │   ├── setup-1c.bin
+│   │   ├── localmeta.json
+│   │   ├── setup.exe
+├── 16KEQC
+│   ├── 部分GaussView建模演示
+│   │   ├── 平行位错苯二聚体 .mp4
+│   │   ├── 重要提示：本目录的视频不要外传！.txt
+│   │   ├── 建立ATP结构.mp4
+│   │   ├── 建立多巴胺分子.mp4
+│   │   ├── 利用自定义片段构建以下分子1.mp4
+│   │   ├── Ir4(CO)12.mp4
+│   │   ├── 建立Efavirenz.mp4
+│   │   ├── 利用自定义片段构建以下分子2.mp4
+│   │   ├── 建立Zirconocene dichloride.mp4
+│   │   ├── 建立TTF和TCNQ.mp4
+│   │   ├── 卟啉.mp4
+│   │   ├── 建立阿司匹林结构.mp4
+│   │   ├── 建立下面的体系.mp4
+│   │   ├── 利用点群工具以最少的步骤建立下面的体系2.mp4
+│   │   ├── 利用点群工具以最少的步骤建立下面的体系1（必须用gview5）.mp4
+│   ├── 计算化学相关书籍
+│   │   ├── Exploring Chemistry With Electronic Structure (2ed,Foresman,1996)
+│   │   │   ├── Exploring Chemistry With Electronic Structure 2ed-勘误1.jpg
+│   │   │   ├── Exploring Chemistry With Electronic Structure 2ed-勘误2.jpg
+│   │   │   ├── Exploring Chemistry With Electronic Structure Methods 2ed.pdf
+│   │   │   ├── 书中用到的文件.rar
+│   │   ├── Instructors Solutions Manual to Quantum Chemistry (Ira N. Levine,2014).pdf
+│   │   ├── Computational Chemistry-A Practical Guide for Applying Techniques to Real-World Problems (Young,2001).pdf
+│   │   ├── Essentials of Computational Chemistry-Theories and Models (2ed,Cramer,2004).pdf
+│   │   ├── Quantum Chemistry (7ed,Levine,2014).pdf
+│   │   ├── Density functional theory-A Practical Introduction (Sholl,2009).pdf
+│   │   ├── Chemical applications of group theory (3ed,Cotton F.A.,1990).djvu
+│   │   ├── A Chemist's Guide to Density Functional Theory (2ed,Koch,2001).pdf
+│   │   ├── Modern Quantum Chemistry (Szabo).djvu
+│   │   ├── Ideas of Quantum Chemistry 3ed Volume 1 - From Quantum Physics to Chemistry (Lucjan Piela,2020).pdf
+│   │   ├── Electronic Structure-Basic Theory and Practical Methods (Richard Martin,2004).djvu
+│   │   ├── Computational Organic Chemistry (2ed,Bachrach,2014).pdf
+│   │   ├── Ideas of Quantum Chemistry 3ed Volume 2 - Interactions (Lucjan Piela,2020).pdf
+│   │   ├── Molecular modelling Principles and applications (2ed,Leach,2001).pdf
+│   │   ├── Introduction to Computational Chemistry (3ed,Frank Jensen,2017).pdf
+│   │   ├── Handbook Of Computational Quantum Chemistry (Cook,1998).pdf
+│   │   ├── Molecular Electronic-Structure Theory (Helgaker).pdf
+│   │   ├── Molecular Modeling Basics (Jensen,2010).pdf
+│   │   ├── Computational Chemistry-Introduction to the Theory and Applications of Molecular and Quantum Mechanics (3ed,Lewars,2016).pdf
+│   ├── 16KEQC培训录音
+│   │   ├── day2 下午.mp3
+│   │   ├── day1 下午.mp3
+│   │   ├── day4 上午.mp3
+│   │   ├── day3 下午.mp3
+│   │   ├── day4 下午.mp3
+│   │   ├── day2 上午.mp3
+│   │   ├── day3 上午.mp3
+│   │   ├── day1 上午.mp3
+│   │   ├── 开始时可能有短暂的空白，请自行跳过.txt
+│   ├── Multiwfn_3.8_dev.pdf
+│   ├── Multiwfn_3.8_dev_bin_Win64.rar
+│   ├── file.rar
+│   ├── 补充材料.rar

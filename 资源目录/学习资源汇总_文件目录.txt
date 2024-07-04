@@ -1,0 +1,3955 @@
+
+├── 软件
+│   ├── Endnote x9.3.3
+│   │   ├── EndNote X9.3.3破解包.zip
+│   │   ├── EndNote X9.3.3 安装包.zip
+│   ├── Gaussian
+│   │   ├── gaussian+vasp
+│   │   │   ├── 高斯软件
+│   │   │   │   ├── 16
+│   │   │   │   │   ├── 64bit_win.zip
+│   │   │   │   │   ├── GV6_WIN-64.zip
+│   │   │   │   ├── 09
+│   │   │   │   │   ├── GaussView_v5.08.zip
+│   │   │   │   │   ├── gaosi09W-D01.rar
+│   │   │   ├── VASP-买高斯的不用管
+│   │   │   │   ├── VASP视屏易文才
+│   │   │   │   │   ├── kk 2018-08-05 23-38-57.mp4
+│   │   │   │   │   ├── kk 2018-08-05 22-24-24.mp4
+│   │   │   │   │   ├── 易文才.mp4
+│   │   │   │   │   ├── kk 2018-10-24 15-02-28.mp4
+│   │   │   │   │   ├── kk 2018-10-28 15-08-07.mp4
+│   │   │   │   │   ├── 易文才电荷局域分析.mp4
+│   │   │   │   │   ├── kk 2018-10-07 10-49-54.mp4
+│   │   │   │   │   ├── 第二讲及其附件 vasp的编译与安装.rar
+│   │   │   │   │   ├── 易文才视频8.mp4
+│   │   │   │   │   ├── 第三讲 VASP主要的输入和输出 - 副本.pdf
+│   │   │   │   │   ├── kk 2018-10-23 15-01-22.mp4
+│   │   │   │   │   ├── 易文才k点.mp4
+│   │   │   │   │   ├── 易文才1.mp4
+│   │   │   │   │   ├── kk 2018-10-06 22-43-13.mp4
+│   │   │   │   │   ├── vasp 吸附.mp4
+│   │   │   │   │   ├── (16min) 第10讲HSE06计算能带.mp4
+│   │   │   │   │   ├── k点测试易文才.mp4
+│   │   │   │   │   ├── 第七讲之二 电荷局域分析 附件 - 副本.rar
+│   │   │   │   │   ├── 易文才8.mp4
+│   │   │   │   │   ├── 易文才 (2).mp4
+│   │   │   │   │   ├── 截断能测试.mp4
+│   │   │   │   │   ├── kk 2018-10-06 23-58-12.mp4
+│   │   │   │   │   ├── ms建模
+│   │   │   │   │   ├── 第六讲附件 TSfile - 副本.rar
+│   │   │   │   │   ├── kk 2018-11-03 21-10-52.mp4
+│   │   │   │   │   ├── 模型搭建之二——通用建模.pdf
+│   │   │   │   │   ├── 第三讲 VASP主要的输入和输出.pdf
+│   │   │   │   │   ├── 第七讲 电荷差分与bader分析 附件.rar
+│   │   │   │   │   ├── 第四讲的全部测试文件.rar
+│   │   │   │   │   ├── kk 2018-10-07 00-14-21.mp4
+│   │   │   │   │   ├── ms建模2.mp4
+│   │   │   │   │   ├── kk 2018-10-07 00-17-48.mp4
+│   │   │   │   │   ├── 第二讲及其附件 vasp的编译与安装 - 副本.rar
+│   │   │   │   │   ├── 能带计算.mp4
+│   │   │   │   │   ├── kk 2018-10-23 17-43-41.mp4
+│   │   │   │   │   ├── 第一讲 VASP程序使用概述.pdf
+│   │   │   │   │   ├── kk 2018-08-04 08-43-36.mp4
+│   │   │   │   │   ├── yiwencai.mp4
+│   │   │   │   │   ├── 第六讲附件 TSfile.rar
+│   │   │   │   │   ├── 第一讲.mp4
+│   │   │   │   │   ├── ms建模.mp4
+│   │   │   │   │   ├── 太原理工大学--VASP--讲解.pdf
+│   │   │   │   │   ├── kk 2018-10-24 17-55-10.mp4
+│   │   │   │   │   ├── 易文才视频10.mp4
+│   │   │   │   │   ├── 易文才视频2.mp4
+│   │   │   │   │   ├── ms建模3.mp4
+│   │   │   │   │   ├── kk 2018-10-23 14-25-48.mp4
+│   │   │   │   │   ├── 第七讲 电荷差分与bader分析 附件 - 副本.rar
+│   │   │   │   │   ├── 苏长荣-vasp中文说明书.pdf
+│   │   │   │   │   ├── 易文才.rar
+│   │   │   │   │   ├── 第一讲附件内容.rar
+│   │   │   │   │   ├── MS初级入门视频—纳米管构建.mp4
+│   │   │   │   │   ├── 易文才视频6.mp4
+│   │   │   │   │   ├── 第七讲之二 电荷局域分析 附件.rar
+│   │   │   │   ├── VASP
+│   │   │   │   │   ├── VASP
+│   │   │   │   │   │   ├── software
+│   │   │   │   │   │   │   ├── origin
+│   │   │   │   │   │   │   │   ├── for crack
+│   │   │   │   │   │   │   │   │   ├── install_instructions.txt
+│   │   │   │   │   │   │   │   │   ├── ok9.dll
+│   │   │   │   │   │   │   │   │   ├── ok9_64.dll
+│   │   │   │   │   │   │   │   ├── ok9_64.dll
+│   │   │   │   │   │   │   │   ├── OriginInstaller_v9.0.x86.exe
+│   │   │   │   │   │   │   ├── p4vasp-0.3.29-win
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0007.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0014.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0022.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0003.tga
+│   │   │   │   │   │   │   │   ├── PARCHG1
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0016.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0005.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0023.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0013.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0017.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0021.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0020.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0011.tga
+│   │   │   │   │   │   │   │   ├── LICENSE
+│   │   │   │   │   │   │   │   ├── p4v.exe
+│   │   │   │   │   │   │   │   ├── PARCHG
+│   │   │   │   │   │   │   │   ├── README
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0019.tga
+│   │   │   │   │   │   │   │   ├── tmp.dat
+│   │   │   │   │   │   │   │   ├── vasprun.xml
+│   │   │   │   │   │   │   │   ├── p4vasp.log
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0002.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0015.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0006.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0009.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0010.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0004.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0001.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0012.tga
+│   │   │   │   │   │   │   │   ├── tmp1.dat
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0018.tga
+│   │   │   │   │   │   │   │   ├── p4vasp_STM_0008.tga
+│   │   │   │   │   │   │   ├── VM+OS
+│   │   │   │   │   │   │   │   ├── CentOS-6.5-x86_64-LiveCD.iso
+│   │   │   │   │   │   │   │   ├── vm.txt
+│   │   │   │   │   │   │   │   ├── VMware-workstation_full_12.1.1.6932.exe
+│   │   │   │   │   │   │   ├── MaterialsStudio60
+│   │   │   │   │   │   │   │   ├── License Pack
+│   │   │   │   │   │   │   │   │   ├── share
+│   │   │   │   │   │   │   │   │   │   ├── htmldoc
+│   │   │   │   │   │   │   │   │   │   │   ├── LicensePackDoc
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_flexlm-command-line-tools-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-diagnostics.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_dialog.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_restrict-server-administration.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_silent-installation-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-file-administration.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_ms40.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_environment-variables.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl_unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_license-administrator-windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_contents.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_select-a-license-server-machine_netconf-examples.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_fts.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_multiple-license-packs.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene15.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_non-accelrys-software-using-flexlm.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_accelrys-licensing.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_solaris.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_crs2-insii-quant_conf-dtls.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii-cat-cnx-chm-zdk.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_irix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-server-connections.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_node-locked.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_configuration-detail.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_install-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_install-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-connections.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_sla.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_flexlm-license-management-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_select-a-reliable-license-server.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_license-configuration.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_uninstall-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_toolbar.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_start-license-manager-at-system-startup.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene25-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_favs.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_itl_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_lpvrsns-compatible.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_index.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-administration.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2_view-license-usage.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-types.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy_unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_contacting-scientific-support.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility-table_web-version.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── assistant-manual.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_usng-help.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatible-products.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_stop-start-a-license-server.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_view-realtime-usage.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf_unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls_unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_install-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_how-do-i-read-the-license-manager-log-file.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_copy.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-cmd-line-usage-reporter.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_topic.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-wzrd-win-lnx-acc-lic-adm.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_floating.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_how-licensing-works.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_is-the-license-server-running.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_customize-usage-access.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-adm-win-lnx_lic-adm-help-pgs.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_license-administration-tasks.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_token.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_configure-the-lp-location.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_token-usage-for-parallel-processing.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_accelrys-advantage.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_view-server-status.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_ds15.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2_manual-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-usage-report.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-command-line-tools.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_archive_log.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_using-software-no-longer-supported-by-lp.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_can-comm-w-lic-svr.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utilities_accelrys-command-line-tools-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-offline-access.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_configuration-summary.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilf_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_vfy.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_additional-information.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_multiple-license-files.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-file-structure.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu_generating-historical-usage-data.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_more.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_per-user-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_mmlu.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_file-names-and-locations.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_create-license-server-alias.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_installation-on-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene15-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_platforms-os-supported.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_view-license-file-contents.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-expired-temporary-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_connection-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_error-table.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_automatic-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── welcome.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_mss_temp-lic-inst_ms-vis-auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_view-license-usage.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gcg_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_gene25.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_console-installation-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_use-lic-mgr-w-temp-lic.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_install-temp-instructions.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_install-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_ilp_install-on-unix-trbleshoot.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_c2-qnt-sbd_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redsvrmgt_select-redundant-servers.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst_platforms-linux-os-supported.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_sls_windows-linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_temporary.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-test.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_license-server-usage-send.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_select-a-license-server-machine.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_gst.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_qref_faq.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_new.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_reread-a-license-file.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_standard-setup-products.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_aad_remove-a-license-file.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_monitor-license-usage-with-a-unix-cron-job.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg_install-a-temporary-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_iii_manual-license-release.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_usage-report-options.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_backward-compatibility-table.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_license-file-contents_auto-trial.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_gas_training.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_lgg.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_lfd_flexible-token-library-licenses.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_spcn_firewall-configuration.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_request-license.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── usng_gth_shortcut.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_adm_rlf_system-information-commands_linux.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_psc_dschemistry.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_aim_uninstall-on-unix.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_trbl_is-the-license-file-installed-and-valid.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_wait-functionality.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_mls_pud_redundant-server-management_connection-windows.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── lipk_sup_utils_lic-adm-win-lnx-acc-lic-adm.html
+│   │   │   │   │   │   │   │   │   │   │   │   ├── dl_auto-trial-licensing.html
+│   │   │   │   │   │   │   │   │   │   │   ├── styles
+│   │   │   │   │   │   │   │   │   │   │   │   ├── stylesheet.css
+│   │   │   │   │   │   │   │   │   │   │   ├── images
+│   │   │   │   │   │   │   │   │   │   │   │   ├── example1.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── tip.gif
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_next.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── WindowsServer.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── UNIX-network-install.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── InstallationUNIX.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── LicenseTerminologyDiagram.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── warn.gif
+│   │   │   │   │   │   │   │   │   │   │   │   ├── InstallationUNIX-NFS.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── example2.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── UNIXServer2.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sbclose.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_zoomin.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── UNIXServer.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_undock.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── example3.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── server-detail.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-1.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_whats.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-2.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_home.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_find.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── license-test.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_closepage.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_copy.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sbdock.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_print.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── LicenseRequestProcess.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_zoomout.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── ext_link.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_sync.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_prev.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── btn_help_addpage.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── license-server-scenario-3.png
+│   │   │   │   │   │   │   │   │   │   │   │   ├── edit.png
+│   │   │   │   │   │   │   │   │   ├── lp_setup.exe
+│   │   │   │   │   │   │   │   │   ├── LicensePack.html
+│   │   │   │   │   │   │   │   ├── Info
+│   │   │   │   │   │   │   │   │   ├── Graphics
+│   │   │   │   │   │   │   │   │   │   ├── ext_link.gif
+│   │   │   │   │   │   │   │   │   │   ├── GW_remote_edit.png
+│   │   │   │   │   │   │   │   │   │   ├── cs_web_page.png
+│   │   │   │   │   │   │   │   │   │   ├── GW_remote.png
+│   │   │   │   │   │   │   │   │   ├── installation_info.htm
+│   │   │   │   │   │   │   │   │   ├── auto_trial.htm
+│   │   │   │   │   │   │   │   │   ├── installation_info_queue.htm
+│   │   │   │   │   │   │   │   │   ├── GWSec_UserAuthentication.htm
+│   │   │   │   │   │   │   │   │   ├── licensing_doc.htm
+│   │   │   │   │   │   │   │   │   ├── system_requirements_info.htm
+│   │   │   │   │   │   │   │   │   ├── GWSec_Transport.htm
+│   │   │   │   │   │   │   │   │   ├── using_lic_admin_tool.htm
+│   │   │   │   │   │   │   │   │   ├── installation_info_remove.htm
+│   │   │   │   │   │   │   │   │   ├── GatewayData.htm
+│   │   │   │   │   │   │   │   │   ├── Stylesheet.css
+│   │   │   │   │   │   │   │   │   ├── licensing_UNIX.htm
+│   │   │   │   │   │   │   │   │   ├── installation_info_Win.htm
+│   │   │   │   │   │   │   │   │   ├── licensing_Win.htm
+│   │   │   │   │   │   │   │   │   ├── Support.fm.htm
+│   │   │   │   │   │   │   │   │   ├── GatewayConfigure.htm
+│   │   │   │   │   │   │   │   │   ├── install_temp.htm
+│   │   │   │   │   │   │   │   │   ├── system_info.htm
+│   │   │   │   │   │   │   │   │   ├── license_info.htm
+│   │   │   │   │   │   │   │   │   ├── GatewaySecurity_info.htm
+│   │   │   │   │   │   │   │   │   ├── license_features.htm
+│   │   │   │   │   │   │   │   │   ├── GWSec_AccessControl.htm
+│   │   │   │   │   │   │   │   │   ├── GatewayAdministration_info.htm
+│   │   │   │   │   │   │   │   │   ├── tskSMC_GW_Reg.htm
+│   │   │   │   │   │   │   │   │   ├── installation_info_UNIX.htm
+│   │   │   │   │   │   │   │   │   ├── GWSec_Administration.htm
+│   │   │   │   │   │   │   │   │   ├── GatewayQueue.htm
+│   │   │   │   │   │   │   │   ├── Legal
+│   │   │   │   │   │   │   │   │   ├── perl.txt
+│   │   │   │   │   │   │   │   │   ├── WinCE.txt
+│   │   │   │   │   │   │   │   │   ├── xpcom.txt
+│   │   │   │   │   │   │   │   │   ├── gunzip.txt
+│   │   │   │   │   │   │   │   │   ├── python.txt
+│   │   │   │   │   │   │   │   │   ├── numpy.txt
+│   │   │   │   │   │   │   │   ├── Accelrys Materials Studio 6.0 (x64 Server).msi
+│   │   │   │   │   │   │   │   ├── Accelrys Materials Studio Gateway Service (i686).msi
+│   │   │   │   │   │   │   │   ├── README_Materials_Studio.htm
+│   │   │   │   │   │   │   │   ├── Accelrys Materials Studio 6.0.msi
+│   │   │   │   │   │   │   │   ├── Container.ico
+│   │   │   │   │   │   │   │   ├── Autorun.exe
+│   │   │   │   │   │   │   │   ├── msi.lic
+│   │   │   │   │   │   │   │   ├── Accelrys Materials Studio Gateway Service (x64).msi
+│   │   │   │   │   │   │   │   ├── SplashBitmap.bmp
+│   │   │   │   │   │   │   │   ├── autorun.inf
+│   │   │   │   │   │   │   │   ├── Data1.cab
+│   │   │   │   │   │   │   │   ├── setup.exe
+│   │   │   │   │   │   │   ├── CentOS
+│   │   │   │   │   │   │   │   ├── CentOS-6.4-x86_64-LiveDVD.iso
+│   │   │   │   │   │   │   │   ├── CentOS-6.8-x86_64-LiveCD.iso
+│   │   │   │   │   │   │   ├── Xmanager.Enterprise.5.0.0436.rar
+│   │   │   │   │   │   │   ├── rarlinux-x64-5.4.0.tar.gz
+│   │   │   │   │   │   │   ├── openmpi-1.8.8.tar.gz
+│   │   │   │   │   │   │   ├── vesta-3.3.8.tar.gz
+│   │   │   │   │   │   │   ├── VESTA.rar
+│   │   │   │   │   │   │   ├── Anaconda3-4.1.1-Linux-x86_64.sh
+│   │   │   │   │   │   │   ├── pseudo potential.rar
+│   │   │   │   │   │   │   ├── xcrysden-1.5.60.tar.gz
+│   │   │   │   │   │   │   ├── vtstcode.tgz
+│   │   │   │   │   │   │   ├── VASP52_stand_alone.rar
+│   │   │   │   │   │   │   ├── mvapich2-2.0.tar.gz
+│   │   │   │   │   │   │   ├── phonopy-1.9.7.tar.gz
+│   │   │   │   │   │   │   ├── xcrysden-1.5.60-linux_x86_64-semishared.tar.gz
+│   │   │   │   │   │   │   ├── vtst.png
+│   │   │   │   │   │   │   ├── phonopy-1.11.2.tar.gz
+│   │   │   │   │   │   │   ├── xcrysden-1.5.60-linux_x86_64-shared.tar.gz
+│   │   │   │   │   │   │   ├── Anaconda2-4.3.1-Linux-x86_64.sh
+│   │   │   │   │   │   │   ├── openmpi-1.8.8.tar.bz2
+│   │   │   │   │   │   │   ├── VESTA-win64.zip
+│   │   │   │   │   │   │   ├── vtstscripts.tgz
+│   │   │   │   │   │   ├── resources
+│   │   │   │   │   │   │   ├── 台湾大学资料
+│   │   │   │   │   │   │   │   ├── 3-bloch2.rar
+│   │   │   │   │   │   │   │   ├── 5-Surface.rar
+│   │   │   │   │   │   │   │   ├── 12-vasp2_exe.rar
+│   │   │   │   │   │   │   │   ├── 6-Surface2_exe.rar
+│   │   │   │   │   │   │   │   ├── 2-bloch1_exe.rar
+│   │   │   │   │   │   │   │   ├── 13-unix_exe.rar
+│   │   │   │   │   │   │   │   ├── 2-bloch1.rar
+│   │   │   │   │   │   │   │   ├── 7-STM-theory_exe.rar
+│   │   │   │   │   │   │   │   ├── 6-Surface2.rar
+│   │   │   │   │   │   │   │   ├── 4-LDA_exe.rar
+│   │   │   │   │   │   │   │   ├── 4-LDA.rar
+│   │   │   │   │   │   │   │   ├── 3-bloch2_exe.rar
+│   │   │   │   │   │   │   │   ├── 10-handon1.rar
+│   │   │   │   │   │   │   │   ├── 14-fortran_exe.rar
+│   │   │   │   │   │   │   │   ├── 8-normcon-pseudo_exe.rar
+│   │   │   │   │   │   │   │   ├── 13&14-unix.rar
+│   │   │   │   │   │   │   │   ├── 10-handon1_exe.rar
+│   │   │   │   │   │   │   │   ├── 11-vasp.rar
+│   │   │   │   │   │   │   │   ├── 11-vasp_exe.rar
+│   │   │   │   │   │   │   │   ├── 9-normcon-pseudo_exe.rar
+│   │   │   │   │   │   │   │   ├── 7-STM-theory.rar
+│   │   │   │   │   │   │   │   ├── 12-vasp2.rar
+│   │   │   │   │   │   │   │   ├── 1-Crystal-structure.rar
+│   │   │   │   │   │   │   │   ├── 8&9-Normcon-pseudo.rar
+│   │   │   │   │   │   │   ├── vasp-PPT
+│   │   │   │   │   │   │   │   ├── 6 VASP输入文件设置.pptx
+│   │   │   │   │   │   │   │   ├── 3 MS-基础1.pptx
+│   │   │   │   │   │   │   │   ├── 7 VASP计算流程.pptx
+│   │   │   │   │   │   │   │   ├── 4 linux-基础.pptx
+│   │   │   │   │   │   │   │   ├── 2 赝势.pptx
+│   │   │   │   │   │   │   │   ├── 8 VASP计算实例.pptx
+│   │   │   │   │   │   │   │   ├── 5 linux-软件安装.pptx
+│   │   │   │   │   │   │   │   ├── 3 MS-基础2.pptx
+│   │   │   │   │   │   │   │   ├── 1 计算化学基本原理.pptx
+│   │   │   │   │   │   │   ├── vasp_manual_chinese.pdf
+│   │   │   │   │   │   │   ├── vasp_manual_5.2.pdf
+│   │   │   │   │   │   │   ├── VASP SESSION Hands On Session I-IV.pdf
+│   │   │   │   │   │   │   ├── vasp_manual_2014.pdf
+│   │   │   │   │   │   │   ├── vasp-PPT.rar
+│   │   │   │   │   │   │   ├── VASP_manual_Dr_hou.pdf
+│   │   │   │   │   │   │   ├── gnuplot.pdf
+│   │   │   │   │   │   ├── basic software
+│   │   │   │   │   │   │   ├── arch.make
+│   │   │   │   │   │   │   ├── VASP.5.3-linux-intelmpi.tar.gz
+│   │   │   │   │   │   ├── Si.cif
+│   │   │   │   │   │   ├── soft.tar.gz
+│   │   │   │   │   │   ├── BP.vasp
+│   │   │   │   │   │   ├── work_example.tar.gz
+│   │   │   │   ├── VASP-pdf.zip
+│   │   │   ├── 掌柜录制视频-优先看
+│   │   │   │   ├── 如何计算自然电荷和电离势，亲和势
+│   │   │   │   │   ├── 最后算-1价的能量忘记改电荷和自旋多重度了，要改成-1  2  .mp4
+│   │   │   │   ├── 关于视频清晰度说明
+│   │   │   │   │   ├── 关于视频清晰度说明.txt
+│   │   │   │   ├── 激发态专栏
+│   │   │   │   │   ├── 紫外荧光.mp4
+│   │   │   │   │   ├── 激发态计算2-激发态计算泛函和如何计算代尔塔Est.mp4
+│   │   │   │   ├── 如何计算反应热，完整版
+│   │   │   │   │   ├── 部分3.mp4
+│   │   │   │   │   ├── 部分1.mp4
+│   │   │   │   │   ├── 部分2.mp4
+│   │   │   │   ├── 反应位点预测  fed加福井函数
+│   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   ├── 1.mp4
+│   │   │   │   │   ├── 如何制作福井函数填色等值面图.mp4
+│   │   │   │   │   ├── 3.mp4
+│   │   │   │   ├── 安装视频
+│   │   │   │   │   ├── 安装视频.mp4
+│   │   │   │   │   ├── 安装视频补充.doc
+│   │   │   │   ├── 如何画合理配合物
+│   │   │   │   │   ├── 怎么画出合理的配合物.mp4
+│   │   │   │   │   ├── 配位.mp4
+│   │   │   │   ├── 如何将chk转成fchk，chk或者fchk的键型不对怎么办专题
+│   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   ├── 1.mp4
+│   │   │   │   │   ├── 完整版本.mp4
+│   │   │   │   ├── 如何精确的计算H键
+│   │   │   │   │   ├── 派派
+│   │   │   │   │   │   ├── 派派2.mp4
+│   │   │   │   │   │   ├── 派派.mp4
+│   │   │   │   │   ├── 氢键+派派
+│   │   │   │   │   │   ├── 1.mp4
+│   │   │   │   │   ├── 视频1.mp4
+│   │   │   │   │   ├── 视频4.mp4
+│   │   │   │   │   ├── 视频2.mp4
+│   │   │   │   │   ├── 视频3.mp4
+│   │   │   │   │   ├── 视频5.mp4
+│   │   │   │   │   ├── 氢键.mp4
+│   │   │   │   ├── 键能
+│   │   │   │   │   ├── 键能(1).mp4
+│   │   │   │   │   ├── 键能.mp4
+│   │   │   │   ├── 遇到错误怎么办
+│   │   │   │   │   ├── 遇到错误视频2-遇到虚频怎么办.mp4
+│   │   │   │   │   ├── 遇到错误怎么办4，长时间计算不动怎么办.mp4
+│   │   │   │   │   ├── 错误视频5—长时间不结束2和原子计算过程中挤在一块.mp4
+│   │   │   │   │   ├── 常见错误1—遇到错误必看.mp4
+│   │   │   │   │   ├── 遇到错误怎么办3  内坐标和问号.mp4
+│   │   │   │   ├── 静电势图绘制
+│   │   │   │   │   ├── multiwfn+vmd绘制2.mp4
+│   │   │   │   │   ├── multiwfn+vmd绘制1.mp4
+│   │   │   │   │   ├── 如何快速制备esp图.mp4
+│   │   │   │   │   ├── multiwfn引用通知.docx
+│   │   │   │   ├── 如何续算
+│   │   │   │   │   ├── VID_20210616_162410.mp4
+│   │   │   │   ├── 过渡态视频
+│   │   │   │   │   ├── 重复science计算，记得添加掌柜b站关注，renlangfen
+│   │   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   │   ├── 10.mp4
+│   │   │   │   │   │   ├── 4.mp4
+│   │   │   │   │   │   ├── 5.mp4
+│   │   │   │   │   │   ├── 9.mp4
+│   │   │   │   │   │   ├── 8.mp4
+│   │   │   │   │   │   ├── 13.mp4
+│   │   │   │   │   │   ├── 14.mp4
+│   │   │   │   │   │   ├── 1.mp4
+│   │   │   │   │   │   ├── 9(1).mp4
+│   │   │   │   │   │   ├── 6.mp4
+│   │   │   │   │   │   ├── 12.mp4
+│   │   │   │   │   │   ├── 11.mp4
+│   │   │   │   │   │   ├── 7.mp4
+│   │   │   │   │   │   ├── 3.mp4
+│   │   │   │   │   ├── 有机反应机理
+│   │   │   │   │   │   ├── 5.mp4
+│   │   │   │   │   │   ├── 4.mp4
+│   │   │   │   │   │   ├── 3.mp4
+│   │   │   │   │   │   ├── 11.mp4
+│   │   │   │   │   │   ├── 2.mp4
+│   │   │   │   │   │   ├── 6.mp4
+│   │   │   │   │   │   ├── 8.mp4
+│   │   │   │   │   │   ├── 9.mp4
+│   │   │   │   │   │   ├── 7.mp4
+│   │   │   │   │   │   ├── 10.mp4
+│   │   │   │   │   │   ├── 有机反应机理1.mp4
+│   │   │   │   │   ├── Au催化选择性问题
+│   │   │   │   │   │   ├── Au7.mp4
+│   │   │   │   │   │   ├── Au6.mp4
+│   │   │   │   │   │   ├── Au3.mp4
+│   │   │   │   │   │   ├── Au2.mp4
+│   │   │   │   │   │   ├── Au催化选择性体系-1.mp4
+│   │   │   │   │   │   ├── Au5.mp4
+│   │   │   │   │   │   ├── Au4.mp4
+│   │   │   │   │   ├── 金属催化体系-1.mp4
+│   │   │   │   │   ├── 如何找过渡态，一个例子.mp4
+│   │   │   │   │   ├── 如何训练找过渡态的感觉.mp4
+│   │   │   │   │   ├── 金属催化体系-2.mp4
+│   │   │   │   ├── 初学必看
+│   │   │   │   │   ├── 初学必看1，怎么用chemdraw和chem3d搭建结构.mp4
+│   │   │   │   │   ├── 初学必看4.mp4
+│   │   │   │   │   ├── 清晰度说明.docx
+│   │   │   │   │   ├── 初学必看2-2重录版本更清晰更详细.mp4
+│   │   │   │   │   ├── 初学必看2，快速交作业，掌柜录制.mp4
+│   │   │   │   ├── 能量统计和画出漂亮的能垒图.mp4
+│   │   │   │   ├── 如何查看轨道.mp4
+│   │   │   │   ├── 混合基组使用方法.mp4
+│   │   │   │   ├── linux系统怎么交作业.mp4
+│   │   │   │   ├── 溶剂.mp4
+│   │   │   │   ├── 怎么提高运算速度.mp4
+│   │   │   ├── 不成键修改器
+│   │   │   │   ├── 不成键修改器.zip
+│   │   │   ├── 基组1.pptx
+│   │   │   ├── 技巧1.pptx
+│   │   │   ├── 不收敛怎么办.ppt
+│   │   │   ├── 怎么消掉虚频.pptx
+│   │   │   ├── 几个问题.ppt
+│   │   │   ├── 极品高斯教程——量子化学计算方法.ppt
+│   │   │   ├── Gaussian16 User Manual_某翻译公司半人工半机翻注释版_已尽量去掉了其中的广告.pdf
+│   │   │   ├── g09ug.pdf
+│   │   │   ├── G16_User_Guide官网说明书离线版.pdf
+│   │   │   ├── 溶液中的计算.pptx
+│   │   │   ├── ExploringChemistrywithElectronicStru.pdf
+│   │   │   ├── GV6 Manual_GaussView6 官方说明书.pdf
+│   │   ├── Gaussian16
+│   │   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part1.rar
+│   │   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part2.rar
+│   │   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part3.rar
+│   │   │   ├── Gaussian 16 Rev. A.03 ES64L Linux x64.part4.rar
+│   │   ├── GaussView 5.0.9_win(GVS034548958280W-1113N).rar
+│   │   ├── gaosi09W-D01.rar
+│   ├── chemdraw 20
+│   │   ├── Chemdraw V20.zip
+│   │   ├── ChemOffice2018(0).rar
+│   │   ├── chemdraw20安装教程.pdf
+│   │   ├── ChemDraw18crack.zip
+│   ├── OriginPro 2020安装包
+│   │   ├── Origin 2020安装包.rar
+│   ├── Aspen
+│   │   ├── Aspen Plus V11.zip
+│   ├── mestrenova
+│   │   ├── 673494 mestrenova14_.rar
+│   ├── Mathematica12
+│   │   ├── Keygen
+│   │   │   ├── mma11_2_keygen_64.exe
+│   │   │   ├── Readme.txt
+│   │   │   ├── mma11_2_keygen_32.exe
+│   │   ├── Setup
+│   │   │   ├── setup-1b.bin
+│   │   │   ├── setup-1a.bin
+│   │   │   ├── .InstallID
+│   │   │   ├── setup-1c.bin
+│   │   │   ├── localmeta.json
+│   │   │   ├── setup.exe
+│   ├── 16KEQC
+│   │   ├── 部分GaussView建模演示
+│   │   │   ├── 平行位错苯二聚体 .mp4
+│   │   │   ├── 重要提示：本目录的视频不要外传！.txt
+│   │   │   ├── 建立ATP结构.mp4
+│   │   │   ├── 建立多巴胺分子.mp4
+│   │   │   ├── 利用自定义片段构建以下分子1.mp4
+│   │   │   ├── Ir4(CO)12.mp4
+│   │   │   ├── 建立Efavirenz.mp4
+│   │   │   ├── 利用自定义片段构建以下分子2.mp4
+│   │   │   ├── 建立Zirconocene dichloride.mp4
+│   │   │   ├── 建立TTF和TCNQ.mp4
+│   │   │   ├── 卟啉.mp4
+│   │   │   ├── 建立阿司匹林结构.mp4
+│   │   │   ├── 建立下面的体系.mp4
+│   │   │   ├── 利用点群工具以最少的步骤建立下面的体系2.mp4
+│   │   │   ├── 利用点群工具以最少的步骤建立下面的体系1（必须用gview5）.mp4
+│   │   ├── 计算化学相关书籍
+│   │   │   ├── Exploring Chemistry With Electronic Structure (2ed,Foresman,1996)
+│   │   │   │   ├── Exploring Chemistry With Electronic Structure 2ed-勘误1.jpg
+│   │   │   │   ├── Exploring Chemistry With Electronic Structure 2ed-勘误2.jpg
+│   │   │   │   ├── Exploring Chemistry With Electronic Structure Methods 2ed.pdf
+│   │   │   │   ├── 书中用到的文件.rar
+│   │   │   ├── Instructors Solutions Manual to Quantum Chemistry (Ira N. Levine,2014).pdf
+│   │   │   ├── Computational Chemistry-A Practical Guide for Applying Techniques to Real-World Problems (Young,2001).pdf
+│   │   │   ├── Essentials of Computational Chemistry-Theories and Models (2ed,Cramer,2004).pdf
+│   │   │   ├── Quantum Chemistry (7ed,Levine,2014).pdf
+│   │   │   ├── Density functional theory-A Practical Introduction (Sholl,2009).pdf
+│   │   │   ├── Chemical applications of group theory (3ed,Cotton F.A.,1990).djvu
+│   │   │   ├── A Chemist's Guide to Density Functional Theory (2ed,Koch,2001).pdf
+│   │   │   ├── Modern Quantum Chemistry (Szabo).djvu
+│   │   │   ├── Ideas of Quantum Chemistry 3ed Volume 1 - From Quantum Physics to Chemistry (Lucjan Piela,2020).pdf
+│   │   │   ├── Electronic Structure-Basic Theory and Practical Methods (Richard Martin,2004).djvu
+│   │   │   ├── Computational Organic Chemistry (2ed,Bachrach,2014).pdf
+│   │   │   ├── Ideas of Quantum Chemistry 3ed Volume 2 - Interactions (Lucjan Piela,2020).pdf
+│   │   │   ├── Molecular modelling Principles and applications (2ed,Leach,2001).pdf
+│   │   │   ├── Introduction to Computational Chemistry (3ed,Frank Jensen,2017).pdf
+│   │   │   ├── Handbook Of Computational Quantum Chemistry (Cook,1998).pdf
+│   │   │   ├── Molecular Electronic-Structure Theory (Helgaker).pdf
+│   │   │   ├── Molecular Modeling Basics (Jensen,2010).pdf
+│   │   │   ├── Computational Chemistry-Introduction to the Theory and Applications of Molecular and Quantum Mechanics (3ed,Lewars,2016).pdf
+│   │   ├── 16KEQC培训录音
+│   │   │   ├── day2 下午.mp3
+│   │   │   ├── day1 下午.mp3
+│   │   │   ├── day4 上午.mp3
+│   │   │   ├── day3 下午.mp3
+│   │   │   ├── day4 下午.mp3
+│   │   │   ├── day2 上午.mp3
+│   │   │   ├── day3 上午.mp3
+│   │   │   ├── day1 上午.mp3
+│   │   │   ├── 开始时可能有短暂的空白，请自行跳过.txt
+│   │   ├── Multiwfn_3.8_dev.pdf
+│   │   ├── Multiwfn_3.8_dev_bin_Win64.rar
+│   │   ├── file.rar
+│   │   ├── 补充材料.rar
+├── 课程资源——PPT和回忆卷
+│   ├── 系内
+│   │   ├── 有机化学（王彦广）
+│   │   │   ├── 有机化学I
+│   │   │   │   ├── 历年卷
+│   │   │   │   │   ├── 有机化学I试题A卷-2019.pdf
+│   │   │   │   │   ├── 有机化学I试题A卷-参考答案2019.docx
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 第4章 碳碳重键的加成反应.pdf
+│   │   │   │   │   ├── 第1章 有机结构理论基础.pdf
+│   │   │   │   │   ├── 第3章 对映异构.pdf
+│   │   │   │   │   ├── 第5章 自由基反应.pdf
+│   │   │   │   │   ├── 第6章 芳香烃.pdf
+│   │   │   │   │   ├── 第2章 脂肪烃和脂环烃.pdf
+│   │   │   │   │   ├── 有机问题分析思路——效应.pdf
+│   │   │   ├── 有机化学III
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 第18章 过渡金属催化的反应.pdf
+│   │   │   │   │   ├── 第12章 羰基alpha-碳上的反应.pdf
+│   │   │   │   │   ├── 第15章 糖水化合物.pdf
+│   │   │   │   │   ├── 第16章 氨基酸蛋白质及核酸.pdf
+│   │   │   │   │   ├── 中级有机化学教材 第8章 过渡金属催化的反应.pdf
+│   │   │   │   │   ├── 第13章 胺及其衍生物.pdf
+│   │   │   │   │   ├── 第17章 周环反应.pdf
+│   │   │   │   │   ├── 第14章 杂环化合物.pdf
+│   │   │   │   │   ├── 第20章 逆合成分析法简介.pdf
+│   │   │   │   ├── 历年卷
+│   │   │   │   │   ├── 2018-2019春有机化学III期终试题及参考答案.pdf
+│   │   │   │   │   ├── 有机化学III试题A卷-参考答案.pdf
+│   │   │   │   │   ├── 有机化学III试题A卷.pdf
+│   │   │   ├── 有机化学II
+│   │   │   │   ├── 历年卷
+│   │   │   │   │   ├── 2020-2021有机化学II试题-A卷-参考答案.docx
+│   │   │   │   │   ├── 有机化学II-课堂测验1-参考答案.docx
+│   │   │   │   │   ├── 有机化学II-课堂测验2-参考答案.docx
+│   │   │   │   │   ├── 2017-2019有机化学II试题.pdf
+│   │   │   │   │   ├── 2019-2020冬有机化学II试题.pdf
+│   │   │   │   │   ├── 有机化学II-课堂测验2.docx
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 习题课-2.pdf
+│   │   │   │   │   ├── 第9章 醇酚醚.pdf
+│   │   │   │   │   ├── 习题课-1.pdf
+│   │   │   │   │   ├── 第11章 羧酸及其衍生物.pdf
+│   │   │   │   │   ├── 第8章 卤代烃 亲核取代 消除反应.pdf
+│   │   │   │   │   ├── 第7章 波谱分析基础.pdf
+│   │   │   │   │   ├── 第10章 醛和酮.pdf
+│   │   ├── 波谱分析（潘远江）
+│   │   │   ├── 题目
+│   │   │   │   ├── IMG_4453.JPG
+│   │   │   │   ├── IMG_4457.JPG
+│   │   │   │   ├── IMG_4449.JPG
+│   │   │   │   ├── IMG_4454.JPG
+│   │   │   │   ├── IMG_4450.JPG
+│   │   │   │   ├── IMG_4455.JPG
+│   │   │   │   ├── IMG_4459.JPG
+│   │   │   │   ├── IMG_4458.JPG
+│   │   │   │   ├── IMG_4452.JPG
+│   │   │   │   ├── IMG_4456.JPG
+│   │   │   ├── 质谱-2020-3.ppt
+│   │   │   ├── 波谱分析-本科-2020-1.ppt
+│   │   │   ├── 质谱-2020-4.ppt
+│   │   │   ├── 质谱-2020-2.ppt
+│   │   │   ├── 质谱-2020-1.ppt
+│   │   │   ├── 波谱分析-本科-2020-3.ppt
+│   │   │   ├── 波谱分析-本科-2020-2.ppt
+│   │   ├── 结构与谱学（王林军 孔学谦）
+│   │   │   ├── 结构与谱学III 孔学谦
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 4. [结构和谱学III] 光学元件和激光原理 孔学谦.pdf
+│   │   │   │   │   ├── 3. [结构和谱学III] 荧光光谱 孔学谦.pdf
+│   │   │   │   │   ├── 7. [结构和谱学 III] 分子轨道对称性 孔学谦.pdf
+│   │   │   │   │   ├── 2. [结构和谱学III] 分子电子光谱 孔学谦.pdf
+│   │   │   │   │   ├── 5. [结构和谱学III] 分子对称性 孔学谦.pdf
+│   │   │   │   │   ├── 6. [结构和谱学III] 对称操作矩阵 孔学谦.pdf
+│   │   │   │   │   ├── 1. [结构和谱学III] X射线光谱 孔学谦.pdf
+│   │   │   │   │   ├── 8. [结构和谱学 III] 晶格和晶胞 孔学谦.pdf
+│   │   │   │   │   ├── 10. [结构和谱学 III] X射线衍射原理 孔学谦.pdf
+│   │   │   │   │   ├── 9. [结构和谱学 III] 晶体对称性 孔学谦.pdf
+│   │   │   │   ├── 作业及答案
+│   │   │   │   │   ├── 第3次作业答案.pdf
+│   │   │   │   │   ├── 第5次作业答案.pdf
+│   │   │   │   │   ├── 第1次作业答案.pdf
+│   │   │   │   │   ├── 第6次作业答案.pdf
+│   │   │   │   │   ├── 第2次作业答案.pdf
+│   │   │   │   │   ├── 第4次作业答案.pdf
+│   │   │   ├── 结构与谱学II 孔学谦
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 10. [结构和谱学II] 拉曼光谱 -孔学谦.pdf
+│   │   │   │   │   ├── 4. [结构和谱学II] 核磁信号处理 -孔学谦.pdf
+│   │   │   │   │   ├── 8. [结构和谱学II] 转动光谱 -孔学谦.pdf
+│   │   │   │   │   ├── 6. [结构和谱学II] 核磁弛豫和成像 -孔学谦.pdf
+│   │   │   │   │   ├── 3. [结构和谱学II] 核磁量力原理 -孔学谦.pdf
+│   │   │   │   │   ├── 5. [结构和谱学II] 核磁相互作用 -孔学谦.pdf
+│   │   │   │   │   ├── 7. [结构和谱学II] 电子顺磁共振 -孔学谦.pdf
+│   │   │   │   │   ├── 1. [结构和谱学II] 光谱学简介-孔学谦.pdf
+│   │   │   │   │   ├── 11. [结构和谱学II] 原子光谱 -孔学谦.pdf
+│   │   │   │   │   ├── 9. [结构和谱学II] 分子振动和红外光谱 -孔学谦.pdf
+│   │   │   │   │   ├── 2. [结构和谱学II] 核自旋和塞曼作用 -孔学谦.pdf
+│   │   │   │   ├── 作业及答案
+│   │   │   │   │   ├── 第2次作业答案.pdf
+│   │   │   │   │   ├── 第3次作业答案.pdf
+│   │   │   │   │   ├── 第6次作业答案.pdf
+│   │   │   │   │   ├── Q&A.pdf
+│   │   │   │   │   ├── 第1次作业答案.pdf
+│   │   │   │   │   ├── 第4次作业答案.pdf
+│   │   │   │   │   ├── 第5次作业答案.pdf
+│   │   │   ├── 结构与谱学I 王林军
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_06_箱中粒子与能级_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_02_特殊的微观世界_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_11_双原子分子与共价键_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_12_多原子分子轨道理论_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_01_结构化学与谱学_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_09_单电子原子和离子_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_03_量子状态的描述_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_07_势垒与势阱散射_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_10_多电子原子与自旋_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_04_可观察量与算符_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_05_量子演化与绘景_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_08_量子效应讨论课_2020_FINAL.pptx
+│   │   │   │   │   ├── 王林军结构与谱学I讲义_14_电子跃迁与含时微扰_2020_FINAL.pptx
+│   │   ├── 有机化学（吕萍）
+│   │   │   ├── 有机化学III
+│   │   │   │   ├── 有机大作业
+│   │   │   │   │   ├── Chemdraw
+│   │   │   │   │   │   ├── Q2
+│   │   │   │   │   │   │   ├── 2-3 Answer.cdx
+│   │   │   │   │   │   │   ├── 2-3 Tips.cdx
+│   │   │   │   │   │   │   ├── 2-2.cdx
+│   │   │   │   │   │   │   ├── C.cdx
+│   │   │   │   │   │   │   ├── B.cdx
+│   │   │   │   │   │   │   ├── E.cdx
+│   │   │   │   │   │   │   ├── D.cdx
+│   │   │   │   │   │   │   ├── 2-3.cdx
+│   │   │   │   │   │   │   ├── A.cdx
+│   │   │   │   │   │   │   ├── 2-1.cdx
+│   │   │   │   │   │   ├── Q1
+│   │   │   │   │   │   │   ├── C.cdx
+│   │   │   │   │   │   │   ├── 1-2 Answer.cdx
+│   │   │   │   │   │   │   ├── question1-3.cdx
+│   │   │   │   │   │   │   ├── A.cdx
+│   │   │   │   │   │   │   ├── body parts.cdx
+│   │   │   │   │   │   │   ├── whole body.cdx
+│   │   │   │   │   │   │   ├── B.cdx
+│   │   │   │   │   │   │   ├── 1-1 Answer.cdx
+│   │   │   │   │   ├── s0040-4039%2802%2902076-2.pdf
+│   │   │   │   │   ├── 晁晨航 有机大作业.docx
+│   │   │   │   │   ├── jacs.0c07139.pdf
+│   │   │   │   │   ├── Recent advances in 2H-azirine chemistry.pdf
+│   │   │   │   │   ├── 有机大作业 沈瑶 3190103440 v2.0.docx
+│   │   │   │   │   ├── Synthesis of Anthropomorphic Molecules The Nanoputians.pdf
+│   │   │   │   │   ├── Cu catalyze.pdf
+│   │   │   │   │   ├── Total Synthesis of (+)-Rubriflordilactone A.pdf
+│   │   │   │   │   ├── ja00425a033.pdf
+│   │   │   │   │   ├── b%3Arucb.0000041305.50408.ed.pdf
+│   │   │   │   │   ├── Thermal decomposition, combustion and flame-retardancy of epoxy resins.pdf
+│   │   │   │   │   ├── An Insight into the Medicinal Perspective of Synthetic Analogs of Indole.pdf
+│   │   │   │   ├── Quiz
+│   │   │   │   │   ├── quiz2解析.docx
+│   │   │   │   │   ├── Answer to Quiz 1.docx
+│   │   │   │   │   ├── NHC小测答案.pdf
+│   │   │   │   │   ├── 测试一 - 参考答案.pdf
+│   │   │   │   ├── referennces
+│   │   │   │   │   ├── hlca.200900202.pdf
+│   │   │   │   │   ├── Redox-neutral organocatalytic Mitsunobu reactions.pdf
+│   │   │   │   │   ├── Molecular Orbitals and Organic Chemistry Reference Edition.pdf
+│   │   │   │   │   ├── Inhulsen-2010-Photocycloaddition-of-enynones--acy.pdf
+│   │   │   │   │   ├── ja00227a030.pdf
+│   │   │   │   ├── Homework
+│   │   │   │   │   ├── 22A第二十二章 含氮化合物-答案.docx
+│   │   │   │   │   ├── 23第二十三章 羧酸及其衍生物-作业.docx
+│   │   │   │   │   ├── 23A第二十三章 羧酸及其衍生物-答案.docx
+│   │   │   │   │   ├── 21第二十一章 羰基化合物的氧化还原-作业.docx
+│   │   │   │   │   ├── 27A第二十七章 周环反应-答案.docx
+│   │   │   │   │   ├── 24第二十四章 杂环化合物-作业.docx
+│   │   │   │   │   ├── 26A第二十六章 氨基酸-答案.docx
+│   │   │   │   │   ├── 25A第二十五章 碳水化合物-答案.docx
+│   │   │   │   │   ├── 27第二十七章 周环反应-作业.docx
+│   │   │   │   │   ├── 20A习题20章参考答案.docx
+│   │   │   │   │   ├── 24A第二十四章 杂环化合物-答案.docx
+│   │   │   │   │   ├── 20第二十章 羰基化合物alpha-碳的反应-作业.docx
+│   │   │   │   │   ├── 26第二十六章 氨基酸-作业.docx
+│   │   │   │   │   ├── 22第二十二章 含氮化合物-作业.docx
+│   │   │   │   │   ├── 25第二十五章 碳水化合物-作业.docx
+│   │   │   │   │   ├── 21A第二十一章 羰基化合物的氧化还原-答案.docx
+│   │   │   │   ├── PPT
+│   │   │   │   │   ├── 24c第二十四章 杂环化合物.pdf
+│   │   │   │   │   ├── 20b第二十章 羰基化合物alpha碳的反应.pdf
+│   │   │   │   │   ├── 25b第二十五章 碳水化合物.pdf
+│   │   │   │   │   ├── 24b第二十四章 杂环化合物.pdf
+│   │   │   │   │   ├── 23b第二十三章 羧酸及羧酸衍生物.pdf
+│   │   │   │   │   ├── 26第二十六章 氨基酸蛋白质及核酸.pdf
+│   │   │   │   │   ├── 22a第二十二章 含氮化合物.pdf
+│   │   │   │   │   ├── 23a第二十三章 羧酸及羧酸衍生物.pdf
+│   │   │   │   │   ├── 20a第二十章 羰基化合物alpha碳的反应.pdf
+│   │   │   │   │   ├── 25a第二十五章 碳水化合物.pdf
+│   │   │   │   │   ├── 24a第二十四章 杂环化合物.pdf
+│   │   │   │   │   ├── 22b第二十二章 含氮化合物.pdf
+│   │   │   │   │   ├── 21第二十一章 羰基化合物的氧化还原.pdf
+│   │   │   │   │   ├── 27a第二十七章 周环反应.pdf
+│   │   │   │   ├── 有机化学III试题A卷.pdf
+│   │   │   │   ├── quiz芳香烃的取代反应.pdf
+│   │   │   │   ├── 2018-2019春有机化学III期终试题及参考答案.pdf
+│   │   │   │   ├── 有机化学III试题A卷-参考答案.pdf
+│   │   │   │   ├── 2021春基础有机教学计划.docx
+│   │   │   │   ├── 有机英文单词.docx
+│   │   │   │   ├── 2021预备题.pdf
+│   │   │   ├── 参考文献
+│   │   │   │   ├── 有机化学中的立体电子效应.pdf
+│   │   │   │   ├── 成环之理.pdf
+│   │   │   │   ├── 基础有机化学中立体电子效应_英文_吕萍.pdf
+│   │   │   │   ├── 成环之理2.pdf
+│   │   │   │   ├── 糖类化合物的端基效应_吕萍.pdf
+│   │   │   ├── 有机化学Ⅲ小测
+│   │   │   │   ├── quiz2.docx
+│   │   │   │   ├── quiz1.docx
+│   │   │   │   ├── quiz3.docx
+│   │   │   │   ├── quiz1 参考答案.docx
+│   │   │   │   ├── quiz3参考答案.docx
+│   │   │   │   ├── quiz2 参考答案.docx
+│   │   │   ├── 有机化学I&II
+│   │   │   │   ├── 10c第十章 波谱分析基础.pdf
+│   │   │   │   ├── 07a第七章 不饱和烃的亲电加成反应(1).pdf
+│   │   │   │   ├── 18b第十八章 醇酚醚(2).pdf
+│   │   │   │   ├── 05第五章 共轭与共振.pdf
+│   │   │   │   ├── 06a第六章 立体化学.pdf
+│   │   │   │   ├── 19b第十九章 醛和酮(2).pdf
+│   │   │   │   ├── 06b第六章 立体化学.pdf
+│   │   │   │   ├── 13第十三章 芳香烃氧化还原.pdf
+│   │   │   │   ├── 18a第十八章 醇酚醚(1).pdf
+│   │   │   │   ├── 07b第七章 不饱和烃的亲电加成反应(2).pdf
+│   │   │   │   ├── 04b第四章 烷烃环烷烃-构象异构(2).pdf
+│   │   │   │   ├── 14a第十四章 烷基卤代烃的亲核取代反应(1).pdf
+│   │   │   │   ├── 15第十五章 卤代烃的消除反应.pdf
+│   │   │   │   ├── 08第八章 不饱和烃的氧化还原.pdf
+│   │   │   │   ├── 17第十七章 卤代烃的还原反应.pdf
+│   │   │   │   ├── 01第一章 有机化学和有机化合物.pdf
+│   │   │   │   ├── 12b第十二章 芳香烃亲电取代反应(2).pdf
+│   │   │   │   ├── 11第十一章 芳香性.pdf
+│   │   │   │   ├── 09第九章 自由基反应.pdf
+│   │   │   │   ├── 10a第十章 波谱分析基础.pdf
+│   │   │   │   ├── 03第三章 分子间相互作用力-李昊.pptx
+│   │   │   │   ├── 12a第十二章 芳香烃亲电取代反应(1).pdf
+│   │   │   │   ├── 04a第四章 烷烃环烷烃-构象异构(1).pdf
+│   │   │   │   ├── 02第二章 原子轨道和分子轨道.pdf
+│   │   │   │   ├── 14b第十四章 烷基卤代烃的亲核取代反应(2).pdf
+│   │   │   │   ├── 16第十六章 芳香烃亲核取代反应.pdf
+│   │   │   │   ├── 20a第二十章 羰基化合物alpha碳的反应(1)(1).pdf
+│   │   │   │   ├── 10b第十章 波谱分析基础.pdf
+│   │   │   │   ├── 19a第十九章 醛和酮(1).pdf
+│   │   ├── 超分子化学（李昊）
+│   │   │   ├── 李昊ppt
+│   │   │   │   ├── 8分子机器和分子开关.pptx
+│   │   │   │   ├── 6席夫碱化学.pptx
+│   │   │   │   ├── 1超分子化学概论.pptx
+│   │   │   │   ├── 3主客体化学.pptx
+│   │   │   │   ├── 2超分子化学与分子轨道理论.pptx
+│   │   │   │   ├── 7机械键的起源.pptx
+│   │   │   │   ├── 4主体分子的热力学合成与分子容器.pptx
+│   │   │   ├── 李昊期末考
+│   │   │   │   ├── Constraining Homo- and Heteroanion Dimers in Ultraclose Proximity within a Self-Assembled Hexacationic Cage(1).pdf
+│   │   │   │   ├── anie201708246 (2).pdf
+│   │   │   │   ├── anie.202106428.pdf
+│   │   │   │   ├── nchem.2392.pdf
+│   │   │   │   ├── anie.202013045.pdf
+│   │   │   │   ├── anie.201910739 (2).pdf
+│   │   │   │   ├── 超分子化学考试.pdf
+│   │   ├── 无机化学（吴传德）
+│   │   │   ├── 第1章 原子结构与元素周期律.pdf
+│   │   │   ├── 第2章 化学键与分子结构.pdf
+│   │   │   ├── 第5章 氧化还原反应.pdf
+│   │   │   ├── 第4章 酸碱理论.pdf
+│   │   │   ├── 第3章 配位化合物.pdf
+│   │   ├── 分析化学 （苏彬 王敏）
+│   │   │   ├── 分析化学II 王敏
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── class03 atomic spectroscopy.pdf
+│   │   │   │   │   ├── class09 electroanalysis.pdf
+│   │   │   │   │   ├── class11 voltammetry .pdf
+│   │   │   │   │   ├── class14 HPLC.pdf
+│   │   │   │   │   ├── class02 spectroscopy.pdf
+│   │   │   │   │   ├── class10 coulometry.pdf
+│   │   │   │   │   ├── class04 AAS.pdf
+│   │   │   │   │   ├── class06 AMS.pdf
+│   │   │   │   │   ├── class15 CE.pdf
+│   │   │   │   │   ├── class13 GC.pdf
+│   │   │   │   │   ├── class16 MS.pdf
+│   │   │   │   │   ├── class01 overview.pdf
+│   │   │   │   │   ├── class08 fluorometry.pdf
+│   │   │   │   │   ├── class12 chromatography.pdf
+│   │   │   │   │   ├── class05 AES.pdf
+│   │   │   │   │   ├── class07 IR.pdf
+│   │   │   ├── 分析化学I 苏彬
+│   │   │   │   ├── 历年卷
+│   │   │   │   │   ├── 分析化学I 历年卷2.doc
+│   │   │   │   │   ├── 分析化学I 历年卷1.doc
+│   │   │   │   ├── 课件
+│   │   │   │   │   ├── 5-氧化还原滴定a.pdf
+│   │   │   │   │   ├── 9-光学分析法.pdf
+│   │   │   │   │   ├── 8-电化学分析.pdf
+│   │   │   │   │   ├── 3-酸碱平衡.pdf
+│   │   │   │   │   ├── 2-数据处理.pdf
+│   │   │   │   │   ├── 4-络合平衡.pdf
+│   │   │   │   │   ├── 6-沉淀溶解平衡.pdf
+│   │   │   │   │   ├── 7-样品制备与分离a.pdf
+│   │   │   │   │   ├── 1-概论.pdf
+│   ├── 系外
+│   │   ├── 有机化学 丁寒锋
+│   │   │   ├── 历年卷
+│   │   │   │   ├── 近N年试卷和答案
+│   │   │   │   │   ├── 2020.1答案
+│   │   │   │   │   │   ├── d85381008432e38b9ad9966b6cd689f.png
+│   │   │   │   │   │   ├── f2dab73d461d2fb90aa42e626fe445c.png
+│   │   │   │   │   │   ├── 2c805354dbcb7deb188f7999230c227.png
+│   │   │   │   │   │   ├── 65d6b2f8e67fa1181fa99c9f842b3cf.png
+│   │   │   │   │   │   ├── 9855efb66e9bcb704d8e0d984b7be11.png
+│   │   │   │   │   │   ├── 2fbd2420f1361e67814a1de57fb4bf8.png
+│   │   │   │   │   ├── 2020.7答案
+│   │   │   │   │   │   ├── 445b4bc7476552a072e4e81e1b13045.png
+│   │   │   │   │   │   ├── 95ed90d72e831d7bbb8fb3c00a81d57.png
+│   │   │   │   │   │   ├── a975c53e1c3feb97d727c0181673b65.png
+│   │   │   │   │   │   ├── 6ff22d4405c6f63ce010bc62b668a92.png
+│   │   │   │   │   │   ├── e1c69cf207e39d223f542f3ef6c5306.png
+│   │   │   │   │   │   ├── 3b3e1fd0ed735d785da3a1a16290ef8.png
+│   │   │   │   │   ├── 2018 年7月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2017 年7月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2017 年1月有机化学期末考试试卷参考答案.pdf
+│   │   │   │   │   ├── 2016 年7月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2020年1月试卷.pdf
+│   │   │   │   │   ├── 2019 年7月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2017 年7月有机化学期末考试试卷参考答案.pdf
+│   │   │   │   │   ├── 2019年1月有机化学课程期末考试试卷参考答案.pdf
+│   │   │   │   │   ├── 2015年6月有机化学期末试卷参考答案.pdf
+│   │   │   │   │   ├── 2016 年1月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2015年7月有机化学期末考试试卷.pdf
+│   │   │   │   │   ├── 2015 年1月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2017 年1月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2020年7月试卷.pdf
+│   │   │   │   │   ├── 2019年1月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2018 年1月有机化学课程期末考试试卷.pdf
+│   │   │   │   │   ├── 2016年1月有机化学期末试卷参考答案.pdf
+│   │   │   │   │   ├── 2018 年7月有机化学期末考试试卷参考答案.pdf
+│   │   │   │   │   ├── 2018 年1月有机化学期末考试试卷参考答案.pdf
+│   │   │   │   │   ├── 2015年1月有机化学期末试卷参考答案.pdf
+│   │   │   │   │   ├── 2016年6月有机化学期末试卷参考答案.pdf
+│   │   │   │   │   ├── 2019 年7月有机化学期末考试试卷 参考答案.pdf
+│   │   │   │   ├── 2019-2020秋冬有机化学期末考试卷参考答案.doc
+│   │   │   │   ├── 2019-2020 学年春夏学期有机化学课程期末考试试卷.doc
+│   │   │   │   ├── 2019-2020 学年春夏学期有机化学课程期末考试试卷 参考答案.doc
+│   │   │   │   ├── 2019-2020秋冬有机化学期末考试卷.doc
+│   │   │   ├── 课件
+│   │   │   │   ├── 第15章 碳水化合物.pdf
+│   │   │   │   ├── 第14章 杂环化合物.pdf
+│   │   │   │   ├── 第5章 自由基反应.pdf
+│   │   │   │   ├── 第9章 醇酚醚.pdf
+│   │   │   │   ├── 第6章 芳香烃.pdf
+│   │   │   │   ├── 第10章 醛和酮.pdf
+│   │   │   │   ├── 第1章 有机结构理论基础.pdf
+│   │   │   │   ├── 第2章 脂肪烃和脂环烃.pdf
+│   │   │   │   ├── 习题课讲解.pdf
+│   │   │   │   ├── 第16章 氨基酸蛋白质及核酸.pdf
+│   │   │   │   ├── 第11章 羧酸及其衍生物.pdf
+│   │   │   │   ├── 第13章 胺及其他含氮化合物.pdf
+│   │   │   │   ├── 第3章 对映异构.pdf
+│   │   │   │   ├── 第12章 羰基alpha-碳上的反应.pdf
+│   │   │   │   ├── 第4章 碳碳重键的加成反应.pdf
+│   │   │   │   ├── 第8章 卤代烃：亲核取代反应和消除反应.pdf
+│   │   ├── 分析化学 沈宏
+│   │   │   ├── 第1章-绪论.pdf
+│   │   │   ├── 第10章-色谱分析法.pdf
+│   │   │   ├── 第3章-沉淀滴定部分.pdf
+│   │   │   ├── 第6章-红外吸收光谱分析法.pdf
+│   │   │   ├── 第5章-紫外-可见分光光度法.pdf
+│   │   │   ├── 第3章-配位氧还部分.pdf
+│   │   │   ├── 第2章-误差和分析数据处理.pdf
+│   │   │   ├── 第9章-质谱分析法.pdf
+│   │   │   ├── 第7章-原子吸收分光光度法.pdf
+│   │   │   ├── 第4章-电位法.pdf
+│   │   │   ├── 第3章-酸碱滴定部分.pdf
+├── 电子书
+│   ├── 其他电子书
+│   │   ├── 量子化学
+│   │   │   ├── 量子化学——Levine
+│   │   │   │   ├── Quantum Chemistry 5th Edition Ira N. Levine .pdf
+│   │   │   │   ├── 《量子化学》Ira.N.Levine.pdf
+│   │   │   │   ├── 量子化学习题解.pdf
+│   │   │   ├── Gaussian教程_网络
+│   │   │   │   ├── Gaussian教程-ECD计算 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── 2016060415454585.png
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── 2016061913011821.png
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── 2016052313265287.png
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── 2016061912294463.png
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── 2016052314104693.png
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   │   ├── 2016060415432837.png
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   ├── Gaussian教程-荧光计算 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── 2016081414064991.png
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── 2016072408452679.png
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── 2016081414400190.png
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── style.css
+│   │   │   │   ├── Gaussian教程-多作业顺序计算 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── styles.css
+│   │   │   │   ├── Gaussian教程-GaussView绘制电子密度差图 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── 2016082301192267.png
+│   │   │   │   │   ├── 2016082301192673.png
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   │   ├── 2016082414561454.png
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── 2016082301192448.png
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── 2016082301192369.png
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── 2016082301192742.png
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── 2016082301193029.png
+│   │   │   │   │   ├── 2016082301192142.png
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── 2016082301192929.png
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── 2016082301192017.png
+│   │   │   │   ├── Linux命令极简教程 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── timthumb(8).php
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── timthumb(6).php
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── 2016051223274785.jpg
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── timthumb(7).php
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── timthumb(3).php
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── timthumb(4).php
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── timthumb(5).php
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   ├── Gaussian教程-磷光计算 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── 2016072408452679.png
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── 2016052217165650.png
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── 2016052217191911.png
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   ├── Gaussian 09的安装 - 墨灵格的博客 - 墨灵格的博客_files
+│   │   │   │   │   ├── animation.css
+│   │   │   │   │   ├── style.css
+│   │   │   │   │   ├── baidushare.js.下载
+│   │   │   │   │   ├── bootstrap.min.js.下载
+│   │   │   │   │   ├── jquery.form.min.js.下载
+│   │   │   │   │   ├── fontello.css
+│   │   │   │   │   ├── suxingme.js.下载
+│   │   │   │   │   ├── ajax-comment.js.下载
+│   │   │   │   │   ├── logo.png
+│   │   │   │   │   ├── timthumb(1).php
+│   │   │   │   │   ├── cropped-logo_04-80x80.png
+│   │   │   │   │   ├── jquery.js.下载
+│   │   │   │   │   ├── jquery-migrate.min.js.下载
+│   │   │   │   │   ├── hm.js.下载
+│   │   │   │   │   ├── share.css
+│   │   │   │   │   ├── scripts.js.下载
+│   │   │   │   │   ├── share.js.下载
+│   │   │   │   │   ├── timthumb(2).php
+│   │   │   │   │   ├── jquery.lazyload.min.js.下载
+│   │   │   │   │   ├── fastclick.min.js.下载
+│   │   │   │   │   ├── styles.css
+│   │   │   │   │   ├── 2016050721544147.jpg
+│   │   │   │   │   ├── timthumb.php
+│   │   │   │   │   ├── wp-syntax.css
+│   │   │   │   │   ├── wp-syntax.js.下载
+│   │   │   │   ├── Gaussian教程-ECD计算 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Gaussian教程-GaussView绘制电子密度差图 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Gaussian教程-磷光计算 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Gaussian 09的安装 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Gaussian教程-荧光计算 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Gaussian教程-多作业顺序计算 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   │   ├── Linux命令极简教程 - 墨灵格的博客 - 墨灵格的博客.html
+│   │   │   ├── 量子化学——基本原理和从头计算法
+│   │   │   │   ├── 量子化学——基本原理和从头计算法（上、中、下.pdf
+│   │   │   │   ├── 量子化学——基本原理和从头计算法（上、中、下册）.pdf
+│   │   │   ├── 电子激发任务中轨道跃迁贡献的计算.docx
+│   │   │   ├── Gaussian中用TDDFT计算激发态和吸收、荧光、磷光光谱的方法.docx
+│   │   │   ├── 图解电子激发的分类.docx
+│   │   │   ├── 高斯的格式化检查点文件与波函数文件及转换方法的介绍.docx
+│   │   │   ├── GaussView5_基础教程.docx
+│   │   │   ├── Gaussian基础课件.pdf
+│   │   │   ├── exploring中文版.pdf
+│   │   │   ├── gaussian_FAQ【高斯入门必读,小木虫上的经典总结】.pdf
+│   │   │   ├── gaussian教程-作者James B. Foresman, Eleen Frisch.docx
+│   │   │   ├── 振动分辨的电子光谱的计算.docx
+│   │   │   ├── MacMolPlt A graphical user interface for GAMESS.pdf
+│   │   │   ├── 不同DFT方法的比较与选择.docx
+│   │   │   ├── 寻找过渡态的方法(tsqst2qst3).pdf
+│   │   │   ├── gaussview使用简介.ppt
+│   │   │   ├── 高斯G09中文说明书.pdf
+│   │   │   ├── multiwfn-Manual_3.3.7.pdf
+│   │   │   ├── GAMESS软件使用指南.pdf
+│   │   │   ├── Gaussian计算实例.pdf
+│   │   │   ├── gaussian 视频教程.rar
+│   │   │   ├── 跃迁密度分析方法.docx
+│   │   │   ├── Natural bond orbital methods.pdf
+│   │   │   ├── 乱谈激发态的计算方法.docx
+│   │   │   ├── 使用Multiwfn绘制红外、拉曼、UV-Vis、ECD和VCD光谱图.docx
+│   │   │   ├── xmvb-2.1-manual.pdf
+│   │   │   ├── GaussView高级技巧.pdf
+│   │   │   ├── GaussView_画图技巧.ppt
+│   │   │   ├── basis sets的使用.rar
+│   │   │   ├── gaussian_and_gaussview官方介绍应用书籍.pdf
+│   │   │   ├── 图解量子化学-完美版.pdf
+│   │   │   ├── HMO程序.rar
+│   │   │   ├── Gaussview软件使用手册.pdf
+│   │   │   ├── 谈谈能量的基组外推.docx
+│   │   ├── 命名原则
+│   │   │   ├── 《中国化学会化学命名原则》.pdf
+│   │   │   ├── IUPAC命名法(英文版).pdf
+│   │   │   ├── 有机化合物国际命名  戴子浠 2003 中国石化出版社_82808577.pdf
+│   │   ├── 生物化学
+│   │   │   ├── 生化习题解析
+│   │   │   │   ├── 生物化学习题解析.pdf
+│   │   │   ├── 生物化学（王镜岩）
+│   │   │   │   ├── 王镜岩生物化学（第三版）上册.pdf
+│   │   │   │   ├── 王镜岩生物化学（第三版）下册.pdf
+│   │   │   ├── Lehninger生物化学原理-第四版
+│   │   │   │   ├── Lehninger生物化学原理（第四版）.pdf
+│   │   │   ├── 基础生命科学-吴庆余-第二版及习题
+│   │   │   │   ├── 基础生命科学吴庆余课后思考题答案.pdf
+│   │   │   │   ├── 基础生命科学（第2版）.吴庆余编着.高等教育出版社.pdf
+│   │   ├── 无机化学
+│   │   │   ├── Chemical Principle
+│   │   │   │   ├── Chemical principle.pdf
+│   │   │   ├── 近代化学导论-申泮文
+│   │   │   │   ├── 近代化学导论 （上、下册） 申泮文主编.pdf
+│   │   │   ├── 无机化学-武大吉大第三版
+│   │   │   │   ├── 武大吉大第三版无机化学习题解答.pdf
+│   │   │   │   ├── 无机化学-武大吉大-第三版.pdf
+│   │   │   ├── 高等无机（F.A科顿）
+│   │   │   │   ├── 《高等无机化学》下册 _美_F.A.科顿著.pdf
+│   │   │   │   ├── 《高等无机化学》台版四册合订本(F.A.科顿_....pdf
+│   │   │   │   ├── 《高等无机化学》上册 _美_F.A.科顿著.pdf
+│   │   │   ├── 无机化学丛书
+│   │   │   │   ├── 09_第九卷.锰分族铁系铂系.pdf
+│   │   │   │   ├── 11_第十一卷.无机结构化学.pdf
+│   │   │   │   ├── 04_第四卷.氮磷砷分族.pdf
+│   │   │   │   ├── 15_第十五卷.有机金属化合物.生物元机化学.pdf
+│   │   │   │   ├── 14_第十四卷.无机物相平衡、非整比化合物.pdf
+│   │   │   │   ├── 01_第一卷.稀有气体、氢、碱金属.pdf
+│   │   │   │   ├── 16_第十六卷.放射化学.pdf
+│   │   │   │   ├── 12_第十二卷.配位化学.pdf
+│   │   │   │   ├── 05_第五卷.氧硫硒分族.pdf
+│   │   │   │   ├── 07_第七卷.钪稀土元素.pdf
+│   │   │   │   ├── 10_第十卷.锕系锕系后元素.pdf
+│   │   │   │   ├── 13_第十三卷.无机物动力学.pdf
+│   │   │   │   ├── 06_第六卷.卤素.铜分族.锌分族.pdf
+│   │   │   │   ├── 03_第三卷.碳硅锗分族.pdf
+│   │   │   │   ├── 02_第二卷.铍碱土金属硼铝镓分族.pdf
+│   │   │   │   ├── 17_第十七卷.稳定同位素化学.pdf
+│   │   │   │   ├── 08_第八卷.钛分族钒分族铬分族.pdf
+│   │   │   │   ├── 18_第十八卷.地球化学.pdf
+│   │   │   ├── 高等无机结构化学
+│   │   │   │   ├── 高等无机结构化学周公度  等编著.pdf
+│   │   │   ├── 近代无机化合物合成-刘德信
+│   │   │   │   ├── 近代无机化合物合成(刘德信等编著).pdf
+│   │   │   ├── 格林伍德元素化学
+│   │   │   │   ├── 元素化学(中).pdf
+│   │   │   │   ├── Greenwood - Chemistry of the Elements.pdf
+│   │   │   │   ├── 元素化学(上).pdf
+│   │   │   │   ├── 元素化学(下).pdf
+│   │   │   ├── 元素单质化学反应手册
+│   │   │   │   ├── 《元素单质化学反应手册》.pdf
+│   │   │   ├── 重要无机化学反应-第三版-陈寿椿
+│   │   │   │   ├── 重要无机化学反应(第三版) 陈寿椿.pdf
+│   │   │   ├── 无机化合物合成与鉴定
+│   │   │   │   ├── 无机化合物的合成与鉴定.pdf
+│   │   │   ├── 大学化学-傅献彩
+│   │   │   │   ├── 北京大学中级无机化学答案.doc
+│   │   │   │   ├── 大学化学(傅献彩).pdf
+│   │   │   ├── 【北师大等】无机化学（第四版）
+│   │   │   │   ├── 对一部《无机化学》教材的勘误.pdf
+│   │   │   │   ├── 【北师大等】无机化学（第四版）+·上册.pdf
+│   │   │   │   ├── 【北师大等】无机化学（第四版）+·下册.pdf
+│   │   │   ├── Arrow Pushing in Inorganic Chemistry_A Logical Approach to the Chemistry of the Main-Group Elements
+│   │   │   │   ├── Arrow Pushing in Inorganic Chemistry_A Logical Approach to the Chemistry of the Main-Group Elements.pdf
+│   │   │   ├── 无机化合物合成手册
+│   │   │   │   ├── 无机化合物合成手册2.pdf
+│   │   │   │   ├── 无机化合物合成手册1.pdf
+│   │   │   │   ├── 无机化合物合成手册3.pdf
+│   │   │   ├── 张祖德无机化学
+│   │   │   │   ├── 张祖德无机化学答案1-6章.pdf
+│   │   │   │   ├── 张祖德无机化学答案7-9章.pdf
+│   │   │   │   ├── 无机化学（张祖德.pdf
+│   │   │   │   ├── 《无机化学习题》及答案-张祖德.rar
+│   │   │   │   ├── 张祖德无机化学答案18-20章.pdf
+│   │   │   │   ├── 张祖德无机化学习题.pdf
+│   │   │   │   ├── 张祖德无机化学答案10-13章.pdf
+│   │   │   │   ├── 张祖德无机化学答案14-17章.pdf
+│   │   │   ├── 中级无机
+│   │   │   │   ├── 《中级无机化学》(项斯芬、姚光庆).pdf
+│   │   │   ├── 无机化学-宋天佑
+│   │   │   │   ├── 宋天佑无机化学习题解答第2版.pdf
+│   │   │   │   ├── 宋天佑无机化学上册.pdf
+│   │   │   │   ├── 宋天佑无机化学下册.pdf
+│   │   │   ├── 郭嘉无机
+│   │   │   │   ├── Inorganic and theoretical chemistry - Mellor
+│   │   │   │   │   ├── Vol 02 Halogens & Alkali metals .djvu
+│   │   │   │   │   ├── Vol 01 Hydrogen & Oxygen .djvu
+│   │   │   │   │   ├── Vol 10 Ch 57 Sulphur .pdf
+│   │   │   │   │   ├── Vol 08 Nitrogen & Phosphorus .djvu
+│   │   │   │   ├── Comprehensive coordination chemistry II
+│   │   │   │   │   ├── Vol 4.pdf
+│   │   │   │   │   ├── Vol 3.pdf
+│   │   │   │   │   ├── Vol 6.pdf
+│   │   │   │   │   ├── Vol 8.pdf
+│   │   │   │   │   ├── Vol 9.pdf
+│   │   │   │   │   ├── Vol 2.pdf
+│   │   │   │   │   ├── Vol 7.pdf
+│   │   │   │   ├── The chemistry of the thiol group Part 2 1974 - Patai.pdf
+│   │   │   │   ├── Modern coordination chemistry 2002 - Leigh & Winterton.pdf
+│   │   │   │   ├── Superacid chemistry 2ed 2009 - Olah.pdf
+│   │   │   │   ├── Handbook of preparative inorganic chemistry 1963 - Vol 1,2 - Brauer.pdf
+│   │   │   │   ├── Tungsten 1999 - Lassner & Schubert.pdf
+│   │   │   │   ├── Modern inorganic chemistry - Chambers & Holliday.pdf
+│   │   │   │   ├── The chemistry of halides, pseudo-halides and azides Vol 1 & 2 1995 - Patai & Rappoport.djvu
+│   │   │   │   ├── Fullerenes - Chemistry and reactions 2005 - Hirsch & Brettreich.pdf
+│   │   │   │   ├── Chemistry of the elements - Greenwood & Earnshaw.djvu
+│   │   │   │   ├── Inorganic chemistry 5ed - Shriver Atkins.pdf
+│   │   │   │   ├── Inorganic structural chemistry 2ed 2006 - Muller.pdf
+│   │   │   │   ├── Chemistry of the rarer elements - Hopkins.pdf
+│   │   │   │   ├── Chemistry of Precious Metals 1997 - Cotton.pdf
+│   │   │   │   ├── Sulfuric acid manufacture - Davenport & King.pdf
+│   │   │   │   ├── Inorganic chemistry 3ed - Miessler & Tarr.pdf
+│   │   │   ├── Inorganic Chemistry(Shriver) 6th.pdf
+│   │   │   ├── 宋天佑无机化学习题解答第2版.pdf
+│   │   ├── 有机化学习题
+│   │   │   ├── 奇怪的合成题
+│   │   │   │   ├── 合成题6001-6100.doc
+│   │   │   │   ├── 合成题答案6001-6100.doc
+│   │   │   │   ├── 合成题答案6751-6850.doc
+│   │   │   │   ├── 合成题2191-2290.doc
+│   │   │   │   ├── 合成题1901-2090.doc
+│   │   │   │   ├── 合成题答案2291-2390.doc
+│   │   │   │   ├── 合成题2391-2500.doc
+│   │   │   │   ├── 合成题答案6951-7000.doc
+│   │   │   │   ├── 合成题答案2391-2500.doc
+│   │   │   │   ├── 有机合成题.doc
+│   │   │   │   ├── 合成题6751-6850.doc
+│   │   │   │   ├── 合成题答案2191-2290.doc
+│   │   │   │   ├── 合成题2091-2190.doc
+│   │   │   │   ├── 合成题答案1901-2090.doc
+│   │   │   │   ├── 合成题6951-7000.doc
+│   │   │   │   ├── 合成题2291-2390.doc
+│   │   │   │   ├── 合成题答案2091-2190.doc
+│   │   │   ├── 全美经典-有机习题
+│   │   │   │   ├── 全美经典 -有机化学习题精解.pdf
+│   │   │   ├── 成环秘籍
+│   │   │   │   ├── 成环秘籍第一卷-20200218.pdf
+│   │   │   │   ├── 成环秘籍第二卷-20200222.pdf
+│   │   │   │   ├── 成环秘籍第一卷参考答案.pdf
+│   │   │   ├── 有机反应类型习题
+│   │   │   │   ├── 第2章 烃化反应.doc
+│   │   │   │   ├── 第4章 缩合反应.doc
+│   │   │   │   ├── 第6章 氧化反应.doc
+│   │   │   │   ├── 第5章 重排反应.doc
+│   │   │   │   ├── 第3章 酰化反应.doc
+│   │   │   │   ├── 第7章 还原反应.doc
+│   │   │   ├── Enans组
+│   │   │   │   ├── Evans组.rar
+│   │   │   ├── 有机合成80题强化训练
+│   │   │   │   ├── 有机合成题80题强化训练.pdf
+│   │   │   ├── 福山组会题
+│   │   │   │   ├── fukuyama题
+│   │   │   │   │   ├── 2001年
+│   │   │   │   │   │   ├── p0111.pdf
+│   │   │   │   │   │   ├── p0108.pdf
+│   │   │   │   │   │   ├── p0112.pdf
+│   │   │   │   │   │   ├── p0109.pdf
+│   │   │   │   │   │   ├── p0110.pdf
+│   │   │   │   │   ├── 2005年
+│   │   │   │   │   │   ├── p0502.pdf
+│   │   │   │   │   │   ├── p0512.pdf
+│   │   │   │   │   │   ├── p0501.pdf
+│   │   │   │   │   │   ├── p0506.pdf
+│   │   │   │   │   │   ├── p0509.pdf
+│   │   │   │   │   │   ├── p0510.pdf
+│   │   │   │   │   │   ├── p0507.pdf
+│   │   │   │   │   │   ├── p0504.pdf
+│   │   │   │   │   │   ├── p0508.pdf
+│   │   │   │   │   │   ├── p0511.pdf
+│   │   │   │   │   │   ├── p0505.pdf
+│   │   │   │   │   │   ├── p0503.pdf
+│   │   │   │   │   ├── 2011年
+│   │   │   │   │   │   ├── p1101.pdf
+│   │   │   │   │   │   ├── p1106.pdf
+│   │   │   │   │   │   ├── p1108.pdf
+│   │   │   │   │   │   ├── p1103.pdf
+│   │   │   │   │   │   ├── p1104.pdf
+│   │   │   │   │   │   ├── p1111.pdf
+│   │   │   │   │   │   ├── p1107.pdf
+│   │   │   │   │   │   ├── p1105.pdf
+│   │   │   │   │   │   ├── p1109.pdf
+│   │   │   │   │   │   ├── p1110.pdf
+│   │   │   │   │   ├── 2011年答案
+│   │   │   │   │   │   ├── a1109.pdf
+│   │   │   │   │   │   ├── a1106.pdf
+│   │   │   │   │   │   ├── a1101.pdf
+│   │   │   │   │   │   ├── a1105.pdf
+│   │   │   │   │   │   ├── a1110.pdf
+│   │   │   │   │   │   ├── a1104.pdf
+│   │   │   │   │   │   ├── a1108.pdf
+│   │   │   │   │   │   ├── a1103.pdf
+│   │   │   │   │   │   ├── a1111.pdf
+│   │   │   │   │   │   ├── a1107.pdf
+│   │   │   │   │   ├── 2009年
+│   │   │   │   │   │   ├── p0906.pdf
+│   │   │   │   │   │   ├── p0907.pdf
+│   │   │   │   │   │   ├── p0905.pdf
+│   │   │   │   │   │   ├── p0901.pdf
+│   │   │   │   │   │   ├── p0904.pdf
+│   │   │   │   │   │   ├── p0902.pdf
+│   │   │   │   │   │   ├── p0903.pdf
+│   │   │   │   │   │   ├── p0910.pdf
+│   │   │   │   │   │   ├── p0908.pdf
+│   │   │   │   │   │   ├── p0909.pdf
+│   │   │   │   │   │   ├── p0912.pdf
+│   │   │   │   │   ├── 2005年答案
+│   │   │   │   │   │   ├── a0504.pdf
+│   │   │   │   │   │   ├── a0502.pdf
+│   │   │   │   │   │   ├── a0505.pdf
+│   │   │   │   │   │   ├── a0511.pdf
+│   │   │   │   │   │   ├── a0501.pdf
+│   │   │   │   │   │   ├── a0503.pdf
+│   │   │   │   │   │   ├── a0512.pdf
+│   │   │   │   │   │   ├── a0508.pdf
+│   │   │   │   │   │   ├── a0506.pdf
+│   │   │   │   │   │   ├── a0507.pdf
+│   │   │   │   │   │   ├── a0509.pdf
+│   │   │   │   │   │   ├── a0510.pdf
+│   │   │   │   │   ├── 2002年答案
+│   │   │   │   │   │   ├── a0204.pdf
+│   │   │   │   │   │   ├── a0202.pdf
+│   │   │   │   │   │   ├── a0206.pdf
+│   │   │   │   │   │   ├── a0203.pdf
+│   │   │   │   │   │   ├── a0201.pdf
+│   │   │   │   │   │   ├── a0205.pdf
+│   │   │   │   │   │   ├── a0212.pdf
+│   │   │   │   │   │   ├── a0210.pdf
+│   │   │   │   │   │   ├── a0208.pdf
+│   │   │   │   │   │   ├── a0207.pdf
+│   │   │   │   │   │   ├── a0209.pdf
+│   │   │   │   │   ├── 2012年答案
+│   │   │   │   │   │   ├── a1209.pdf
+│   │   │   │   │   │   ├── a1205.pdf
+│   │   │   │   │   │   ├── a1208.pdf
+│   │   │   │   │   │   ├── a1206.pdf
+│   │   │   │   │   │   ├── a1204.pdf
+│   │   │   │   │   │   ├── a1207.pdf
+│   │   │   │   │   │   ├── a1210.pdf
+│   │   │   │   │   │   ├── a1202.pdf
+│   │   │   │   │   │   ├── a1201.pdf
+│   │   │   │   │   ├── 2003年答案
+│   │   │   │   │   │   ├── a0310.pdf
+│   │   │   │   │   │   ├── a0303.pdf
+│   │   │   │   │   │   ├── a0304.pdf
+│   │   │   │   │   │   ├── a0307.pdf
+│   │   │   │   │   │   ├── a0302.pdf
+│   │   │   │   │   │   ├── a0306.pdf
+│   │   │   │   │   │   ├── a0309.pdf
+│   │   │   │   │   │   ├── a0311.pdf
+│   │   │   │   │   │   ├── a0312.pdf
+│   │   │   │   │   │   ├── a0301.pdf
+│   │   │   │   │   │   ├── a0308.pdf
+│   │   │   │   │   │   ├── a0305.pdf
+│   │   │   │   │   ├── examination
+│   │   │   │   │   │   ├── 2004-2.pdf
+│   │   │   │   │   │   ├── 2007-1.pdf
+│   │   │   │   │   │   ├── 2010-2.pdf
+│   │   │   │   │   │   ├── 2006-3.pdf
+│   │   │   │   │   │   ├── 2009-3.pdf
+│   │   │   │   │   │   ├── 2007-3.pdf
+│   │   │   │   │   │   ├── 2007-2.pdf
+│   │   │   │   │   │   ├── 2008-4.pdf
+│   │   │   │   │   │   ├── 2007-4.pdf
+│   │   │   │   │   │   ├── 2006-4.pdf
+│   │   │   │   │   │   ├── 2005-3.pdf
+│   │   │   │   │   │   ├── 2008-2.pdf
+│   │   │   │   │   │   ├── 2009-2.pdf
+│   │   │   │   │   │   ├── 2005-1.pdf
+│   │   │   │   │   │   ├── 2009-4.pdf
+│   │   │   │   │   │   ├── 2011-2.pdf
+│   │   │   │   │   │   ├── 2008-1.pdf
+│   │   │   │   │   │   ├── 2012-2.pdf
+│   │   │   │   │   │   ├── 2005-2.pdf
+│   │   │   │   │   │   ├── 2008-3.pdf
+│   │   │   │   │   │   ├── 2006-1.pdf
+│   │   │   │   │   │   ├── 2011-4.pdf
+│   │   │   │   │   │   ├── 2006-2.pdf
+│   │   │   │   │   │   ├── 2009-1.pdf
+│   │   │   │   │   │   ├── 2010-1.pdf
+│   │   │   │   │   │   ├── 2010-3.pdf
+│   │   │   │   │   │   ├── 2011-1.pdf
+│   │   │   │   │   │   ├── 2012-1.pdf
+│   │   │   │   │   │   ├── 2010-4.pdf
+│   │   │   │   │   │   ├── 2004-3.pdf
+│   │   │   │   │   │   ├── 2011-3.pdf
+│   │   │   │   │   │   ├── 2004-1.pdf
+│   │   │   │   │   ├── 2012年
+│   │   │   │   │   │   ├── p1206.pdf
+│   │   │   │   │   │   ├── p1205.pdf
+│   │   │   │   │   │   ├── p1209.pdf
+│   │   │   │   │   │   ├── p1208.pdf
+│   │   │   │   │   │   ├── p1211.pdf
+│   │   │   │   │   │   ├── p1202.pdf
+│   │   │   │   │   │   ├── p1204.pdf
+│   │   │   │   │   │   ├── p1201.pdf
+│   │   │   │   │   │   ├── p1207.pdf
+│   │   │   │   │   │   ├── p1210.pdf
+│   │   │   │   │   ├── 2010年答案
+│   │   │   │   │   │   ├── a1012.pdf
+│   │   │   │   │   │   ├── a1011.pdf
+│   │   │   │   │   │   ├── a1009.pdf
+│   │   │   │   │   │   ├── a1002.pdf
+│   │   │   │   │   │   ├── a1008.pdf
+│   │   │   │   │   │   ├── a1005.pdf
+│   │   │   │   │   │   ├── a1010.pdf
+│   │   │   │   │   │   ├── a1006.pdf
+│   │   │   │   │   │   ├── a1003.pdf
+│   │   │   │   │   │   ├── a1001.pdf
+│   │   │   │   │   │   ├── a1007.pdf
+│   │   │   │   │   │   ├── a1004.pdf
+│   │   │   │   │   ├── 2008年答案
+│   │   │   │   │   │   ├── a0812.pdf
+│   │   │   │   │   │   ├── a0805.pdf
+│   │   │   │   │   │   ├── a0801.pdf
+│   │   │   │   │   │   ├── a0804.pdf
+│   │   │   │   │   │   ├── a0809.pdf
+│   │   │   │   │   │   ├── a0807.pdf
+│   │   │   │   │   │   ├── a0802.pdf
+│   │   │   │   │   │   ├── a0803.pdf
+│   │   │   │   │   │   ├── a0811.pdf
+│   │   │   │   │   │   ├── a0806.pdf
+│   │   │   │   │   │   ├── a0810.pdf
+│   │   │   │   │   │   ├── a0808.pdf
+│   │   │   │   │   ├── 2008年
+│   │   │   │   │   │   ├── p0808.pdf
+│   │   │   │   │   │   ├── p0809.pdf
+│   │   │   │   │   │   ├── p0810.pdf
+│   │   │   │   │   │   ├── p0805.pdf
+│   │   │   │   │   │   ├── p0812.pdf
+│   │   │   │   │   │   ├── p0802.pdf
+│   │   │   │   │   │   ├── p0803.pdf
+│   │   │   │   │   │   ├── p0807.pdf
+│   │   │   │   │   │   ├── p0806.pdf
+│   │   │   │   │   │   ├── p0804.pdf
+│   │   │   │   │   │   ├── p0811.pdf
+│   │   │   │   │   │   ├── p0801.pdf
+│   │   │   │   │   ├── 2010年
+│   │   │   │   │   │   ├── p1011.pdf
+│   │   │   │   │   │   ├── p1001.pdf
+│   │   │   │   │   │   ├── p1005.pdf
+│   │   │   │   │   │   ├── p1006.pdf
+│   │   │   │   │   │   ├── p1008.pdf
+│   │   │   │   │   │   ├── p1007.pdf
+│   │   │   │   │   │   ├── p1009.pdf
+│   │   │   │   │   │   ├── p1012.pdf
+│   │   │   │   │   │   ├── p1004.pdf
+│   │   │   │   │   │   ├── p1003.pdf
+│   │   │   │   │   │   ├── p1002.pdf
+│   │   │   │   │   │   ├── p1010.pdf
+│   │   │   │   │   ├── 2002年
+│   │   │   │   │   │   ├── p0204.pdf
+│   │   │   │   │   │   ├── p0210.pdf
+│   │   │   │   │   │   ├── p0209.pdf
+│   │   │   │   │   │   ├── p0208.pdf
+│   │   │   │   │   │   ├── p0212.pdf
+│   │   │   │   │   │   ├── p0205.pdf
+│   │   │   │   │   │   ├── p0211.pdf
+│   │   │   │   │   │   ├── p0203.pdf
+│   │   │   │   │   │   ├── p0206.pdf
+│   │   │   │   │   │   ├── p0201.pdf
+│   │   │   │   │   │   ├── p0202.pdf
+│   │   │   │   │   │   ├── p0207.pdf
+│   │   │   │   │   ├── 2001年答案
+│   │   │   │   │   │   ├── a0108.pdf
+│   │   │   │   │   │   ├── a0110.pdf
+│   │   │   │   │   │   ├── a0109.pdf
+│   │   │   │   │   │   ├── a0111.pdf
+│   │   │   │   │   │   ├── a0112.pdf
+│   │   │   │   │   ├── 2007年
+│   │   │   │   │   │   ├── p0706.pdf
+│   │   │   │   │   │   ├── p0711.pdf
+│   │   │   │   │   │   ├── p0707.pdf
+│   │   │   │   │   │   ├── p0703.pdf
+│   │   │   │   │   │   ├── p0704.pdf
+│   │   │   │   │   │   ├── p0710.pdf
+│   │   │   │   │   │   ├── p0712.pdf
+│   │   │   │   │   │   ├── p0702.pdf
+│   │   │   │   │   │   ├── p0709.pdf
+│   │   │   │   │   │   ├── p0701.pdf
+│   │   │   │   │   │   ├── p0705.pdf
+│   │   │   │   │   ├── 2004年答案
+│   │   │   │   │   │   ├── a0408.pdf
+│   │   │   │   │   │   ├── a0409.pdf
+│   │   │   │   │   │   ├── a0412.pdf
+│   │   │   │   │   │   ├── a0407.pdf
+│   │   │   │   │   │   ├── a0410.pdf
+│   │   │   │   │   │   ├── a0406.pdf
+│   │   │   │   │   │   ├── a0401.pdf
+│   │   │   │   │   │   ├── a0405.pdf
+│   │   │   │   │   │   ├── a0404.pdf
+│   │   │   │   │   │   ├── a0411.pdf
+│   │   │   │   │   │   ├── a0402.pdf
+│   │   │   │   │   │   ├── a0403.pdf
+│   │   │   │   │   ├── 2006年
+│   │   │   │   │   │   ├── p0605.pdf
+│   │   │   │   │   │   ├── p0610.pdf
+│   │   │   │   │   │   ├── p0607.pdf
+│   │   │   │   │   │   ├── p0603.pdf
+│   │   │   │   │   │   ├── p0601.pdf
+│   │   │   │   │   │   ├── p0612.pdf
+│   │   │   │   │   │   ├── p0604.pdf
+│   │   │   │   │   │   ├── p0608.pdf
+│   │   │   │   │   │   ├── p0606.pdf
+│   │   │   │   │   │   ├── p0611.pdf
+│   │   │   │   │   │   ├── p0609.pdf
+│   │   │   │   │   │   ├── p0602.pdf
+│   │   │   │   │   ├── 2009年答案
+│   │   │   │   │   │   ├── a0907.pdf
+│   │   │   │   │   │   ├── a0901.pdf
+│   │   │   │   │   │   ├── a0909.pdf
+│   │   │   │   │   │   ├── a0904.pdf
+│   │   │   │   │   │   ├── a0905.pdf
+│   │   │   │   │   │   ├── a0912.pdf
+│   │   │   │   │   │   ├── a0906.pdf
+│   │   │   │   │   │   ├── a0908.pdf
+│   │   │   │   │   │   ├── a0910.pdf
+│   │   │   │   │   │   ├── a0903.pdf
+│   │   │   │   │   │   ├── a0902.pdf
+│   │   │   │   │   ├── 2003年
+│   │   │   │   │   │   ├── p0303.pdf
+│   │   │   │   │   │   ├── p0312.pdf
+│   │   │   │   │   │   ├── p0305.pdf
+│   │   │   │   │   │   ├── p0311.pdf
+│   │   │   │   │   │   ├── p0304.pdf
+│   │   │   │   │   │   ├── p0308.pdf
+│   │   │   │   │   │   ├── p0307.pdf
+│   │   │   │   │   │   ├── p0309.pdf
+│   │   │   │   │   │   ├── p0302.pdf
+│   │   │   │   │   │   ├── p0301.pdf
+│   │   │   │   │   │   ├── p0310.pdf
+│   │   │   │   │   │   ├── p0306.pdf
+│   │   │   │   │   ├── 2006年答案
+│   │   │   │   │   │   ├── a0601.pdf
+│   │   │   │   │   │   ├── a0603.pdf
+│   │   │   │   │   │   ├── a0610.pdf
+│   │   │   │   │   │   ├── a0607.pdf
+│   │   │   │   │   │   ├── a0602.pdf
+│   │   │   │   │   │   ├── a0606.pdf
+│   │   │   │   │   │   ├── a0605.pdf
+│   │   │   │   │   │   ├── a0612.pdf
+│   │   │   │   │   │   ├── a0611.pdf
+│   │   │   │   │   │   ├── a0604.pdf
+│   │   │   │   │   │   ├── a0609.pdf
+│   │   │   │   │   │   ├── a0608.pdf
+│   │   │   │   │   ├── 2004年
+│   │   │   │   │   │   ├── p0408.pdf
+│   │   │   │   │   │   ├── p0407.pdf
+│   │   │   │   │   │   ├── p0402.pdf
+│   │   │   │   │   │   ├── p0410.pdf
+│   │   │   │   │   │   ├── p0405.pdf
+│   │   │   │   │   │   ├── p0411.pdf
+│   │   │   │   │   │   ├── p0412.pdf
+│   │   │   │   │   │   ├── p0401.pdf
+│   │   │   │   │   │   ├── p0403.pdf
+│   │   │   │   │   │   ├── p0409.pdf
+│   │   │   │   │   │   ├── p0406.pdf
+│   │   │   │   │   │   ├── p0404.pdf
+│   │   │   │   │   ├── 2007年答案
+│   │   │   │   │   │   ├── a0705.pdf
+│   │   │   │   │   │   ├── a0712.pdf
+│   │   │   │   │   │   ├── a0711.pdf
+│   │   │   │   │   │   ├── a0702.pdf
+│   │   │   │   │   │   ├── a0704.pdf
+│   │   │   │   │   │   ├── a0706.pdf
+│   │   │   │   │   │   ├── a0710.pdf
+│   │   │   │   │   │   ├── a0701.pdf
+│   │   │   │   │   │   ├── a0703.pdf
+│   │   │   │   │   │   ├── a0709.pdf
+│   │   │   │   │   │   ├── a0707.pdf
+│   │   │   │   ├── fukuyamaMechanism.pdf
+│   │   │   ├── sarpong组会题
+│   │   │   │   ├── 图片
+│   │   │   │   │   ├── IMG_20161006_161650.jpg
+│   │   │   │   │   ├── IMG_20161013_142922.jpg
+│   │   │   │   │   ├── IMG_20161014_095508.jpg
+│   │   │   │   │   ├── IMG_20161014_100601.jpg
+│   │   │   │   │   ├── IMG_20161013_144532.jpg
+│   │   │   │   │   ├── IMG_20161028_200802.jpg
+│   │   │   │   │   ├── IMG_20161021_082126.jpg
+│   │   │   │   │   ├── IMG_20161013_145738.jpg
+│   │   │   │   │   ├── IMG_20161018_122023.jpg
+│   │   │   │   │   ├── IMG_20161014_101922.jpg
+│   │   │   │   │   ├── IMG_20161006_163935.jpg
+│   │   │   │   │   ├── IMG_20161014_094805.jpg
+│   │   │   │   │   ├── IMG_20161028_195606.jpg
+│   │   │   │   │   ├── IMG_20161024_184535.jpg
+│   │   │   │   │   ├── IMG_20161013_145003.jpg
+│   │   │   │   │   ├── IMG_20161018_114207.jpg
+│   │   │   │   │   ├── IMG_20161018_124023.jpg
+│   │   │   │   │   ├── IMG_20161022_082054.jpg
+│   │   │   │   │   ├── IMG_20161024_183200.jpg
+│   │   │   │   │   ├── IMG_20161013_151308.jpg
+│   │   │   │   │   ├── IMG_20161018_115101.jpg
+│   │   │   │   │   ├── IMG_20161014_100509.jpg
+│   │   │   │   │   ├── IMG_20160810_124132.jpg
+│   │   │   │   │   ├── IMG_20161014_100034.jpg
+│   │   │   │   │   ├── IMG_20160810_115009.jpg
+│   │   │   │   │   ├── IMG_20161021_081511.jpg
+│   │   │   │   │   ├── IMG_20161028_194902.jpg
+│   │   │   │   │   ├── IMG_20161022_080818.jpg
+│   │   │   │   │   ├── IMG_20161006_162642.jpg
+│   │   │   │   │   ├── IMG_20161028_200542.jpg
+│   │   │   │   │   ├── IMG_20161026_193239.jpg
+│   │   │   │   │   ├── IMG_20161026_193820.jpg
+│   │   │   │   │   ├── IMG_20160810_115838.jpg
+│   │   │   │   │   ├── IMG_20161024_184813.jpg
+│   │   │   │   │   ├── IMG_20161013_144825.jpg
+│   │   │   │   │   ├── IMG_20160810_114814.jpg
+│   │   │   │   │   ├── IMG_20161028_195435.jpg
+│   │   │   │   │   ├── IMG_20161014_100308.jpg
+│   │   │   │   │   ├── Screenshot_2016-10-07-16-45-44-706_com.miui.gallery.png
+│   │   │   │   │   ├── IMG_20161028_201157.jpg
+│   │   │   │   │   ├── IMG_20161022_181411.jpg
+│   │   │   │   │   ├── IMG_20161007_155750.jpg
+│   │   │   │   │   ├── IMG_20161026_193513.jpg
+│   │   │   │   │   ├── IMG_20161014_085030.jpg
+│   │   │   │   │   ├── IMG_20161021_082526.jpg
+│   │   │   │   │   ├── IMG_20161018_114952.jpg
+│   │   │   │   │   ├── IMG_20161022_080742.jpg
+│   │   │   │   │   ├── IMG_20161018_114920.jpg
+│   │   │   │   │   ├── IMG_20161028_201453.jpg
+│   │   │   │   │   ├── IMG_20161026_193339.jpg
+│   │   │   │   │   ├── IMG_20161024_184720.jpg
+│   │   │   │   │   ├── IMG_20161028_201107.jpg
+│   │   │   │   │   ├── IMG_20161024_184047.jpg
+│   │   │   │   │   ├── IMG_20161026_193418.jpg
+│   │   │   │   │   ├── IMG_20161028_195856.jpg
+│   │   │   │   │   ├── IMG_20161026_193609.jpg
+│   │   │   │   │   ├── IMG_20161014_095454.jpg
+│   │   │   │   │   ├── IMG_20161022_080336.jpg
+│   │   │   │   │   ├── IMG_20161019_121850.jpg
+│   │   │   │   │   ├── IMG_20161007_174257.jpg
+│   │   │   │   │   ├── IMG_20161028_200632.jpg
+│   │   │   │   │   ├── IMG_20161006_162157.jpg
+│   │   │   │   │   ├── IMG_20161021_084118.jpg
+│   │   │   │   │   ├── IMG_20161013_144132.jpg
+│   │   │   │   │   ├── IMG_20161024_184548.jpg
+│   │   │   │   │   ├── IMG_20161026_192946.jpg
+│   │   │   │   │   ├── IMG_20161018_115857.jpg
+│   │   │   │   │   ├── IMG_20161013_145145.jpg
+│   │   │   │   │   ├── IMG_20161006_161841.jpg
+│   │   │   │   │   ├── IMG_20161018_115625.jpg
+│   │   │   │   │   ├── IMG_20161018_114634.jpg
+│   │   │   │   │   ├── IMG_20161007_155929.jpg
+│   │   │   │   │   ├── IMG_20161028_200528.jpg
+│   │   │   │   │   ├── IMG_20161013_143350.jpg
+│   │   │   │   │   ├── IMG_20161013_144753.jpg
+│   │   │   │   │   ├── IMG_20161014_101933.jpg
+│   │   │   │   │   ├── IMG_20161014_101640.jpg
+│   │   │   │   │   ├── IMG_20161022_181436.jpg
+│   │   │   │   │   ├── IMG_20161022_081825.jpg
+│   │   │   │   │   ├── IMG_20161007_155740.jpg
+│   │   │   │   │   ├── IMG_20161006_161625.jpg
+│   │   │   │   │   ├── IMG_20161007_160054.jpg
+│   │   │   │   │   ├── IMG_20161022_181231.jpg
+│   │   │   │   │   ├── IMG_20161014_094724.jpg
+│   │   │   │   │   ├── IMG_20161012_142914.jpg
+│   │   │   │   │   ├── IMG_20161018_123757.jpg
+│   │   │   │   │   ├── IMG_20161028_201325.jpg
+│   │   │   │   │   ├── IMG_20161018_114529.jpg
+│   │   │   │   │   ├── IMG_20161022_081845.jpg
+│   │   │   │   │   ├── IMG_20161014_085313.jpg
+│   │   │   │   │   ├── IMG_20161021_083531.jpg
+│   │   │   │   │   ├── IMG_20161021_083832.jpg
+│   │   │   │   │   ├── IMG_20161014_095245.jpg
+│   │   │   │   │   ├── IMG_20161007_173004.jpg
+│   │   │   │   │   ├── IMG_20161006_163954.jpg
+│   │   │   │   │   ├── IMG_20161013_145655.jpg
+│   │   │   │   │   ├── IMG_20161014_085257.jpg
+│   │   │   │   │   ├── IMG_20161014_095554.jpg
+│   │   │   │   │   ├── IMG_20161019_202059.jpg
+│   │   │   │   │   ├── IMG_20161028_201528.jpg
+│   │   │   │   │   ├── IMG_20161014_102141.jpg
+│   │   │   │   │   ├── IMG_20161014_102211.jpg
+│   │   │   │   │   ├── IMG_20161018_114111.jpg
+│   │   │   │   │   ├── IMG_20161018_123934.jpg
+│   │   │   │   │   ├── IMG_20161021_081232.jpg
+│   │   │   │   │   ├── IMG_20161013_143931.jpg
+│   │   │   │   │   ├── IMG_20161019_202217.jpg
+│   │   │   │   │   ├── IMG_20161013_145857.jpg
+│   │   │   │   │   ├── IMG_20161024_182856.jpg
+│   │   │   │   │   ├── IMG_20161013_143844.jpg
+│   │   │   │   │   ├── IMG_20160810_115856.jpg
+│   │   │   │   │   ├── IMG_20161028_201051.jpg
+│   │   │   │   │   ├── IMG_20161014_095230.jpg
+│   │   │   │   │   ├── IMG_20161028_195230.jpg
+│   │   │   │   │   ├── IMG_20160810_120508.jpg
+│   │   │   │   │   ├── IMG_20161006_162515.jpg
+│   │   │   │   │   ├── IMG_20161022_184021.jpg
+│   │   │   │   │   ├── IMG_20161014_101822.jpg
+│   │   │   │   │   ├── IMG_20161014_101716.jpg
+│   │   │   │   │   ├── IMG_20161013_142534.jpg
+│   │   │   │   │   ├── IMG_20161026_193124.jpg
+│   │   │   │   │   ├── IMG_20160810_124149.jpg
+│   │   │   │   │   ├── IMG_20161024_185237.jpg
+│   │   │   │   │   ├── IMG_20161007_160134.jpg
+│   │   │   │   │   ├── IMG_20161021_084022.jpg
+│   │   │   │   │   ├── IMG_20161022_082146.jpg
+│   │   │   │   │   ├── IMG_20161013_145216.jpg
+│   │   │   │   │   ├── IMG_20161022_181007.jpg
+│   │   │   │   │   ├── IMG_20161019_202118.jpg
+│   │   │   │   │   ├── IMG_20161013_142143.jpg
+│   │   │   │   │   ├── IMG_20161022_081728.jpg
+│   │   │   │   │   ├── IMG_20161013_145941.jpg
+│   │   │   │   │   ├── IMG_20161007_165855.jpg
+│   │   │   │   │   ├── IMG_20161013_150019.jpg
+│   │   │   │   │   ├── IMG_20161018_115125.jpg
+│   │   │   │   │   ├── IMG_20161028_195328.jpg
+│   │   │   │   │   ├── IMG_20161013_151405.jpg
+│   │   │   │   │   ├── IMG_20161028_195115.jpg
+│   │   │   │   │   ├── IMG_20161013_142901.jpg
+│   │   │   │   │   ├── IMG_20161012_142928.jpg
+│   │   │   │   │   ├── IMG_20161013_144110.jpg
+│   │   │   │   │   ├── IMG_20161013_143654.jpg
+│   │   │   │   │   ├── IMG_20161019_201539.jpg
+│   │   │   │   │   ├── IMG_20161014_100548.jpg
+│   │   │   │   │   ├── IMG_20161013_145535.jpg
+│   │   │   │   │   ├── IMG_20161019_121629.jpg
+│   │   │   │   │   ├── IMG_20161014_102341.jpg
+│   │   │   │   │   ├── IMG_20161018_121626.jpg
+│   │   │   │   │   ├── IMG_20161013_151706.jpg
+│   │   │   │   │   ├── IMG_20160810_120812.jpg
+│   │   │   │   │   ├── IMG_20161026_121640.jpg
+│   │   │   │   │   ├── IMG_20161013_145634.jpg
+│   │   │   │   │   ├── IMG_20161018_114137.jpg
+│   │   │   │   │   ├── IMG_20161028_200048.jpg
+│   │   │   │   │   ├── IMG_20161021_082341.jpg
+│   │   │   │   │   ├── IMG_20161014_101536.jpg
+│   │   │   │   │   ├── IMG_20161022_181341.jpg
+│   │   │   │   │   ├── IMG_20161013_145912.jpg
+│   │   │   │   │   ├── IMG_20161006_162241.jpg
+│   │   │   │   │   ├── IMG_20161012_143132.jpg
+│   │   │   │   │   ├── IMG_20161026_121656.jpg
+│   │   │   │   │   ├── IMG_20161007_162054.jpg
+│   │   │   │   │   ├── IMG_20161022_081811.jpg
+│   │   │   │   │   ├── IMG_20160810_114735.jpg
+│   │   │   │   │   ├── IMG_20161012_132846.jpg
+│   │   │   │   │   ├── IMG_20161013_145317.jpg
+│   │   │   │   │   ├── IMG_20161026_193438.jpg
+│   │   │   │   │   ├── IMG_20161014_085218.jpg
+│   │   │   │   │   ├── IMG_20161024_182546.jpg
+│   │   │   │   │   ├── IMG_20161006_161930.jpg
+│   │   │   │   │   ├── IMG_20161014_101112.jpg
+│   │   │   │   │   ├── IMG_20161014_100246.jpg
+│   │   │   │   │   ├── IMG_20161028_200741.jpg
+│   │   │   │   │   ├── IMG_20161018_122042.jpg
+│   │   │   │   │   ├── IMG_20161014_085352.jpg
+│   │   │   │   │   ├── IMG_20161019_121743.jpg
+│   │   │   │   │   ├── IMG_20161012_132827.jpg
+│   │   │   │   │   ├── IMG_20161028_201232.jpg
+│   │   │   │   │   ├── IMG_20161007_173717.jpg
+│   │   │   │   │   ├── IMG_20161028_200419.jpg
+│   │   │   │   │   ├── IMG_20161014_095045.jpg
+│   │   │   │   │   ├── IMG_20161019_202245.jpg
+│   │   │   │   │   ├── IMG_20161022_180900.jpg
+│   │   │   │   │   ├── IMG_20161021_082244.jpg
+│   │   │   │   │   ├── IMG_20161022_080758.jpg
+│   │   │   │   │   ├── IMG_20161018_115721.jpg
+│   │   │   │   │   ├── IMG_20161028_195212.jpg
+│   │   │   │   │   ├── IMG_20161022_080653.jpg
+│   │   │   │   │   ├── IMG_20161014_095033.jpg
+│   │   │   │   │   ├── IMG_20161021_081957.jpg
+│   │   │   │   │   ├── IMG_20161021_082212.jpg
+│   │   │   │   │   ├── IMG_20161014_101651.jpg
+│   │   │   │   │   ├── IMG_20161018_114517.jpg
+│   │   │   │   │   ├── IMG_20161028_201307.jpg
+│   │   │   │   │   ├── IMG_20161006_164013.jpg
+│   │   │   │   │   ├── IMG_20161028_201404.jpg
+│   │   │   │   │   ├── IMG_20161013_142154.jpg
+│   │   │   │   │   ├── IMG_20161028_195552.jpg
+│   │   │   │   │   ├── IMG_20161021_081943.jpg
+│   │   │   │   │   ├── IMG_20161028_195021.jpg
+│   │   │   │   │   ├── IMG_20161026_193625.jpg
+│   │   │   │   │   ├── IMG_20161028_201214.jpg
+│   │   │   │   │   ├── IMG_20161022_081039.jpg
+│   │   │   │   │   ├── IMG_20161021_082640.jpg
+│   │   │   │   │   ├── IMG_20161019_201645.jpg
+│   │   │   │   │   ├── IMG_20161028_195915.jpg
+│   │   │   │   │   ├── IMG_20161014_094837.jpg
+│   │   │   │   │   ├── IMG_20161007_155836.jpg
+│   │   │   │   │   ├── IMG_20161007_173655.jpg
+│   │   │   │   │   ├── IMG_20161028_200102.jpg
+│   │   │   │   │   ├── IMG_20161006_161908.jpg
+│   │   │   │   │   ├── IMG_20161012_142344.jpg
+│   │   │   │   │   ├── IMG_20161013_144848.jpg
+│   │   │   │   │   ├── IMG_20161028_201254.jpg
+│   │   │   │   │   ├── IMG_20161013_143242.jpg
+│   │   │   │   │   ├── IMG_20161022_080708.jpg
+│   │   │   │   │   ├── IMG_20161026_193220.jpg
+│   │   │   │   │   ├── IMG_20161026_193708.jpg
+│   │   │   │   │   ├── IMG_20161014_101127.jpg
+│   │   │   │   │   ├── IMG_20161013_151323.jpg
+│   │   │   │   │   ├── IMG_20161028_201142.jpg
+│   │   │   │   │   ├── IMG_20161007_163622.jpg
+│   │   │   │   │   ├── IMG_20161014_095945.jpg
+│   │   │   │   │   ├── IMG_20161018_121559.jpg
+│   │   │   │   │   ├── IMG_20161013_142639.jpg
+│   │   │   │   │   ├── IMG_20161028_200257.jpg
+│   │   │   │   │   ├── IMG_20161021_082443.jpg
+│   │   │   │   │   ├── IMG_20161026_193722.jpg
+│   │   │   │   │   ├── IMG_20161022_181451.jpg
+│   │   │   │   │   ├── IMG_20161013_151346.jpg
+│   │   │   │   │   ├── IMG_20161022_081024.jpg
+│   │   │   │   │   ├── IMG_20161019_201944.jpg
+│   │   │   │   │   ├── IMG_20161028_194951.jpg
+│   │   │   │   │   ├── IMG_20161006_161946.jpg
+│   │   │   │   │   ├── IMG_20161028_195300.jpg
+│   │   │   │   │   ├── IMG_20161014_095927.jpg
+│   │   │   │   │   ├── IMG_20161013_145440.jpg
+│   │   │   │   │   ├── IMG_20161013_145241.jpg
+│   │   │   │   │   ├── IMG_20161018_115155.jpg
+│   │   │   │   │   ├── IMG_20161018_114500.jpg
+│   │   │   │   │   ├── IMG_20161028_195315.jpg
+│   │   │   │   │   ├── IMG_20161019_201407.jpg
+│   │   │   │   │   ├── IMG_20161007_163839.jpg
+│   │   │   │   │   ├── IMG_20161021_084040.jpg
+│   │   │   │   │   ├── IMG_20161013_145259.jpg
+│   │   │   │   │   ├── IMG_20161028_200705.jpg
+│   │   │   │   │   ├── IMG_20161013_151643.jpg
+│   │   │   │   │   ├── IMG_20161022_181251.jpg
+│   │   │   │   │   ├── IMG_20161014_095706.jpg
+│   │   │   │   │   ├── IMG_20161028_201512.jpg
+│   │   │   │   │   ├── IMG_20161018_115344.jpg
+│   │   │   │   │   ├── IMG_20161022_080129.jpg
+│   │   │   │   │   ├── IMG_20161018_121930.jpg
+│   │   │   │   │   ├── IMG_20161013_142514.jpg
+│   │   │   │   │   ├── IMG_20161028_200934.jpg
+│   │   │   │   │   ├── IMG_20161024_184519.jpg
+│   │   │   │   │   ├── IMG_20161014_100053.jpg
+│   │   │   │   │   ├── IMG_20161021_083503.jpg
+│   │   │   │   │   ├── IMG_20161013_150053.jpg
+│   │   │   │   │   ├── IMG_20161022_081056.jpg
+│   │   │   │   │   ├── IMG_20161019_121708.jpg
+│   │   │   │   │   ├── IMG_20161014_095823.jpg
+│   │   │   │   │   ├── IMG_20161021_083517.jpg
+│   │   │   │   │   ├── IMG_20161013_144040.jpg
+│   │   │   │   │   ├── IMG_20161012_143114.jpg
+│   │   │   │   │   ├── IMG_20161028_201347.jpg
+│   │   │   │   │   ├── IMG_20161022_081650.jpg
+│   │   │   │   │   ├── IMG_20161014_095440.jpg
+│   │   │   │   │   ├── IMG_20161022_080436.jpg
+│   │   │   │   │   ├── IMG_20161014_101627.jpg
+│   │   │   │   │   ├── IMG_20161026_193531.jpg
+│   │   │   │   │   ├── IMG_20161006_162707.jpg
+│   │   │   │   │   ├── IMG_20161013_122112.jpg
+│   │   │   │   │   ├── IMG_20161024_184028.jpg
+│   │   │   │   │   ├── IMG_20161021_081244.jpg
+│   │   │   │   │   ├── IMG_20160810_114635.jpg
+│   │   │   │   │   ├── IMG_20161021_082407.jpg
+│   │   │   │   │   ├── IMG_20161028_195401.jpg
+│   │   │   │   │   ├── IMG_20161022_082216.jpg
+│   │   │   │   │   ├── IMG_20161014_101949.jpg
+│   │   │   │   │   ├── IMG_20161014_102441.jpg
+│   │   │   │   │   ├── IMG_20161028_195345.jpg
+│   │   │   │   │   ├── IMG_20161013_144713.jpg
+│   │   │   │   │   ├── IMG_20161028_195756.jpg
+│   │   │   │   │   ├── IMG_20161028_201420.jpg
+│   │   │   │   │   ├── IMG_20161021_083546.jpg
+│   │   │   │   │   ├── IMG_20161028_200244.jpg
+│   │   │   │   │   ├── IMG_20161028_201439.jpg
+│   │   │   │   │   ├── IMG_20161024_183018.jpg
+│   │   │   │   │   ├── IMG_20161014_101549.jpg
+│   │   │   │   │   ├── IMG_20161019_121812.jpg
+│   │   │   │   │   ├── IMG_20161021_083600.jpg
+│   │   │   │   │   ├── IMG_20161006_161601.jpg
+│   │   │   │   │   ├── IMG_20161013_143753.jpg
+│   │   │   │   │   ├── IMG_20161028_200158.jpg
+│   │   │   │   │   ├── IMG_20161022_184004.jpg
+│   │   │   │   │   ├── IMG_20161014_095526.jpg
+│   │   │   │   │   ├── IMG_20161021_083848.jpg
+│   │   │   │   │   ├── IMG_20161021_083628.jpg
+│   │   │   │   │   ├── IMG_20161014_101704.jpg
+│   │   │   │   │   ├── IMG_20161021_083422.jpg
+│   │   │   │   │   ├── IMG_20161021_081410.jpg
+│   │   │   │   │   ├── IMG_20161018_115516.jpg
+│   │   │   │   │   ├── IMG_20161028_200007.jpg
+│   │   │   │   │   ├── IMG_20161006_164029.jpg
+│   │   │   │   │   ├── IMG_20161021_083754.jpg
+│   │   │   │   │   ├── IMG_20161013_145334.jpg
+│   │   │   │   │   ├── IMG_20161014_102359.jpg
+│   │   │   │   │   ├── IMG_20161014_101911.jpg
+│   │   │   │   │   ├── IMG_20161018_114305.jpg
+│   │   │   │   │   ├── IMG_20161028_195005.jpg
+│   │   │   │   │   ├── IMG_20161014_101522.jpg
+│   │   │   │   │   ├── IMG_20160810_114545.jpg
+│   │   │   │   │   ├── IMG_20161013_142432.jpg
+│   │   │   │   │   ├── IMG_20161022_081617.jpg
+│   │   │   │   │   ├── IMG_20161028_200219.jpg
+│   │   │   │   │   ├── IMG_20161018_114843.jpg
+│   │   │   │   │   ├── IMG_20161028_200025.jpg
+│   │   │   │   │   ├── IMG_20161014_102036.jpg
+│   │   │   │   │   ├── IMG_20161021_081349_1.jpg
+│   │   │   │   │   ├── IMG_20161012_132722.jpg
+│   │   │   │   │   ├── IMG_20161021_081930.jpg
+│   │   │   │   │   ├── IMG_20161018_115400.jpg
+│   │   │   │   │   ├── IMG_20161021_082555.jpg
+│   │   │   │   │   ├── IMG_20161013_143704.jpg
+│   │   │   │   │   ├── IMG_20161013_145024.jpg
+│   │   │   │   │   ├── IMG_20161006_164052.jpg
+│   │   │   │   │   ├── IMG_20161022_080220.jpg
+│   │   │   │   │   ├── IMG_20161021_083616.jpg
+│   │   │   │   │   ├── IMG_20161014_100405.jpg
+│   │   │   │   │   ├── IMG_20161024_182500.jpg
+│   │   │   │   │   ├── IMG_20161013_145133.jpg
+│   │   │   │   │   ├── IMG_20161013_143959.jpg
+│   │   │   │   │   ├── IMG_20161013_122232.jpg
+│   │   │   │   │   ├── IMG_20161024_183215.jpg
+│   │   │   │   │   ├── IMG_20161019_201528.jpg
+│   │   │   │   │   ├── IMG_20161014_102517.jpg
+│   │   │   │   │   ├── IMG_20161014_094745.jpg
+│   │   │   │   │   ├── IMG_20161021_081852.jpg
+│   │   │   │   │   ├── IMG_20161019_202011.jpg
+│   │   │   │   │   ├── IMG_20161028_200510.jpg
+│   │   │   │   │   ├── IMG_20161022_080916.jpg
+│   │   │   │   │   ├── IMG_20161014_101859.jpg
+│   │   │   │   │   ├── IMG_20161018_123951.jpg
+│   │   │   │   │   ├── IMG_20161007_155726.jpg
+│   │   │   │   │   ├── IMG_20161013_142420.jpg
+│   │   │   │   │   ├── IMG_20161013_144237.jpg
+│   │   │   │   │   ├── IMG_20161013_145839.jpg
+│   │   │   │   │   ├── IMG_20161024_182607.jpg
+│   │   │   │   │   ├── IMG_20161022_180703.jpg
+│   │   │   │   │   ├── IMG_20161013_143830.jpg
+│   │   │   │   │   ├── Screenshot_2016-10-12-14-24-28-531_com.miui.gallery.png
+│   │   │   │   │   ├── IMG_20161018_115826.jpg
+│   │   │   │   │   ├── IMG_20161018_121945.jpg
+│   │   │   │   │   ├── IMG_20161019_201333.jpg
+│   │   │   │   │   ├── IMG_20161021_082308.jpg
+│   │   │   │   │   ├── IMG_20161021_083434.jpg
+│   │   │   │   │   ├── IMG_20161018_115008.jpg
+│   │   │   │   │   ├── IMG_20160810_121700.jpg
+│   │   │   │   │   ├── IMG_20161018_121902.jpg
+│   │   │   │   │   ├── IMG_20161028_201021.jpg
+│   │   │   │   │   ├── IMG_20161021_083900.jpg
+│   │   │   │   │   ├── IMG_20161026_193101.jpg
+│   │   │   │   │   ├── IMG_20161022_081010.jpg
+│   │   │   │   │   ├── IMG_20161012_142318.jpg
+│   │   │   │   │   ├── IMG_20161014_100419.jpg
+│   │   │   │   │   ├── IMG_20161024_185112.jpg
+│   │   │   │   │   ├── IMG_20161018_114348.jpg
+│   │   │   │   │   ├── IMG_20161028_195246.jpg
+│   │   │   │   │   ├── IMG_20161013_143026.jpg
+│   │   │   │   │   ├── IMG_20161024_185145.jpg
+│   │   │   │   │   ├── IMG_20161014_100745.jpg
+│   │   │   │   │   ├── IMG_20161013_144601.jpg
+│   │   │   │   │   ├── IMG_20161007_164617.jpg
+│   │   │   │   │   ├── IMG_20161007_163441.jpg
+│   │   │   │   │   ├── IMG_20161012_142527.jpg
+│   │   │   │   │   ├── IMG_20161012_132905.jpg
+│   │   │   │   │   ├── IMG_20161013_143402.jpg
+│   │   │   │   │   ├── IMG_20161014_102235.jpg
+│   │   │   │   │   ├── IMG_20161022_184106.jpg
+│   │   │   │   │   ├── IMG_20161013_151620.jpg
+│   │   │   │   │   ├── IMG_20161014_101744.jpg
+│   │   │   │   │   ├── IMG_20161013_144057.jpg
+│   │   │   │   │   ├── IMG_20161019_202229.jpg
+│   │   │   │   │   ├── IMG_20161022_080501.jpg
+│   │   │   │   │   ├── IMG_20161028_200450.jpg
+│   │   │   │   │   ├── IMG_20161007_163506.jpg
+│   │   │   │   │   ├── IMG_20161018_114150.jpg
+│   │   │   │   │   ├── IMG_20161007_170347.jpg
+│   │   │   │   │   ├── IMG_20161024_185203.jpg
+│   │   │   │   │   ├── IMG_20161022_080402.jpg
+│   │   │   │   │   ├── IMG_20161014_101145.jpg
+│   │   │   │   │   ├── IMG_20161018_115428.jpg
+│   │   │   │   │   ├── IMG_20161022_181507.jpg
+│   │   │   │   │   ├── IMG_20161013_151017.jpg
+│   │   │   │   │   ├── IMG_20161018_114403.jpg
+│   │   │   │   │   ├── IMG_20161019_202300.jpg
+│   │   │   │   │   ├── IMG_20161014_095723.jpg
+│   │   │   │   │   ├── IMG_20160810_121003.jpg
+│   │   │   │   │   ├── IMG_20161013_143719.jpg
+│   │   │   │   │   ├── IMG_20161018_114831.jpg
+│   │   │   │   │   ├── IMG_20161028_195102.jpg
+│   │   │   │   │   ├── IMG_20161014_101507.jpg
+│   │   │   │   │   ├── IMG_20161013_142551.jpg
+│   │   │   │   │   ├── IMG_20161018_115040.jpg
+│   │   │   │   │   ├── IMG_20161021_082137.jpg
+│   │   │   │   │   ├── IMG_20160810_114721.jpg
+│   │   │   │   │   ├── IMG_20161014_095959.jpg
+│   │   │   │   │   ├── IMG_20161028_194827.jpg
+│   │   │   │   │   ├── Screenshot_2016-10-14-09-49-25-267_com.miui.gallery.png
+│   │   │   │   │   ├── IMG_20161021_083953.jpg
+│   │   │   │   │   ├── IMG_20161012_142144.jpg
+│   │   │   │   │   ├── IMG_20161014_102300.jpg
+│   │   │   │   │   ├── IMG_20161014_102415.jpg
+│   │   │   │   │   ├── IMG_20161026_193315.jpg
+│   │   │   │   │   ├── IMG_20161013_150119.jpg
+│   │   │   │   │   ├── IMG_20161012_132746.jpg
+│   │   │   │   │   ├── IMG_20160810_124033.jpg
+│   │   │   │   │   ├── IMG_20161007_163713.jpg
+│   │   │   │   │   ├── IMG_20161022_080720.jpg
+│   │   │   │   │   ├── IMG_20161018_115805.jpg
+│   │   │   │   │   ├── IMG_20161021_082503.jpg
+│   │   │   │   │   ├── IMG_20161019_121543.jpg
+│   │   │   │   │   ├── IMG_20161019_201621.jpg
+│   │   │   │   │   ├── IMG_20160810_120243.jpg
+│   │   │   │   │   ├── IMG_20161028_200910.jpg
+│   │   │   │   │   ├── IMG_20161028_195943.jpg
+│   │   │   │   │   ├── IMG_20161013_145547.jpg
+│   │   │   │   │   ├── IMG_20161024_184827.jpg
+│   │   │   │   │   ├── IMG_20161013_122245.jpg
+│   │   │   │   │   ├── IMG_20161012_142621.jpg
+│   │   │   │   │   ├── IMG_20160810_115823.jpg
+│   │   │   │   │   ├── IMG_20161006_164125.jpg
+│   │   │   │   │   ├── IMG_20161019_201348.jpg
+│   │   │   │   │   ├── IMG_20161019_202131.jpg
+│   │   │   │   │   ├── IMG_20161028_200434.jpg
+│   │   │   │   │   ├── IMG_20161013_144739.jpg
+│   │   │   │   │   ├── IMG_20161022_180922.jpg
+│   │   │   │   │   ├── IMG_20161007_163656.jpg
+│   │   │   │   │   ├── IMG_20161022_181029.jpg
+│   │   │   │   │   ├── IMG_20161013_145619.jpg
+│   │   │   │   │   ├── IMG_20161026_193746.jpg
+│   │   │   │   │   ├── IMG_20161007_163805.jpg
+│   │   │   │   │   ├── IMG_20161018_123720.jpg
+│   │   │   │   │   ├── IMG_20161028_201000.jpg
+│   │   │   │   │   ├── IMG_20161022_082229.jpg
+│   │   │   │   │   ├── IMG_20161026_123714.jpg
+│   │   │   │   │   ├── IMG_20161013_143943.jpg
+│   │   │   │   │   ├── IMG_20161013_144221.jpg
+│   │   │   │   │   ├── IMG_20161028_195416.jpg
+│   │   │   │   │   ├── IMG_20161014_102323.jpg
+│   │   │   │   │   ├── IMG_20161026_193839.jpg
+│   │   │   │   │   ├── IMG_20161026_123734.jpg
+│   │   │   │   │   ├── IMG_20161026_193401.jpg
+│   │   │   │   │   ├── IMG_20161022_184052.jpg
+│   │   │   │   │   ├── IMG_20161019_201811.jpg
+│   │   │   │   │   ├── IMG_20161022_080550.jpg
+│   │   │   │   │   ├── IMG_20161028_200858.jpg
+│   │   │   │   │   ├── IMG_20161013_122130.jpg
+│   │   │   │   │   ├── IMG_20161013_145928.jpg
+│   │   │   │   │   ├── IMG_20161007_165917.jpg
+│   │   │   │   │   ├── IMG_20161012_132810.jpg
+│   │   │   │   │   ├── IMG_20161021_081911.jpg
+│   │   │   │   │   ├── IMG_20161013_151653.jpg
+│   │   │   │   │   ├── IMG_20161014_095809.jpg
+│   │   │   │   │   ├── IMG_20161014_085108.jpg
+│   │   │   │   │   ├── IMG_20161014_094916.jpg
+│   │   │   │   │   ├── IMG_20161028_195825.jpg
+│   │   │   │   │   ├── IMG_20160810_112315.jpg
+│   │   │   │   │   ├── IMG_20160810_123910.jpg
+│   │   │   │   │   ├── IMG_20161021_083918.jpg
+│   │   │   │   │   ├── IMG_20161019_201719.jpg
+│   │   │   │   │   ├── IMG_20161018_115952.jpg
+│   │   │   │   │   ├── IMG_20161018_114858.jpg
+│   │   │   │   │   ├── IMG_20161018_121833.jpg
+│   │   │   │   │   ├── IMG_20161014_100350.jpg
+│   │   │   │   │   ├── IMG_20161021_081119.jpg
+│   │   │   │   │   ├── IMG_20161024_183038.jpg
+│   │   │   │   │   ├── IMG_20161013_142407.jpg
+│   │   │   │   │   ├── IMG_20161022_184400.jpg
+│   │   │   │   │   ├── IMG_20161007_163530.jpg
+│   │   │   │   │   ├── IMG_20161018_115614.jpg
+│   │   │   │   │   ├── IMG_20161007_155817.jpg
+│   │   │   │   │   ├── IMG_20161014_085146.jpg
+│   │   │   │   │   ├── IMG_20161026_193014.jpg
+│   │   │   │   │   ├── IMG_20161018_115649.jpg
+│   │   │   │   │   ├── IMG_20161028_195533.jpg
+│   │   │   │   │   ├── IMG_20161018_123732.jpg
+│   │   │   │   │   ├── IMG_20161014_102430.jpg
+│   │   │   │   │   ├── IMG_20161021_083447.jpg
+│   │   │   │   │   ├── IMG_20161013_150106.jpg
+│   │   │   │   │   ├── IMG_20161013_143429.jpg
+│   │   │   │   │   ├── IMG_20161014_085327.jpg
+│   │   │   │   │   ├── IMG_20161014_102507.jpg
+│   │   │   │   │   ├── IMG_20161028_195744.jpg
+│   │   │   │   │   ├── IMG_20161022_184349.jpg
+│   │   │   │   │   ├── IMG_20161014_095752.jpg
+│   │   │   │   │   ├── IMG_20161006_161818.jpg
+│   │   │   │   │   ├── IMG_20161028_200555.jpg
+│   │   │   │   │   ├── IMG_20161028_194846.jpg
+│   │   │   │   │   ├── IMG_20161022_181043.jpg
+│   │   │   │   │   ├── IMG_20161018_120023.jpg
+│   │   │   │   │   ├── IMG_20161014_102452.jpg
+│   │   │   │   │   ├── IMG_20161014_095642.jpg
+│   │   │   │   │   ├── IMG_20161026_193551.jpg
+│   │   │   │   │   ├── IMG_20161022_080319.jpg
+│   │   │   │   │   ├── IMG_20161022_082114.jpg
+│   │   │   │   │   ├── IMG_20161007_174053.jpg
+│   │   │   │   │   ├── IMG_20160810_120438.jpg
+│   │   │   │   │   ├── IMG_20161022_180953.jpg
+│   │   │   │   │   ├── IMG_20161022_183949.jpg
+│   │   │   │   │   ├── IMG_20161012_142202.jpg
+│   │   │   │   │   ├── IMG_20161014_101729.jpg
+│   │   │   │   │   ├── IMG_20161028_200349.jpg
+│   │   │   │   │   ├── IMG_20161021_082018.jpg
+│   │   │   │   │   ├── IMG_20160810_114700.jpg
+│   │   │   │   │   ├── IMG_20161006_162026.jpg
+│   │   │   │   │   ├── IMG_20161021_081258.jpg
+│   │   │   │   │   ├── IMG_20161013_143811.jpg
+│   │   │   │   │   ├── IMG_20161026_193035.jpg
+│   │   │   │   │   ├── IMG_20161019_201959.jpg
+│   │   │   │   │   ├── IMG_20161014_102108.jpg
+│   │   │   │   │   ├── IMG_20161014_101056.jpg
+│   │   │   │   │   ├── IMG_20161022_080612.jpg
+│   │   │   │   │   ├── IMG_20161018_114713.jpg
+│   │   │   │   │   ├── IMG_20161024_184642.jpg
+│   │   │   │   │   ├── IMG_20161024_182841.jpg
+│   │   │   │   │   ├── IMG_20161024_185253.jpg
+│   │   │   │   │   ├── IMG_20161014_102156.jpg
+│   │   │   │   │   ├── IMG_20161022_180843.jpg
+│   │   │   │   │   ├── IMG_20161021_083807.jpg
+│   │   │   │   │   ├── IMG_20161007_172950.jpg
+│   │   │   │   │   ├── IMG_20161024_184759.jpg
+│   │   │   │   │   ├── IMG_20161007_162122.jpg
+│   │   │   │   │   ├── IMG_20161024_185129.jpg
+│   │   │   │   │   ├── IMG_20161014_100656.jpg
+│   │   │   │   │   ├── IMG_20161021_081213.jpg
+│   │   │   │   │   ├── IMG_20161014_101847.jpg
+│   │   │   │   │   ├── IMG_20161024_182620.jpg
+│   │   │   │   │   ├── IMG_20161013_143324.jpg
+│   │   │   │   │   ├── IMG_20161012_142638.jpg
+│   │   │   │   │   ├── IMG_20160810_121644.jpg
+│   │   │   │   │   ├── IMG_20161018_115927.jpg
+│   │   │   │   │   ├── IMG_20161018_115237.jpg
+│   │   │   │   │   ├── IMG_20161013_143309.jpg
+│   │   │   │   │   ├── IMG_20161019_201743.jpg
+│   │   │   │   │   ├── IMG_20160810_112256.jpg
+│   │   │   │   ├── 2011solution.doc
+│   │   │   │   ├── sarpong2007.doc
+│   │   │   │   ├── 2011p2.doc
+│   │   │   │   ├── 2007solution.doc
+│   │   │   │   ├── sarpong组会题2005.docx
+│   │   │   │   ├── 2011-p1.doc
+│   │   │   │   ├── sarpong组会题 整理by Roentgenium.zip
+│   │   │   │   ├── 080910.doc
+│   │   │   │   ├── sarpong组会题2004.pdf
+│   │   ├── 未经整理的杂书
+│   │   │   ├── [有机化学中的立体电子效应].文字版.pdf
+│   │   │   ├── 有机化合物的定性鉴别.ppt
+│   │   │   ├── 《元素化学》(格林伍德)中册.pdf
+│   │   │   ├── 有机化学基本概念.ppt
+│   │   │   ├── Frontier.Orbitals.and.Organic%20Chemical.Reactions(1).pdf
+│   │   │   ├── M.C. White(2).pdf
+│   │   │   ├── the art of writing reactions mechanism.pdf
+│   │   │   ├── 中级无机化学(第二版).pdf
+│   │   │   ├── Modern Arene Chemistry(1).pdf
+│   │   │   ├── 物质结构_徐光宪等.pdf
+│   │   │   ├── 15_27_Lectures.pdf
+│   │   │   ├── 北大基础有机化学-2讲义(1).pdf
+│   │   │   ├── 物质结构_徐光宪等(1).pdf
+│   │   │   ├── 《元素化学》上册.pdf
+│   │   │   ├── 历年真题.rar
+│   │   │   ├── 第一届Chemy化学奥林匹克竞赛联赛试题答案.pdf
+│   │   │   ├── Organic Chemistry - J Clayden(1).pdf
+│   │   │   ├── March高等有机（下）(1).pdf
+│   │   │   ├── Advanced Organic Chemistry Part A(1).pdf
+│   │   │   ├── 混乱的晶系概念.pdf
+│   │   │   ├── March高等有机（上）(1).pdf
+│   │   │   ├── 《高等无机化学》下册(F.A.科顿).pdf
+│   │   │   ├── 2018夏季考答题纸.pdf
+│   │   │   ├── 物质结构_徐光宪等(2).pdf
+│   │   │   ├── 有机人名反应(1).pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-2.pdf
+│   │   │   ├── 平衡常数.ppt
+│   │   │   ├── 《元素化学》(格林伍德)下册.pdf
+│   │   │   ├── 莫里森有机化学(1).pdf
+│   │   │   ├── New Strategies in Chemical Synthesis and Catalysis(1).pdf
+│   │   │   ├── 《高等无机化学》下册(F.A.科顿)(1).pdf
+│   │   │   ├── Spectrometric Identification of Organic Compounds(7th).pdf
+│   │   │   ├── 自由基化学[R.L.Huang](1).pdf
+│   │   │   ├── 有机化学中的立体电子效应.pdf
+│   │   │   ├── Strategic Applications of Named Reactions in Organic Synthesis.PDF
+│   │   │   ├── 28_31_Lectures.pdf
+│   │   │   ├── 结构化学基础(1).pdf
+│   │   │   ├── DLC组化学竞赛联考试题（第二次联考）.pdf
+│   │   │   ├── Classics in Total Synthesis(1).pdf
+│   │   │   ├── 离子极化理论在无机化学中的应用.pdf
+│   │   │   ├── fukuyama 1.pdf
+│   │   │   ├── ATKINS_Physical Chemistry,8th ed(1).pdf
+│   │   │   ├── 结构化学基础.pdf
+│   │   │   ├── 高等无机结构化学-麦松威-北京大学出版社(1).pdf
+│   │   │   ├── 《元素化学》上册(1).pdf
+│   │   │   ├── fukuyama 1(1).pdf
+│   │   │   ├── 杂环化学.pdf
+│   │   │   ├── 群论在化学中的应用_科顿(1).pdf
+│   │   │   ├── 28_31_Lectures(1).pdf
+│   │   │   ├── 《高等无机化学》上册(F.A.科顿).pdf
+│   │   │   ├── 有机人名反应及机理(1).pdf
+│   │   │   ├── Classics in Total Synthesis.pdf
+│   │   │   ├── the art of writing reactions mechanism(1).pdf
+│   │   │   ├── 有机人名反应及机理.pdf
+│   │   │   ├── 15_27_Lectures(1).pdf
+│   │   │   ├── 电子效应学习.pdf
+│   │   │   ├── 刘奉岭教授主讲结构化学典型例题精讲.pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-2(1).pdf
+│   │   │   ├── 无机化学（第三版）（上、下册）武汉大学 吉林大学等校编 高等教育出版社(1).pdf
+│   │   │   ├── the art and science of total synthesis.pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-3.pdf
+│   │   │   ├── Advanced Organic Chemistry Part B(1).pdf
+│   │   │   ├── 01-14_Lectures.206.pdf
+│   │   │   ├── 《元素化学》(格林伍德)下册(1).pdf
+│   │   │   ├── 有机化合物结构鉴定与有机波谱学（第二版）(宁永成)科学出版社-1.pdf
+│   │   │   ├── 邢大本.pdf
+│   │   │   ├── Modern Arene Chemistry.pdf
+│   │   │   ├── 有机化学中的溶剂效应(1).pdf
+│   │   │   ├── Molecular_Orbital_Theory(2).pdf
+│   │   │   ├── 2nd N5CChO(终稿).pdf
+│   │   │   ├── Advanced Organic Chemistry Part B.pdf
+│   │   │   ├── Classics in Total Synthesis lll.pdf
+│   │   │   ├── Atkins,_Physical_Chemistry_8th_-_Solutions_Ma(1).pdf
+│   │   │   ├── 高等无机结构化学-麦松威-北京大学出版社.pdf
+│   │   │   ├── Classics in Total Synthesis(Teaching Material)(2).pdf
+│   │   │   ├── M.C. White.pdf
+│   │   │   ├── 《高等无机化学》上册(F.A.科顿)(1).pdf
+│   │   │   ├── Strategic Applications of Named Reactions in Organic Synthesis(2).PDF
+│   │   │   ├── Advanced Organic Synthesis(1).pdf
+│   │   │   ├── 前线轨道与有机化学反应(1).pdf
+│   │   │   ├── the art and science of total synthesis(2).pdf
+│   │   │   ├── the art of writing reactions mechanism(2).pdf
+│   │   │   ├── Modern Organic Synthesis.pdf
+│   │   │   ├── 分子轨道理论与有机反应.pdf
+│   │   │   ├── 第46届国际化学奥林匹克竞赛预备题中文译本.pdf
+│   │   │   ├── 分子轨道理论与有机反应(1).pdf
+│   │   │   ├── [有机化合物结构鉴定与有机波谱学]第二版(宁永成)科学出版社-1.扫描版.pdf
+│   │   │   ├── 晶胞辨析.doc
+│   │   │   ├── Answers to the art of writing reactions mechanism.pdf
+│   │   │   ├── Advanced Organic Synthesis.pdf
+│   │   │   ├── 莫里森有机化学.pdf
+│   │   │   ├── Molecular Quantum Mechanics.pdf
+│   │   │   ├── 初探无机化合物的颜色.pdf
+│   │   │   ├── 有机化学中重排反应(文字版).doc
+│   │   │   ├── 结晶化学导论(第二版)(1).pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-4(1).pdf
+│   │   │   ├── Frontier.Orbitals.and.Organic%20Chemical.Reactions.pdf
+│   │   │   ├── 考研必备_100种有机化学反应2(51-100).pdf
+│   │   │   ├── March高等有机（下）.pdf
+│   │   │   ├── March高等有机（下）(2).pdf
+│   │   │   ├── 中间价态氧化物.pdf
+│   │   │   ├── 分子轨道理论与有机反应(2).pdf
+│   │   │   ├── 考研必备_100种有机化学反应1(1-50).pdf
+│   │   │   ├── New Strategies in Chemical Synthesis and Catalysis.pdf
+│   │   │   ├── Classics in Total Synthesis(Teaching Material).pdf
+│   │   │   ├── 有机人名反应.pdf
+│   │   │   ├── M.C. White(1).pdf
+│   │   │   ├── Modern Organic Synthesis(1).pdf
+│   │   │   ├── ATKINS_Physical Chemistry,8th ed.pdf
+│   │   │   ├── 精选有机人名反应.pdf
+│   │   │   ├── 高等物化(1).pdf
+│   │   │   ├── 有机化学中的溶剂效应(2).pdf
+│   │   │   ├── Classics in Total Synthesis(2).pdf
+│   │   │   ├── 无机化学（第三版）（上、下册）武汉大学 吉林大学等校编 高等教育出版社.pdf
+│   │   │   ├── 结晶化学导论(第二版).pdf
+│   │   │   ├── 第一届Chemy化学奥林匹克竞赛联赛试题.pdf
+│   │   │   ├── Organic Chemistry - J Clayden.pdf
+│   │   │   ├── 无机化学（第三版）（上、下册）武汉大学 吉林大学等校编 高等教育出版社(2).pdf
+│   │   │   ├── 高等物化.pdf
+│   │   │   ├── 重氮化和重氮盐的反应综述.doc
+│   │   │   ├── Advanced Organic Chemistry Part A.pdf
+│   │   │   ├── 群论在化学中的应用_科顿.pdf
+│   │   │   ├── 有机重排反应总结.doc
+│   │   │   ├── Favorskii_重排.doc
+│   │   │   ├── [有机化学].第二版.陈洪超.文字版.pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-1(1).pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-1.pdf
+│   │   │   ├── 前线轨道与有机化学反应.pdf
+│   │   │   ├── 一种主族元素小分子或离子中π键的判断.pdf
+│   │   │   ├── 反应机理.ppt
+│   │   │   ├── 自由基化学[R.L.Huang].pdf
+│   │   │   ├── 有机化学中的立体电子效应(1).pdf
+│   │   │   ├── 有机化学中的溶剂效应.pdf
+│   │   │   ├── 邢大本(1).pdf
+│   │   │   ├── 杂环化学(1).pdf
+│   │   │   ├── 01-14_Lectures.206(1).pdf
+│   │   │   ├── 《元素化学》(格林伍德)中册(1).pdf
+│   │   │   ├── [有机化学中的溶剂效应].扫描版.pdf
+│   │   │   ├── the art and science of total synthesis(1).pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-3(1).pdf
+│   │   │   ├── 有机ppt.rar
+│   │   │   ├── Atkins,_Physical_Chemistry_8th_-_Solutions_Ma.pdf
+│   │   │   ├── 北大中级有机化学讲义-第二版-4.pdf
+│   │   │   ├── 《元素化学》上册(2).pdf
+│   │   │   ├── Molecular Quantum Mechanics(1).pdf
+│   │   │   ├── Strategic Applications of Named Reactions in Organic Synthesis(1).PDF
+│   │   │   ├── 插烯规则及其应用.pdf
+│   │   │   ├── 图解量子化学.pdf
+│   │   │   ├── Answers to the art of writing reactions mechanism(1).pdf
+│   │   │   ├── 元素化学.rar
+│   │   │   ├── Molecular_Orbital_Theory(1).pdf
+│   │   │   ├── 有机人名反应及机理(2).pdf
+│   │   │   ├── Spectrometric Identification of Organic Compounds(7th)(1).pdf
+│   │   │   ├── 图解量子化学(1).pdf
+│   │   │   ├── 我爱奥赛网第二届化学奥赛网络夏令营.qud.cfg
+│   │   │   ├── Classics in Total Synthesis(Teaching Material)(1).pdf
+│   │   │   ├── Molecular_Orbital_Theory.pdf
+│   │   │   ├── March高等有机（上）.pdf
+│   │   │   ├── 中级无机化学(第二版)(1).pdf
+│   │   │   ├── 有机化合物结构鉴定与有机波谱学（第二版）(宁永成)科学出版社-1(1).pdf
+│   │   │   ├── Classics in Total Synthesis lll(1).pdf
+│   │   │   ├── 前线轨道与有机化学反应(2).pdf
+│   │   │   ├── 北大基础有机化学-2讲义.pdf
+│   │   │   ├── 2018夏季考试题.pdf
+│   │   ├── 分析化学
+│   │   │   ├── 仪分实验-武大
+│   │   │   │   ├── 《仪器分析实验》(武大实验中心).pdf
+│   │   │   ├── 仪分教程-北大
+│   │   │   │   ├── 仪器分析教程北京大学化学系仪器分析教学组.pdf
+│   │   │   ├── 分析测试操作技术标准
+│   │   │   │   ├── 化学实验室常用分析测试操作技术标准应用手册.pdf
+│   │   │   ├── 分析-武大-第四版
+│   │   │   │   ├── 分析化学武汉大学第四版.pdf
+│   │   │   ├── 分析-北大
+│   │   │   │   ├── 分析化学 北大.pdf
+│   │   │   ├── 分析实验室装备手册
+│   │   │   │   ├── 分析实验室装备手册[PDG].rar
+│   │   │   ├── 分析化学（武汉大学）第4版.pdf
+│   │   ├── 物理化学
+│   │   │   ├── 物化（傅献彩）
+│   │   │   │   ├── 热力学第一定律.doc
+│   │   │   │   ├── 物理化学－傅献彩_上册.pdf
+│   │   │   │   ├── [emuch.net]南大傅献彩《物理化学》课本内容梳理_学长倾力总结.pdf
+│   │   │   │   ├── 物理化学辅导与习题详解-金继红.pdf
+│   │   │   │   ├── 物理化学南大第五版课后习题及答案.pdf
+│   │   │   │   ├── 物理化学－傅献彩第五版下册.pdf
+│   │   │   │   ├── 《物理化学学习指导》(南大，孙德坤).pdf
+│   │   │   ├── 物理化学-胡英院士编
+│   │   │   │   ├── 物理化学 胡英院士编 下册.pdf
+│   │   │   │   ├── 物理化学 上册.pdf
+│   │   │   │   ├── 物理化学 胡英院士编 中册.pdf
+│   │   │   ├── 朱文涛物理化学
+│   │   │   │   ├── 物理化学(上下册)朱文涛.pdf
+│   │   │   ├── 物理化学中的数学
+│   │   │   │   ├── 物理化学中的数学.pdf
+│   │   │   ├── 各种奇怪的物化指导
+│   │   │   │   ├── 物理化学例题与习题.pdf
+│   │   │   │   ├── 物理化学习题详解.pdf
+│   │   │   │   ├── 物理化学解题指导--黄绿书.pdf
+│   │   │   │   ├── 物理化学练习题及答案.pdf
+│   │   │   │   ├── 物理化学概念辨析与习题解答.pdf
+│   │   │   ├── 物化视频
+│   │   │   │   ├── 清华物理（朱文涛）视频1.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频10.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频12.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频3.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频5.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频14.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频6.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频2.zip
+│   │   │   │   ├── 《物理化学》朱文涛教授课件.ppt
+│   │   │   │   ├── 清华物理（朱文涛）视频13.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频8.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频4.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频9.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频7.zip
+│   │   │   │   ├── 清华物理（朱文涛）视频11.zip
+│   │   │   ├── Atkins
+│   │   │   │   ├── Physical Chemistry.pdf
+│   │   │   │   ├── Atkins Physical Chemistry 11th 中英对照版.pdf
+│   │   │   │   ├── Atkins 物理化学 .pdf
+│   │   │   │   ├── Atkins Physical Chemistry 11th 全英文.pdf
+│   │   │   │   ├── Atkins & De Paula Physical Chemistry 9th txtbk.pdf
+│   │   │   ├── 生物物理化学
+│   │   │   │   ├── 生物物理化学.pdf
+│   │   │   ├── 中科院历年考研物化真题
+│   │   │   │   ├── 2004
+│   │   │   │   │   ├── 物理化学
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学B答案2.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学B答案3.gif
+│   │   │   │   │   │   ├── 中科大04打印2010110.docx
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学B答案4.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学B答案1.gif
+│   │   │   │   │   ├── 物理化学B
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学5.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学8.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学答案4.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学4.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学7.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学答案1.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学6.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学2.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学答案3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学答案2.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2004年考研专业课试卷物理化学1.gif
+│   │   │   │   ├── 2002
+│   │   │   │   │   ├── 2002物理化学答案2.pdf
+│   │   │   │   │   ├── 2002物理化学答案1.pdf
+│   │   │   │   │   ├── 中国科学技术大学2002年考研专业课试卷物理化学4.gif
+│   │   │   │   │   ├── 2002物理化学答案3.pdf
+│   │   │   │   │   ├── 2002中科大打印2010110.docx
+│   │   │   │   │   ├── 中国科学技术大学2002年考研专业课试卷物理化学2.gif
+│   │   │   │   │   ├── 中国科学技术大学2002年考研专业课试卷物理化学3.gif
+│   │   │   │   │   ├── 中国科学技术大学2002年考研专业课试卷物理化学1.gif
+│   │   │   │   ├── 2000
+│   │   │   │   │   ├── 2000年中国科学院物理化学试题1.jpg
+│   │   │   │   │   ├── 2000年中国科学院物理化学试题3.jpg
+│   │   │   │   │   ├── 中科大00打印2010110档.docx
+│   │   │   │   │   ├── 2000年中国科学院物理化学试题2.jpg
+│   │   │   │   │   ├── 2000年中国科学院物理化学试题4.jpg
+│   │   │   │   ├── 2006
+│   │   │   │   │   ├── 物理化学答案
+│   │   │   │   │   │   ├── 中科大06b打印2010110.docx
+│   │   │   │   │   │   ├── 物理化学答案4..jpg
+│   │   │   │   │   │   ├── 物理化学答案1..jpg
+│   │   │   │   │   │   ├── 物理化学答案3..jpg
+│   │   │   │   │   │   ├── 物理化学答案2..jpg
+│   │   │   │   │   ├── 物理化学
+│   │   │   │   │   │   ├── 物理化学5.JPG
+│   │   │   │   │   │   ├── 物理化学1..jpg
+│   │   │   │   │   │   ├── 中科大06打印2010110.docx
+│   │   │   │   │   │   ├── 物理化学3.JPG
+│   │   │   │   │   │   ├── 物理化学4.JPG
+│   │   │   │   │   │   ├── 物理化学6.JPG
+│   │   │   │   │   │   ├── 物理化学2.JPG
+│   │   │   │   ├── 2007
+│   │   │   │   │   ├── 物理化学
+│   │   │   │   │   │   ├── 物理化学4.jpg
+│   │   │   │   │   │   ├── 物理化学1.jpg
+│   │   │   │   │   │   ├── 物理化学答案1.jpg
+│   │   │   │   │   │   ├── 物理化学答案4.jpg
+│   │   │   │   │   │   ├── 物理化学2.jpg
+│   │   │   │   │   │   ├── 中科大07打印2010110.docx
+│   │   │   │   │   │   ├── 物理化学答案2.jpg
+│   │   │   │   │   │   ├── 物理化学答案3.jpg
+│   │   │   │   │   │   ├── 物理化学3.jpg
+│   │   │   │   │   ├── 物理化学B
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案3.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案4.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案7.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案6.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案9.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案2.jpg
+│   │   │   │   │   │   ├── 中科大07打印2010110.docx
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案5.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案8.jpg
+│   │   │   │   │   │   ├── 中国科技技术大学2007年考研专业课试卷物理化学B及答案1.jpg
+│   │   │   │   ├── 2003
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学2.jpg
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学1.jpg
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学4.jpg
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学答案4.gif
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学答案1.gif
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学答案2.gif
+│   │   │   │   │   ├── 中科大03打印2010110.docx
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学答案3.gif
+│   │   │   │   │   ├── 中国科学技术大学2003年考研专业课试卷物理化学3.jpg
+│   │   │   │   ├── 2001
+│   │   │   │   │   ├── 中国科学技术大学2001年考研专业课试卷物理化学3.jpg
+│   │   │   │   │   ├── 2001年中国科学院物理化学试题答案2.pdf
+│   │   │   │   │   ├── 2001年中国科学院物理化学试题答案3.pdf
+│   │   │   │   │   ├── 2001年中国科学院物理化学试题答案4.pdf
+│   │   │   │   │   ├── 2001年中国科学院物理化学试题答案1.pdf
+│   │   │   │   │   ├── 中国科学技术大学2001年考研专业课试卷物理化学1.jpg
+│   │   │   │   │   ├── 中国科学技术大学2001年考研专业课试卷物理化学2.jpg
+│   │   │   │   ├── 2005
+│   │   │   │   │   ├── 物理化学
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学1.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学答案3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学4.gif
+│   │   │   │   │   │   ├── 中科大05打印2010110.docx
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学2.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学答案1.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学答案2.gif
+│   │   │   │   │   ├── 物理化学B
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B1.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B答案1.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B答案3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B答案2.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B4.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B3.gif
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B2.gif
+│   │   │   │   │   │   ├── 中科大05b打印2010110.docx
+│   │   │   │   │   │   ├── 中国科学技术大学2005年考研专业课试卷物理化学B5.gif
+│   │   │   │   ├── 1998
+│   │   │   │   │   ├── 新建 Microsoft Office Word 文档打印2010110.docx
+│   │   │   │   │   ├── 1998wuhua2.bmp
+│   │   │   │   │   ├── 中国科学技术大学1998年考研专业课试卷物理化学3.jpg
+│   │   │   │   │   ├── 1998wuhua1.bmp
+│   │   │   │   │   ├── 1998wuhua3.bmp
+│   │   │   │   │   ├── 中国科学技术大学1998年考研专业课试卷物理化学1.jpg
+│   │   │   │   │   ├── 中国科学技术大学1998年考研专业课试卷物理化学2.jpg
+│   │   │   │   ├── 1999
+│   │   │   │   │   ├── 中国科学技术大学1999年考研专业课试卷物理化学1.jpg
+│   │   │   │   │   ├── 1999wuhua_key3.bmp
+│   │   │   │   │   ├── 1999wuhua_key2.bmp
+│   │   │   │   │   ├── 中科大99打印2010110.docx
+│   │   │   │   │   ├── 中国科学技术大学1999年考研专业课试卷物理化学3.jpg
+│   │   │   │   │   ├── 1999wuhua_key4.bmp
+│   │   │   │   │   ├── 中国科学技术大学1999年考研专业课试卷物理化学2.jpg
+│   │   │   │   │   ├── 1999wuhua_key1.bmp
+│   │   │   │   ├── 2008
+│   │   │   │   │   ├── Doc1.doc
+│   │   │   ├── solid state chemistry from MIT
+│   │   │   │   ├── handouts_IMSols_9.pdf
+│   │   │   │   ├── handouts_Cima_LectureNotes_6a.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_4.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_5.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_10.pdf
+│   │   │   │   ├── handouts_IMSols_2.pdf
+│   │   │   │   ├── handouts_IMSols_8.pdf
+│   │   │   │   ├── handouts_IMSols_5.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_3.pdf
+│   │   │   │   ├── handouts_IMSols_4.pdf
+│   │   │   │   ├── handouts_Cima_LectureNotes_9a.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_2.pdf
+│   │   │   │   ├── handouts_IMSols_10.pdf
+│   │   │   │   ├── handouts_IMSols_3.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_8.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_9.pdf
+│   │   │   │   ├── handouts_Cima_LectureNotes_5a.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_6.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_7.pdf
+│   │   │   │   ├── handouts_IMSols_7.pdf
+│   │   │   │   ├── handouts_IMSols_1.pdf
+│   │   │   │   ├── handouts_IMSols_6.pdf
+│   │   │   │   ├── handouts_Witt_LectureNotes_1.pdf
+│   │   │   ├── Solution Manual to Inorganic Chemistry 5e(Miessler·Tarr).pdf
+│   │   ├── 超分子化学
+│   │   │   ├── Supramolecular Chemistry by Jonathan W. Steed, Jerry L. Atwood (z-lib.org).pdf
+│   │   │   ├── 2020_Book_HandbookOfMacrocyclicSupramole.pdf
+│   │   │   ├── 超分子化学.pdf
+│   │   ├── 化学化工词典
+│   │   │   ├── [化学化工大辞典].《化学化工大辞典》编委会.扫描版.pdf
+│   │   ├── 有机化学书
+│   │   │   ├── 反应机理
+│   │   │   │   ├── 【反应机理2】The Art of Writing Reasonable Organic Reaction Mechanisms, 2nd Ed.pdf
+│   │   │   │   ├── 有机化学九十六种反应机理.pdf
+│   │   │   │   ├── 【反应机理1】高等有机化学--反应和机理(米勒2005年)Miller着，吴范宏译，荣国斌校.pdf
+│   │   │   ├── 有机合成-黄培强
+│   │   │   │   ├── 有机合成(黄培强主编).pdf
+│   │   │   ├── 高有合成-徐家业
+│   │   │   │   ├── 高等有机合成（徐家业）.pdf
+│   │   │   ├── 有机合成测控
+│   │   │   │   ├── Organic Synthesis Strategy and Control.pdf
+│   │   │   ├── 高有-荣国斌
+│   │   │   │   ├── 【必读】高等有机化学，2007，荣国斌，袁履冰，王全瑞等.pdf
+│   │   │   ├── 有机合成切断法
+│   │   │   │   ├── 有机合成_切断法探讨.pdf
+│   │   │   ├── 有机合成策控
+│   │   │   │   ├── 有机合成：策略与控制（英）（中文版）(ocr)1.pdf
+│   │   │   ├── 波谱解析
+│   │   │   │   ├── 【波谱解析1】有机波谱学谱图解析宁永成 (2010).pdf
+│   │   │   │   ├── 现代有机波谱分析-张华.pdf
+│   │   │   │   ├── 【波谱解析4】有机化学中的光谱方法.pdf
+│   │   │   │   ├── 【波谱解析2】药明康德-有机化合物的波谱解析.pdf
+│   │   │   │   ├── 【波谱解析3】波谱数据表——有机化合物的结构解析.pdf
+│   │   │   ├── 有机合成中间体制备
+│   │   │   │   ├── 有机中间体制备.pdf
+│   │   │   ├── 有机化学核心教程（裴伟伟）
+│   │   │   │   ├── 有机化学核心教程（裴伟伟）.pdf
+│   │   │   ├── 过渡金属有机化学
+│   │   │   │   ├── Organotransition Metal Chemistry From Bonding.pdf
+│   │   │   │   ├── The Organometallic Chemistry of the Transition Metals.pdf
+│   │   │   ├── 杂环化学
+│   │   │   │   ├── 杂环化学__(原书第四版).pdf
+│   │   │   │   ├── 杂环化学(结构反应与应用).pdf
+│   │   │   ├── 学好有机的关键
+│   │   │   │   ├── 学好有机化学的关键-The Art Of Problem Solving In organic Chemistry - Miguel E. Alonso.pdf
+│   │   │   ├── 有机合成实验室手册-第22版
+│   │   │   │   ├── 有机合成实验室手册 原著第22版.pdf
+│   │   │   ├── 分子轨道与有机化学
+│   │   │   │   ├── Molecular Orbitals and Organic Chemistry Reference Edition.pdf
+│   │   │   ├── 天然药物合成精选
+│   │   │   │   ├── Organic Synthesis Via Examination of Selected Natural Products.pdf
+│   │   │   ├── 有机化学-Maitland Jones,Jr. Steven A.Fleming
+│   │   │   │   ├── Organic_Chemistry Maitland Jones,Jr. Steven A.Fleming.pdf
+│   │   │   ├── 有机合成-Smith
+│   │   │   │   ├── 有机合成第二版史密斯-[Smith] Organic Synthesis - 2E.pdf
+│   │   │   ├── 有机机理-反应，立体化学和合成-迈克尔Harmata，施普林格
+│   │   │   │   ├── OrganicMechanisms-Reactions,StereochemistryandSynthesis(MichaelHarmata,Springer2010).pdf
+│   │   │   ├── 有机合成中命名反应的战略性应用-E.J.Corey, K.C.Nicolaou
+│   │   │   │   ├── [有机合成中命名反应的战略性应用(导读版)](E.J.Corey, K.C.Nicolaou).文字版.pdf
+│   │   │   ├── 有机化学反应机理-周德军
+│   │   │   │   ├── 有机化学反应机理_周德军编_化学工业出版.pdf
+│   │   │   ├── 路线设计——有机合成的关键-嵇耀武
+│   │   │   │   ├── 《路线设计——有机合成的关键》(嵇耀武).pdf
+│   │   │   ├── 有机合成
+│   │   │   │   ├── 【有机合成2】有机合成策略与控制.pdf
+│   │   │   │   ├── 【有机合成1】Organic Synthesis-The Disconnection Approach 2nd Ed.pdf
+│   │   │   ├── 高等有机（FA.凯里）
+│   │   │   │   ├── F.A.Carey_Advanced_Organic_Chemistry.Part_A.structure and mechanisms.pdf
+│   │   │   │   ├── F.A.Carey_Advanced_Organic_Chemistry.Part_B.Reactions_and_Synthesis.pdf
+│   │   │   │   ├── 有机(FA.凯里)B卷(反应与合成)_大图版.pdf
+│   │   │   │   ├── 有机(FA.凯里)A卷(结构与机理)_大图版.pdf
+│   │   │   ├── 现代有机合成方法
+│   │   │   │   ├── 【选读】当代有机合成方法.pdf
+│   │   │   ├── 切断法
+│   │   │   │   ├── Organic Synthesis - The Disconnection Approach.pdf
+│   │   │   │   ├── 切断法.pdf
+│   │   │   │   ├── 有机合成切断法探讨 第二版.pdf
+│   │   │   ├── 有机合成路线设计-第二版-巨勇
+│   │   │   │   ├── 有机合成化学与路线设计 第二版（巨勇.pdf
+│   │   │   ├── 现代物理有机化学
+│   │   │   │   ├── 现代物理有机化学 （美）Eric V. Anslyn，Dennis A. Dougherty著 计国祯译中文版.pdf
+│   │   │   │   ├── 现代物理有机化学习题解答指南.pdf
+│   │   │   │   ├── Modern Physical Organic Chemistry.pdf
+│   │   │   ├── 中级有机化学-北大
+│   │   │   │   ├── 中有讲义
+│   │   │   │   │   ├── 北大中级有机化学讲义-第二版-2.pdf
+│   │   │   │   │   ├── 北大中级有机化学讲义-第二版-3.pdf
+│   │   │   │   │   ├── 北大中级有机化学讲义-第二版-1.pdf
+│   │   │   │   │   ├── 北大中级有机化学讲义-第二版-4.pdf
+│   │   │   │   ├── 有机合成进阶-裴坚
+│   │   │   │   │   ├── 有机合成进阶 第一册（裴坚.pdf
+│   │   │   │   │   ├── 有机合成进阶 第二册（裴坚.pdf
+│   │   │   │   ├── 中有视频
+│   │   │   │   │   ├── 第一周 有机合成的艺术性：串联反应在天然产物全合成中的应用
+│   │   │   │   │   │   ├── 13. 问题12.mp4
+│   │   │   │   │   │   ├── 4. 问题2.mp4
+│   │   │   │   │   │   ├── 8. 问题7.mp4
+│   │   │   │   │   │   ├── 10. 问题9.mp4
+│   │   │   │   │   │   ├── 1-O -Methyllateriflorone的背景介绍和逆合成分析.mp4
+│   │   │   │   │   │   ├── 11. 问题10.mp4
+│   │   │   │   │   │   ├── 5. 问题3.mp4
+│   │   │   │   │   │   ├── 9. 问题8.mp4
+│   │   │   │   │   │   ├── 1. 中级有机化学课程介绍.mp4
+│   │   │   │   │   │   ├── 12. 问题11.mp4
+│   │   │   │   │   │   ├── 14. 问题13+总结.mp4
+│   │   │   │   │   │   ├── 6. 问题4.mp4
+│   │   │   │   │   │   ├── 3. 问题1.mp4
+│   │   │   │   │   │   ├── 7. 问题5+问题6.mp4
+│   │   │   │   │   ├── 第六周 简捷明快的合成路线：桥环分子的构筑和分子内的反应
+│   │   │   │   │   │   ├── 4. 问题4（17_17）.mp4
+│   │   │   │   │   │   ├── 2. 问题2（05_53）.mp4
+│   │   │   │   │   │   ├── 3. 问题3（16_23）.mp4
+│   │   │   │   │   │   ├── 1. (+)-Upial的背景介绍和逆合成分析+问题1（14_40）.mp4
+│   │   │   │   │   │   ├── 5. 问题5-1（05_35）.mp4
+│   │   │   │   │   │   ├── 11. 问题9+10（17_17）.mp4
+│   │   │   │   │   │   ├── 6. 问题5-2（06_56）.mp4
+│   │   │   │   │   │   ├── 10. 问题8-2（15_25）.mp4
+│   │   │   │   │   │   ├── 7. 问题6（22_23）.mp4
+│   │   │   │   │   │   ├── 8. 问题7（08_47）.mp4
+│   │   │   │   │   │   ├── 9. 问题8-1（15_26）.mp4
+│   │   │   │   │   │   ├── 12. 问题11+12+总结（07_53）.mp4
+│   │   │   │   │   ├── 第三周 无保护基的全合成研究：高效的偶联反应
+│   │   │   │   │   │   ├── 7. 问题6（05-42）.mp4
+│   │   │   │   │   │   ├── 10. 问题9+10+总结（23-43）.mp4
+│   │   │   │   │   │   ├── 6. 问题5（26-33）.mp4
+│   │   │   │   │   │   ├── 1.（+）-Ambiguine H的背景介绍和逆合成分析（04-24）.mp4
+│   │   │   │   │   │   ├── 3. 问题2（10-21） (1).mp4
+│   │   │   │   │   │   ├── 4. 问题3（19-57）.mp4
+│   │   │   │   │   │   ├── 9. 问题8（35-46）.mp4
+│   │   │   │   │   │   ├── 8. 问题7（17-45）.mp4
+│   │   │   │   │   │   ├── 5. 问题4（18-49）.mp4
+│   │   │   │   │   │   ├── 2. 问题1（14_09）.mp4
+│   │   │   │   │   ├── 第七周 完美的环内双键和大环的构筑：烯烃复分解反应
+│   │   │   │   │   │   ├── 1. (+)-Nakadomarin A的背景介绍和逆合成分析（07_15）.mp4
+│   │   │   │   │   │   ├── 8. 问题6（07_37）.mp4
+│   │   │   │   │   │   ├── 4. 问题2-2（27_21）.mp4
+│   │   │   │   │   │   ├── 11. 问题10（11_00）.mp4
+│   │   │   │   │   │   ├── 5. 问题3（06_53）.mp4
+│   │   │   │   │   │   ├── 9. 问题7+8（09_00）.mp4
+│   │   │   │   │   │   ├── 7. 问题5（17_09）.mp4
+│   │   │   │   │   │   ├── 6. 问题4（07_03）.mp4
+│   │   │   │   │   │   ├── 12. 问题11+12+总结（12_51）.mp4
+│   │   │   │   │   │   ├── 3. 问题2-1（15_53）.mp4
+│   │   │   │   │   │   ├── 2. 问题1（32_33）.mp4
+│   │   │   │   │   │   ├── 10. 问题9（07_20）.mp4
+│   │   │   │   │   ├── 第二周 螺环环化体系的构筑：金属催化剂在有机全合成中的作用
+│   │   │   │   │   │   ├── 1. (±)-Platensimycin的背景介绍和逆合成分析.mp4
+│   │   │   │   │   │   ├── 4. 问题3.mp4
+│   │   │   │   │   │   ├── 6. 问题5.mp4
+│   │   │   │   │   │   ├── 2. 问题1.mp4
+│   │   │   │   │   │   ├── 8. 问题7.mp4
+│   │   │   │   │   │   ├── 11. 问题10+11+总结.mp4
+│   │   │   │   │   │   ├── 10. 问题9.mp4
+│   │   │   │   │   │   ├── 7. 问题6.mp4
+│   │   │   │   │   │   ├── 3. 问题2.mp4
+│   │   │   │   │   │   ├── 9. 问题8.mp4
+│   │   │   │   │   │   ├── 5. 问题4.mp4
+│   │   │   │   │   ├── 第四周 多环体系的抗生素：多组分反应在有机全合成中的应用
+│   │   │   │   │   │   ├── 5. 问题4（23_04）.mp4
+│   │   │   │   │   │   ├── 4. 问题3（05_04）.mp4
+│   │   │   │   │   │   ├── 8. 问题7（05_09）.mp4
+│   │   │   │   │   │   ├── 3. 问题2（07_24）.mp4
+│   │   │   │   │   │   ├── 2. 问题1（19_21）.mp4
+│   │   │   │   │   │   ├── 7. 问题6（17_28）.mp4
+│   │   │   │   │   │   ├── 1. Cyanocycline的背景介绍和逆合成分析（09_45）.mp4
+│   │   │   │   │   │   ├── 9. 问题8（10_17）.mp4
+│   │   │   │   │   │   ├── 10. 问题9（30_55）.mp4
+│   │   │   │   │   │   ├── 6. 问题5（09_22）.mp4
+│   │   │   │   │   │   ├── 11. 问题10（17_02）.mp4
+│   │   │   │   │   │   ├── 12. 问题11+总结（12_49）.mp4
+│   │   │   │   ├── 第六章习题.pdf
+│   │   │   │   ├── 中级有机化学-裴坚.pdf
+│   │   │   │   ├── 第四章习题.pdf
+│   │   │   │   ├── 第六章答案.pdf
+│   │   │   │   ├── orgchem-第二章Platencimycin 的合成.docx
+│   │   │   │   ├── orgchem-第二章Platencimycin 的合成 (1).docx
+│   │   │   │   ├── 第三章习题.pdf
+│   │   │   │   ├── 第二章习题答案.pdf
+│   │   │   │   ├── orgchem_第一章 答案.docx
+│   │   │   │   ├── orgchem_第一章 1.docx
+│   │   │   │   ├── 第三章习题答案.pdf
+│   │   │   │   ├── 第五章习题.pdf
+│   │   │   ├── 有机结构与功能
+│   │   │   │   ├── Organic Chemistry Structure and Function.pdf
+│   │   │   ├── 有机合成手册
+│   │   │   │   ├── 有机合成手册III-Organic Synthesis Workbook III.pdf
+│   │   │   ├── 有机合成进阶
+│   │   │   │   ├── 《有机合成进阶》第2册.pdf
+│   │   │   │   ├── 《有机合成进阶》第1册.pdf
+│   │   │   ├── 有机合成中的保护基-华东理工大学
+│   │   │   │   ├── 有机合成中的保护基 PROTECTIVE GROUPS IN ORGANIC SYNTHESIS 华东理工大学出版社 2004年10月第1版.pdf
+│   │   │   ├── 合成子法的习题解答式教程
+│   │   │   │   ├── 【选读】设计（合成子法的习题解答式教程）.pdf
+│   │   │   ├── 有机合成中的副反应
+│   │   │   │   ├── Side reactions in organic synthesis.pdf
+│   │   │   │   ├── 有机合成中的副反应—成功合成设计指南.pdf
+│   │   │   ├── 起始物料的概念方法
+│   │   │   │   ├── Organic Synthesis - Concepts_Methods_ Starting Materials.pdf
+│   │   │   ├── 有机合成中命名反应的战略性应用
+│   │   │   │   ├── 有机合成中命名反应的战略性应用.pdf
+│   │   │   │   ├── 有机合成中命名反应的战略性应用-1.PDF
+│   │   │   ├── 有机合成路线推导
+│   │   │   │   ├── 有机合成路线推导.pdf
+│   │   │   ├── 活化剂保护基手册
+│   │   │   │   ├── Handbook Reagents Organic Synthesis_ Activating Agents Protecting Groups.pdf
+│   │   │   ├── 有机金属化学基础与应用
+│   │   │   │   ├── 有机金属化学基础与应用.pdf
+│   │   │   ├── 有机合成中的保护基
+│   │   │   │   ├── Organic Chemistry T.W.Graham Solomons & Craig B.Fryhle.pdf
+│   │   │   │   ├── Protective groups in organic synthesis(Wuts &amp; Greene,4th Ed,文字版).pdf
+│   │   │   ├── 元素有机化学-赵玉芬-清华
+│   │   │   │   ├── 元素有机化学-赵玉芬-清华大学出版社.pdf
+│   │   │   ├── 有机合成中的氧还
+│   │   │   │   ├── 有机合成中的氧化还原反应.pdf
+│   │   │   ├── 有机金属化学课件-约翰霍普金斯大学
+│   │   │   │   ├── Organometallic Chemistry课件(Johns Hopkins University).pdf
+│   │   │   ├── Art
+│   │   │   │   ├── Art中文.pdf
+│   │   │   │   ├── 有机反应机理的书写艺术（中译本）.pdf
+│   │   │   │   ├── The Art of Writing Reasonable Organic Reaction Mechanisms.pdf
+│   │   │   │   ├── Answers to The art of writing reasonable organic reaction mechanisms. 2nd edition.pdf
+│   │   │   ├── 福井谦一：化学反应与电子轨道
+│   │   │   │   ├── 福井谦一：化学反应与电子轨道.pdf
+│   │   │   ├── Clayden有机化学
+│   │   │   │   ├── [clayden]_organic_chemistry_clayden_2nd_edition.pdf
+│   │   │   │   ├── clayden中文版.pdf
+│   │   │   ├── 有机化学+胡宏纹+第三版
+│   │   │   │   ├── 有机化学+胡宏纹+第三版.pdf
+│   │   │   ├── 北大基础有机化学
+│   │   │   │   ├── 基础有机化学-邢其毅
+│   │   │   │   │   ├── 前言.ppt
+│   │   │   │   │   ├── 分子模型.ppt
+│   │   │   │   │   ├── 反应机理.ppt
+│   │   │   │   │   ├── 基础有机化学（邢其毅，第三版）习题解析（完整版）.pdf
+│   │   │   │   │   ├── 基础有机化学(第3版)[邢其毅].rar
+│   │   │   │   │   ├── 基础有机化学(第二版)上、下册[邢其毅等].PDF
+│   │   │   │   │   ├── 邢大本的错误纠正——exoto.doc
+│   │   │   │   │   ├── 有机化合物的定性鉴别.ppt
+│   │   │   │   │   ├── 考题选编和答案.ppt
+│   │   │   │   │   ├── 教学大纲.ppt
+│   │   │   │   │   ├── 命名.ppt
+│   │   │   │   │   ├── 基本概念.ppt
+│   │   │   │   │   ├── 三份考卷.ppt
+│   │   │   │   ├── 基础有机化学（下册）第四版 邢其毅等.pdf
+│   │   │   │   ├── 基础有机化学（上册）第四版 邢其毅等.pdf
+│   │   │   ├── March
+│   │   │   │   ├── March's Advanced Organic Chemistry - Reactions, Mechanisms, and Structure(6th Ed).pdf
+│   │   │   │   ├── March高等有机化学-反应、机理与结构.pdf
+│   │   │   ├── 前线轨道与有机化学反应
+│   │   │   │   ├── 前线轨道与有机化学反应2014-8-29 20.22.41.pdf
+│   │   │   ├── 高等有机化学-魏荣宝
+│   │   │   │   ├── 高等有机化学（高教材）（魏荣宝 主编）.pdf
+│   │   │   ├── Organic Chemistry Mcmurry 8th
+│   │   │   │   ├── Student Solutions Manual for McMurry's Organic Chemistry（McMurry有机化学学生解答手册）, 8e .pdf
+│   │   │   │   ├── Organic Chemistry Mcmurry 8th.pdf
+│   │   │   ├── 现代有机合成化学-吴毓林
+│   │   │   │   ├── 【选读】《现代有机合成化学》吴毓林.pdf
+│   │   │   ├── 现代有机合成
+│   │   │   │   ├── 现代有机合成-Modern Organic synthesis.pdf
+│   │   │   ├── 化学合成的逻辑-E.J.Corey
+│   │   │   │   ├── The logic of Chemical Synthesis(E.J.Corey, XUE-MIN CHELG).pdf
+│   │   │   ├── 有机反应与有机合成-陆国元
+│   │   │   │   ├── 现代化学基础丛书 — 有机反应与有机合成（陆国元 编着）.pdf
+│   │   │   ├── 分子轨道和有机化学学生版
+│   │   │   │   ├── Molecular Orbitals and Organic Chemistry Student Edition.pdf
+│   │   │   ├── 全合成
+│   │   │   │   ├── 天然产物全合成
+│   │   │   │   │   ├── 天然产物全合成.pdf
+│   │   │   │   ├── 全合成的艺术.pdf
+│   │   │   │   ├── 国外经典有机化合物全合成路线手册 英文.pdf
+│   │   │   ├── 有机化学-牛津大学
+│   │   │   │   ├── 【国外权威】Organic Chemistry牛津大学有机化学.pdf
+│   │   │   ├── 仿生有机合成
+│   │   │   │   ├── 【国外权威】Biomimetic Organic Synthesis.pdf
+│   │   │   ├── 现代有机合成化学-谢如刚
+│   │   │   │   ├── 【必读】现代有机合成化学[谢如刚].pdf
+│   │   │   ├── 哈佛高有课件
+│   │   │   │   ├── 13_Heck.pdf
+│   │   │   │   ├── 15_Horner-Wadsworth.pdf
+│   │   │   │   ├── 2_Oxidation.pdf
+│   │   │   │   ├── 12_Suzuki.pdf
+│   │   │   │   ├── 10_Directed_Ortho.pdf
+│   │   │   │   ├── 24_Olefin_Metathesis.pdf
+│   │   │   │   ├── 23_Asymmetric_Diels_Alder.pdf
+│   │   │   │   ├── 7_Magnesium_Halogen.pdf
+│   │   │   │   ├── 18_Jacobsen_Asymmetric.pdf
+│   │   │   │   ├── 4_Birch.pdf
+│   │   │   │   ├── 19_Shi_Epoxidation.pdf
+│   │   │   │   ├── 11_Stille.pdf
+│   │   │   │   ├── 1_Reduction.pdf
+│   │   │   │   ├── 17_Sharpless_Asymmetric_D.pdf
+│   │   │   │   ├── 5_Asymmetric_Alkylation.pdf
+│   │   │   │   ├── 6_Asymmetric_Allylation.pdf
+│   │   │   │   ├── 22_Noyori_Asymmetric_Hydrog.pdf
+│   │   │   │   ├── 20_Jacobsen_Catalytic.pdf
+│   │   │   │   ├── 9_Lithium_Halogen.pdf
+│   │   │   │   ├── 3_Protective.pdf
+│   │   │   │   ├── 14_Stereoselective.pdf
+│   │   │   │   ├── 21_Transformations_of_Epox.pdf
+│   │   │   │   ├── 16_Sharpless_Asymmetric_E.pdf
+│   │   │   │   ├── 8_Organolithium.pdf
+│   │   │   ├── 人名反应
+│   │   │   │   ├── 人名反应
+│   │   │   │   │   ├── Jie Jack Li (auth.)-Name Reactions_ A Collection of Detailed Mechanisms and Synthetic Applications Fifth Edition-Springer International Publishing (2014).pdf
+│   │   │   │   │   ├── 有机人名反应-机理及应用JieJackLi著荣国斌译(当代有机化学译丛).pdf
+│   │   │   │   │   ├── Name Reactions(Jie Jack Li,4th).pdf
+│   │   │   │   ├── 基于人名反应的有机合成三版-Organic Syntheses Based on Name Reactions, 3rd Edition.pdf
+│   │   │   │   ├── 【人名反应1】jiejack人名反应新版.pdf
+│   │   │   │   ├── 【人名反应2】有机人名反应、试剂与规则.pdf
+│   │   │   │   ├── 基于人名反应的有机合成二版-OrganicSynthesesBasedonNameReactions2ndEdn.pdf
+│   │   │   │   ├── Strategic_Applications_of_Named_Reactions_in_Organic_Synthes....pdf
+│   │   │   │   ├── 【人名反应3】有机人名反应及机理(Jack Li).pdf
+│   │   │   │   ├── 有机人名反应、试剂与规则.pdf
+│   │   │   │   ├── 有机化学中的人名反应.pdf
+│   │   │   │   ├── 有机化学人名反应机理全解.pdf
+│   │   │   ├── 实用有机合成原则与技巧
+│   │   │   │   ├── Practical Synthetic Organic Chemistry_Reactions, Principles and Techniques.pdf
+│   │   │   ├── 有机合成化学-王玉炉
+│   │   │   │   ├── 有机合成化学 王玉炉.pdf
+│   │   │   ├── Organic Chemistry-5thEdition-G.Wade
+│   │   │   │   ├── Organic Chemistry,5thEdition.G.Wade,Jr..pdf
+│   │   ├── 实验操作
+│   │   │   ├── 有机化学实验-北大
+│   │   │   │   ├── 有机化学实验(北大版).pdf
+│   │   │   ├── 实验室玻璃仪器手册密码sz22033
+│   │   │   │   ├── 实验室玻璃仪器手册 sz22033.pdf
+│   │   │   ├── 有机化学实验-清华
+│   │   │   │   ├── 有机化学实验(清华版).pdf
+│   │   │   ├── 化学实验室常用标准汇编
+│   │   │   ├── 化学实验操作经验集锦
+│   │   │   │   ├── 化学实验操作经验集锦 刘宗明主编.pdf
+│   │   │   │   ├── 化学实验操作经验集锦-目录.pdf
+│   │   │   ├── 实验室仪器使用与维护手册
+│   │   │   │   ├── 000049.pdg
+│   │   │   │   ├── 000803.pdg
+│   │   │   │   ├── 000224.pdg
+│   │   │   │   ├── 000482.pdg
+│   │   │   │   ├── 000664.pdg
+│   │   │   │   ├── 000528.pdg
+│   │   │   │   ├── 000304.pdg
+│   │   │   │   ├── 000539.pdg
+│   │   │   │   ├── 000520.pdg
+│   │   │   │   ├── 000220.pdg
+│   │   │   │   ├── 000737.pdg
+│   │   │   │   ├── 000119.pdg
+│   │   │   │   ├── 000015.pdg
+│   │   │   │   ├── 000445.pdg
+│   │   │   │   ├── 000265.pdg
+│   │   │   │   ├── fow002.pdg
+│   │   │   │   ├── 000462.pdg
+│   │   │   │   ├── 000597.pdg
+│   │   │   │   ├── 000635.pdg
+│   │   │   │   ├── 000436.pdg
+│   │   │   │   ├── 000238.pdg
+│   │   │   │   ├── 000652.pdg
+│   │   │   │   ├── 000287.pdg
+│   │   │   │   ├── 000449.pdg
+│   │   │   │   ├── 000362.pdg
+│   │   │   │   ├── 000153.pdg
+│   │   │   │   ├── 000565.pdg
+│   │   │   │   ├── 000589.pdg
+│   │   │   │   ├── 000152.pdg
+│   │   │   │   ├── 000413.pdg
+│   │   │   │   ├── 000657.pdg
+│   │   │   │   ├── 000009.pdg
+│   │   │   │   ├── 000552.pdg
+│   │   │   │   ├── cov001.pdg
+│   │   │   │   ├── 000126.pdg
+│   │   │   │   ├── 000703.pdg
+│   │   │   │   ├── 000281.pdg
+│   │   │   │   ├── 000092.pdg
+│   │   │   │   ├── 000435.pdg
+│   │   │   │   ├── 000670.pdg
+│   │   │   │   ├── 000210.pdg
+│   │   │   │   ├── 000766.pdg
+│   │   │   │   ├── 000364.pdg
+│   │   │   │   ├── 000563.pdg
+│   │   │   │   ├── 000120.pdg
+│   │   │   │   ├── 000656.pdg
+│   │   │   │   ├── 000549.pdg
+│   │   │   │   ├── 000027.pdg
+│   │   │   │   ├── 000578.pdg
+│   │   │   │   ├── 000282.pdg
+│   │   │   │   ├── 000777.pdg
+│   │   │   │   ├── 000352.pdg
+│   │   │   │   ├── 000623.pdg
+│   │   │   │   ├── 000666.pdg
+│   │   │   │   ├── 000399.pdg
+│   │   │   │   ├── 000114.pdg
+│   │   │   │   ├── 000711.pdg
+│   │   │   │   ├── 000490.pdg
+│   │   │   │   ├── 000293.pdg
+│   │   │   │   ├── 000036.pdg
+│   │   │   │   ├── 000006.pdg
+│   │   │   │   ├── 000262.pdg
+│   │   │   │   ├── 000346.pdg
+│   │   │   │   ├── 000805.pdg
+│   │   │   │   ├── 000587.pdg
+│   │   │   │   ├── 000085.pdg
+│   │   │   │   ├── 000787.pdg
+│   │   │   │   ├── 000706.pdg
+│   │   │   │   ├── 000721.pdg
+│   │   │   │   ├── 000739.pdg
+│   │   │   │   ├── 000198.pdg
+│   │   │   │   ├── 000595.pdg
+│   │   │   │   ├── 000665.pdg
+│   │   │   │   ├── 000404.pdg
+│   │   │   │   ├── 000101.pdg
+│   │   │   │   ├── 000474.pdg
+│   │   │   │   ├── 000071.pdg
+│   │   │   │   ├── 000173.pdg
+│   │   │   │   ├── 000415.pdg
+│   │   │   │   ├── 000784.pdg
+│   │   │   │   ├── 000627.pdg
+│   │   │   │   ├── 000788.pdg
+│   │   │   │   ├── 000751.pdg
+│   │   │   │   ├── 000735.pdg
+│   │   │   │   ├── 000167.pdg
+│   │   │   │   ├── 000067.pdg
+│   │   │   │   ├── 000012.pdg
+│   │   │   │   ├── 000385.pdg
+│   │   │   │   ├── 000780.pdg
+│   │   │   │   ├── 000566.pdg
+│   │   │   │   ├── 000419.pdg
+│   │   │   │   ├── 000470.pdg
+│   │   │   │   ├── 000309.pdg
+│   │   │   │   ├── 000020.pdg
+│   │   │   │   ├── 000678.pdg
+│   │   │   │   ├── 000393.pdg
+│   │   │   │   ├── 000181.pdg
+│   │   │   │   ├── 000580.pdg
+│   │   │   │   ├── 000086.pdg
+│   │   │   │   ├── 000762.pdg
+│   │   │   │   ├── 000132.pdg
+│   │   │   │   ├── 000596.pdg
+│   │   │   │   ├── 000792.pdg
+│   │   │   │   ├── 000177.pdg
+│   │   │   │   ├── 000255.pdg
+│   │   │   │   ├── 000082.pdg
+│   │   │   │   ├── 000450.pdg
+│   │   │   │   ├── !00011.pdg
+│   │   │   │   ├── 000235.pdg
+│   │   │   │   ├── 000349.pdg
+│   │   │   │   ├── 000264.pdg
+│   │   │   │   ├── 000534.pdg
+│   │   │   │   ├── 000778.pdg
+│   │   │   │   ├── 000106.pdg
+│   │   │   │   ├── 000111.pdg
+│   │   │   │   ├── 000785.pdg
+│   │   │   │   ├── 000582.pdg
+│   │   │   │   ├── 000594.pdg
+│   │   │   │   ├── 000084.pdg
+│   │   │   │   ├── 000312.pdg
+│   │   │   │   ├── 000151.pdg
+│   │   │   │   ├── 000558.pdg
+│   │   │   │   ├── 000699.pdg
+│   │   │   │   ├── 000682.pdg
+│   │   │   │   ├── 000139.pdg
+│   │   │   │   ├── 000070.pdg
+│   │   │   │   ├── 000044.pdg
+│   │   │   │   ├── 000250.pdg
+│   │   │   │   ├── 000093.pdg
+│   │   │   │   ├── 000360.pdg
+│   │   │   │   ├── 000031.pdg
+│   │   │   │   ├── 000174.pdg
+│   │   │   │   ├── 000189.pdg
+│   │   │   │   ├── 000279.pdg
+│   │   │   │   ├── 000542.pdg
+│   │   │   │   ├── 000681.pdg
+│   │   │   │   ├── 000442.pdg
+│   │   │   │   ├── 000454.pdg
+│   │   │   │   ├── 000602.pdg
+│   │   │   │   ├── 000521.pdg
+│   │   │   │   ├── 000271.pdg
+│   │   │   │   ├── 000727.pdg
+│   │   │   │   ├── 000357.pdg
+│   │   │   │   ├── 000702.pdg
+│   │   │   │   ├── 000131.pdg
+│   │   │   │   ├── 000332.pdg
+│   │   │   │   ├── 000771.pdg
+│   │   │   │   ├── 000041.pdg
+│   │   │   │   ├── 000176.pdg
+│   │   │   │   ├── 000781.pdg
+│   │   │   │   ├── 000102.pdg
+│   │   │   │   ├── 000439.pdg
+│   │   │   │   ├── 000617.pdg
+│   │   │   │   ├── bookinfo.dat
+│   │   │   │   ├── 000779.pdg
+│   │   │   │   ├── 000480.pdg
+│   │   │   │   ├── !00008.pdg
+│   │   │   │   ├── 000598.pdg
+│   │   │   │   ├── 000288.pdg
+│   │   │   │   ├── 000671.pdg
+│   │   │   │   ├── 000478.pdg
+│   │   │   │   ├── 000531.pdg
+│   │   │   │   ├── 000090.pdg
+│   │   │   │   ├── 000662.pdg
+│   │   │   │   ├── 000186.pdg
+│   │   │   │   ├── 000005.pdg
+│   │   │   │   ├── !00005.pdg
+│   │   │   │   ├── 000715.pdg
+│   │   │   │   ├── 000675.pdg
+│   │   │   │   ├── 000716.pdg
+│   │   │   │   ├── 000303.pdg
+│   │   │   │   ├── 000618.pdg
+│   │   │   │   ├── 000757.pdg
+│   │   │   │   ├── 000003.pdg
+│   │   │   │   ├── !00001.pdg
+│   │   │   │   ├── 000568.pdg
+│   │   │   │   ├── 000466.pdg
+│   │   │   │   ├── 000187.pdg
+│   │   │   │   ├── 000142.pdg
+│   │   │   │   ├── 000232.pdg
+│   │   │   │   ├── 000512.pdg
+│   │   │   │   ├── 000316.pdg
+│   │   │   │   ├── 000728.pdg
+│   │   │   │   ├── 000159.pdg
+│   │   │   │   ├── 000572.pdg
+│   │   │   │   ├── 000557.pdg
+│   │   │   │   ├── 000351.pdg
+│   │   │   │   ├── 000493.pdg
+│   │   │   │   ├── 000643.pdg
+│   │   │   │   ├── 000692.pdg
+│   │   │   │   ├── 000147.pdg
+│   │   │   │   ├── 000402.pdg
+│   │   │   │   ├── 000511.pdg
+│   │   │   │   ├── 000059.pdg
+│   │   │   │   ├── 000446.pdg
+│   │   │   │   ├── 000548.pdg
+│   │   │   │   ├── 000302.pdg
+│   │   │   │   ├── 000042.pdg
+│   │   │   │   ├── 000650.pdg
+│   │   │   │   ├── 000129.pdg
+│   │   │   │   ├── 000654.pdg
+│   │   │   │   ├── 000680.pdg
+│   │   │   │   ├── 000717.pdg
+│   │   │   │   ├── 000218.pdg
+│   │   │   │   ├── 000295.pdg
+│   │   │   │   ├── 000308.pdg
+│   │   │   │   ├── 000636.pdg
+│   │   │   │   ├── 000014.pdg
+│   │   │   │   ├── !00009.pdg
+│   │   │   │   ├── 000767.pdg
+│   │   │   │   ├── 000130.pdg
+│   │   │   │   ├── 000628.pdg
+│   │   │   │   ├── 000411.pdg
+│   │   │   │   ├── 000355.pdg
+│   │   │   │   ├── 000222.pdg
+│   │   │   │   ├── 000037.pdg
+│   │   │   │   ├── 000389.pdg
+│   │   │   │   ├── 000097.pdg
+│   │   │   │   ├── 000726.pdg
+│   │   │   │   ├── 000341.pdg
+│   │   │   │   ├── 000170.pdg
+│   │   │   │   ├── 000256.pdg
+│   │   │   │   ├── 000260.pdg
+│   │   │   │   ├── 000619.pdg
+│   │   │   │   ├── 000029.pdg
+│   │   │   │   ├── 000457.pdg
+│   │   │   │   ├── 000683.pdg
+│   │   │   │   ├── 000242.pdg
+│   │   │   │   ├── 000710.pdg
+│   │   │   │   ├── 000740.pdg
+│   │   │   │   ├── 000294.pdg
+│   │   │   │   ├── 000630.pdg
+│   │   │   │   ├── 000231.pdg
+│   │   │   │   ├── 000323.pdg
+│   │   │   │   ├── 000051.pdg
+│   │   │   │   ├── 000550.pdg
+│   │   │   │   ├── 000396.pdg
+│   │   │   │   ├── 000206.pdg
+│   │   │   │   ├── fow004.pdg
+│   │   │   │   ├── 000544.pdg
+│   │   │   │   ├── 000335.pdg
+│   │   │   │   ├── 000105.pdg
+│   │   │   │   ├── 000261.pdg
+│   │   │   │   ├── 000145.pdg
+│   │   │   │   ├── 000655.pdg
+│   │   │   │   ├── 000178.pdg
+│   │   │   │   ├── 000347.pdg
+│   │   │   │   ├── 000581.pdg
+│   │   │   │   ├── 000514.pdg
+│   │   │   │   ├── 000004.pdg
+│   │   │   │   ├── 000057.pdg
+│   │   │   │   ├── 000211.pdg
+│   │   │   │   ├── 000431.pdg
+│   │   │   │   ├── 000783.pdg
+│   │   │   │   ├── 000200.pdg
+│   │   │   │   ├── 000283.pdg
+│   │   │   │   ├── 000263.pdg
+│   │   │   │   ├── 000418.pdg
+│   │   │   │   ├── 000110.pdg
+│   │   │   │   ├── 000714.pdg
+│   │   │   │   ├── 000451.pdg
+│   │   │   │   ├── fow003.pdg
+│   │   │   │   ├── 000365.pdg
+│   │   │   │   ├── 000157.pdg
+│   │   │   │   ├── 000064.pdg
+│   │   │   │   ├── 000254.pdg
+│   │   │   │   ├── 000340.pdg
+│   │   │   │   ├── !00006.pdg
+│   │   │   │   ├── 000687.pdg
+│   │   │   │   ├── 000002.pdg
+│   │   │   │   ├── 000107.pdg
+│   │   │   │   ├── 000579.pdg
+│   │   │   │   ├── 000403.pdg
+│   │   │   │   ├── 000667.pdg
+│   │   │   │   ├── 000523.pdg
+│   │   │   │   ├── 000750.pdg
+│   │   │   │   ├── 000543.pdg
+│   │   │   │   ├── 000087.pdg
+│   │   │   │   ├── 000649.pdg
+│   │   │   │   ├── 000577.pdg
+│   │   │   │   ├── 000381.pdg
+│   │   │   │   ├── 000285.pdg
+│   │   │   │   ├── 000515.pdg
+│   │   │   │   ├── 000387.pdg
+│   │   │   │   ├── 000330.pdg
+│   │   │   │   ├── 000641.pdg
+│   │   │   │   ├── 000733.pdg
+│   │   │   │   ├── 000096.pdg
+│   │   │   │   ├── 000471.pdg
+│   │   │   │   ├── 000639.pdg
+│   │   │   │   ├── 000318.pdg
+│   │   │   │   ├── 000199.pdg
+│   │   │   │   ├── 000432.pdg
+│   │   │   │   ├── 000707.pdg
+│   │   │   │   ├── 000163.pdg
+│   │   │   │   ├── 000427.pdg
+│   │   │   │   ├── 000575.pdg
+│   │   │   │   ├── 000169.pdg
+│   │   │   │   ├── 000372.pdg
+│   │   │   │   ├── 000755.pdg
+│   │   │   │   ├── 000127.pdg
+│   │   │   │   ├── 000207.pdg
+│   │   │   │   ├── 000800.pdg
+│   │   │   │   ├── 000712.pdg
+│   │   │   │   ├── !00004.pdg
+│   │   │   │   ├── 000103.pdg
+│   │   │   │   ├── 000297.pdg
+│   │   │   │   ├── 000799.pdg
+│   │   │   │   ├── 000494.pdg
+│   │   │   │   ├── 000060.pdg
+│   │   │   │   ├── 000225.pdg
+│   │   │   │   ├── 000453.pdg
+│   │   │   │   ├── 000620.pdg
+│   │   │   │   ├── 000272.pdg
+│   │   │   │   ├── 化学实验室常用标准汇编 (上册).pdf
+│   │   │   │   ├── 000034.pdg
+│   │   │   │   ├── 000337.pdg
+│   │   │   │   ├── 000212.pdg
+│   │   │   │   ├── 000185.pdg
+│   │   │   │   ├── 000113.pdg
+│   │   │   │   ├── 000417.pdg
+│   │   │   │   ├── 000289.pdg
+│   │   │   │   ├── 000736.pdg
+│   │   │   │   ├── 000522.pdg
+│   │   │   │   ├── 000576.pdg
+│   │   │   │   ├── 000388.pdg
+│   │   │   │   ├── 000763.pdg
+│   │   │   │   ├── 000691.pdg
+│   │   │   │   ├── 000756.pdg
+│   │   │   │   ├── 000492.pdg
+│   │   │   │   ├── 000407.pdg
+│   │   │   │   ├── 000663.pdg
+│   │   │   │   ├── 000406.pdg
+│   │   │   │   ├── 000709.pdg
+│   │   │   │   ├── 000422.pdg
+│   │   │   │   ├── 000375.pdg
+│   │   │   │   ├── 000179.pdg
+│   │   │   │   ├── 000245.pdg
+│   │   │   │   ├── 000696.pdg
+│   │   │   │   ├── 000434.pdg
+│   │   │   │   ├── 000209.pdg
+│   │   │   │   ├── 000339.pdg
+│   │   │   │   ├── 000640.pdg
+│   │   │   │   ├── 000414.pdg
+│   │   │   │   ├── 000226.pdg
+│   │   │   │   ├── 000356.pdg
+│   │   │   │   ├── 000567.pdg
+│   │   │   │   ├── 000237.pdg
+│   │   │   │   ├── 000192.pdg
+│   │   │   │   ├── 000081.pdg
+│   │   │   │   ├── 000626.pdg
+│   │   │   │   ├── 000168.pdg
+│   │   │   │   ├── 000722.pdg
+│   │   │   │   ├── 000280.pdg
+│   │   │   │   ├── 000079.pdg
+│   │   │   │   ├── 000588.pdg
+│   │   │   │   ├── 000073.pdg
+│   │   │   │   ├── 000573.pdg
+│   │   │   │   ├── 000458.pdg
+│   │   │   │   ├── 000193.pdg
+│   │   │   │   ├── 000221.pdg
+│   │   │   │   ├── 000723.pdg
+│   │   │   │   ├── 000483.pdg
+│   │   │   │   ├── 000489.pdg
+│   │   │   │   ├── 000251.pdg
+│   │   │   │   ├── 000267.pdg
+│   │   │   │   ├── 000311.pdg
+│   │   │   │   ├── 000286.pdg
+│   │   │   │   ├── bok001.pdg
+│   │   │   │   ├── 000398.pdg
+│   │   │   │   ├── 000196.pdg
+│   │   │   │   ├── 000472.pdg
+│   │   │   │   ├── 000353.pdg
+│   │   │   │   ├── 000371.pdg
+│   │   │   │   ├── 000535.pdg
+│   │   │   │   ├── 000259.pdg
+│   │   │   │   ├── 000046.pdg
+│   │   │   │   ├── 000278.pdg
+│   │   │   │   ├── 000770.pdg
+│   │   │   │   ├── 000305.pdg
+│   │   │   │   ├── 000738.pdg
+│   │   │   │   ├── 000359.pdg
+│   │   │   │   ├── 000700.pdg
+│   │   │   │   ├── 000426.pdg
+│   │   │   │   ├── 000473.pdg
+│   │   │   │   ├── 000307.pdg
+│   │   │   │   ├── 000486.pdg
+│   │   │   │   ├── 000171.pdg
+│   │   │   │   ├── 000452.pdg
+│   │   │   │   ├── 000326.pdg
+│   │   │   │   ├── 000690.pdg
+│   │   │   │   ├── 000632.pdg
+│   │   │   │   ├── 000249.pdg
+│   │   │   │   ├── 000165.pdg
+│   │   │   │   ├── 000689.pdg
+│   │   │   │   ├── 000571.pdg
+│   │   │   │   ├── 000538.pdg
+│   │   │   │   ├── 000038.pdg
+│   │   │   │   ├── 000583.pdg
+│   │   │   │   ├── 000646.pdg
+│   │   │   │   ├── 000642.pdg
+│   │   │   │   ├── 000758.pdg
+│   │   │   │   ├── 000321.pdg
+│   │   │   │   ├── 000128.pdg
+│   │   │   │   ├── 000382.pdg
+│   │   │   │   ├── 000315.pdg
+│   │   │   │   ├── 000537.pdg
+│   │   │   │   ├── 000789.pdg
+│   │   │   │   ├── 000017.pdg
+│   │   │   │   ├── 000011.pdg
+│   │   │   │   ├── 000083.pdg
+│   │   │   │   ├── 000500.pdg
+│   │   │   │   ├── 000241.pdg
+│   │   │   │   ├── 000077.pdg
+│   │   │   │   ├── 000606.pdg
+│   │   │   │   ├── 000734.pdg
+│   │   │   │   ├── 000634.pdg
+│   │   │   │   ├── 000448.pdg
+│   │   │   │   ├── 000764.pdg
+│   │   │   │   ├── 000045.pdg
+│   │   │   │   ├── 000518.pdg
+│   │   │   │   ├── 000366.pdg
+│   │   │   │   ├── 000022.pdg
+│   │   │   │   ├── 000440.pdg
+│   │   │   │   ├── 000497.pdg
+│   │   │   │   ├── 000793.pdg
+│   │   │   │   ├── 000708.pdg
+│   │   │   │   ├── 000216.pdg
+│   │   │   │   ├── 000373.pdg
+│   │   │   │   ├── 000551.pdg
+│   │   │   │   ├── 000188.pdg
+│   │   │   │   ├── 000183.pdg
+│   │   │   │   ├── 000122.pdg
+│   │   │   │   ├── 000754.pdg
+│   │   │   │   ├── 000068.pdg
+│   │   │   │   ├── 000586.pdg
+│   │   │   │   ├── 000292.pdg
+│   │   │   │   ├── 000175.pdg
+│   │   │   │   ├── 000155.pdg
+│   │   │   │   ├── 000428.pdg
+│   │   │   │   ├── 000608.pdg
+│   │   │   │   ├── 000370.pdg
+│   │   │   │   ├── 000647.pdg
+│   │   │   │   ├── 000135.pdg
+│   │   │   │   ├── 000469.pdg
+│   │   │   │   ├── 000701.pdg
+│   │   │   │   ├── 000674.pdg
+│   │   │   │   ├── 000720.pdg
+│   │   │   │   ├── 000313.pdg
+│   │   │   │   ├── 000433.pdg
+│   │   │   │   ├── 000545.pdg
+│   │   │   │   ├── 000614.pdg
+│   │   │   │   ├── 000172.pdg
+│   │   │   │   ├── 000253.pdg
+│   │   │   │   ├── 000391.pdg
+│   │   │   │   ├── 000463.pdg
+│   │   │   │   ├── 000039.pdg
+│   │   │   │   ├── 000501.pdg
+│   │   │   │   ├── 000524.pdg
+│   │   │   │   ├── 000019.pdg
+│   │   │   │   ├── 000117.pdg
+│   │   │   │   ├── 000516.pdg
+│   │   │   │   ├── 000098.pdg
+│   │   │   │   ├── 000024.pdg
+│   │   │   │   ├── 000319.pdg
+│   │   │   │   ├── 000797.pdg
+│   │   │   │   ├── 000546.pdg
+│   │   │   │   ├── 000190.pdg
+│   │   │   │   ├── 000395.pdg
+│   │   │   │   ├── 000437.pdg
+│   │   │   │   ├── 000166.pdg
+│   │   │   │   ├── 000698.pdg
+│   │   │   │   ├── 000421.pdg
+│   │   │   │   ├── 000794.pdg
+│   │   │   │   ├── 000010.pdg
+│   │   │   │   ├── 000013.pdg
+│   │   │   │   ├── 000338.pdg
+│   │   │   │   ├── 000525.pdg
+│   │   │   │   ├── 000561.pdg
+│   │   │   │   ├── 000553.pdg
+│   │   │   │   ├── 000611.pdg
+│   │   │   │   ├── 000108.pdg
+│   │   │   │   ├── 000560.pdg
+│   │   │   │   ├── 000258.pdg
+│   │   │   │   ├── leg001.pdg
+│   │   │   │   ├── 000270.pdg
+│   │   │   │   ├── 000162.pdg
+│   │   │   │   ├── 000613.pdg
+│   │   │   │   ├── 000420.pdg
+│   │   │   │   ├── 000593.pdg
+│   │   │   │   ├── 000461.pdg
+│   │   │   │   ├── 000645.pdg
+│   │   │   │   ├── 000219.pdg
+│   │   │   │   ├── 000334.pdg
+│   │   │   │   ├── 000118.pdg
+│   │   │   │   ├── 000104.pdg
+│   │   │   │   ├── 000416.pdg
+│   │   │   │   ├── 000040.pdg
+│   │   │   │   ├── 000138.pdg
+│   │   │   │   ├── 000760.pdg
+│   │   │   │   ├── 000510.pdg
+│   │   │   │   ├── 000160.pdg
+│   │   │   │   ├── 000025.pdg
+│   │   │   │   ├── 000637.pdg
+│   │   │   │   ├── 000149.pdg
+│   │   │   │   ├── 000429.pdg
+│   │   │   │   ├── 000306.pdg
+│   │   │   │   ├── 000066.pdg
+│   │   │   │   ├── 000050.pdg
+│   │   │   │   ├── 000604.pdg
+│   │   │   │   ├── 000506.pdg
+│   │   │   │   ├── 000774.pdg
+│   │   │   │   ├── 000773.pdg
+│   │   │   │   ├── 000021.pdg
+│   │   │   │   ├── 000547.pdg
+│   │   │   │   ├── 000354.pdg
+│   │   │   │   ├── 000765.pdg
+│   │   │   │   ├── 000195.pdg
+│   │   │   │   ├── 000201.pdg
+│   │   │   │   ├── 000509.pdg
+│   │   │   │   ├── 000491.pdg
+│   │   │   │   ├── 000631.pdg
+│   │   │   │   ├── 000412.pdg
+│   │   │   │   ├── 000191.pdg
+│   │   │   │   ├── 000776.pdg
+│   │   │   │   ├── 000475.pdg
+│   │   │   │   ├── 000146.pdg
+│   │   │   │   ├── 000443.pdg
+│   │   │   │   ├── 000495.pdg
+│   │   │   │   ├── 000380.pdg
+│   │   │   │   ├── 000008.pdg
+│   │   │   │   ├── 000409.pdg
+│   │   │   │   ├── !00007.pdg
+│   │   │   │   ├── 000503.pdg
+│   │   │   │   ├── 000284.pdg
+│   │   │   │   ├── 000554.pdg
+│   │   │   │   ├── 000772.pdg
+│   │   │   │   ├── 000624.pdg
+│   │   │   │   ├── 000336.pdg
+│   │   │   │   ├── 000408.pdg
+│   │   │   │   ├── 000725.pdg
+│   │   │   │   ├── 000048.pdg
+│   │   │   │   ├── 000277.pdg
+│   │   │   │   ├── 000660.pdg
+│   │   │   │   ├── 000055.pdg
+│   │   │   │   ├── 000591.pdg
+│   │   │   │   ├── 000324.pdg
+│   │   │   │   ├── 000513.pdg
+│   │   │   │   ├── 000230.pdg
+│   │   │   │   ├── 000301.pdg
+│   │   │   │   ├── 000459.pdg
+│   │   │   │   ├── 000032.pdg
+│   │   │   │   ├── 000761.pdg
+│   │   │   │   ├── 000519.pdg
+│   │   │   │   ├── 000043.pdg
+│   │   │   │   ├── 000536.pdg
+│   │   │   │   ├── 000269.pdg
+│   │   │   │   ├── 000616.pdg
+│   │   │   │   ├── 000394.pdg
+│   │   │   │   ├── 000605.pdg
+│   │   │   │   ├── 000564.pdg
+│   │   │   │   ├── 000203.pdg
+│   │   │   │   ├── !00010.pdg
+│   │   │   │   ├── 000488.pdg
+│   │   │   │   ├── 000154.pdg
+│   │   │   │   ├── 000204.pdg
+│   │   │   │   ├── 000688.pdg
+│   │   │   │   ├── 000441.pdg
+│   │   │   │   ├── 000329.pdg
+│   │   │   │   ├── 000504.pdg
+│   │   │   │   ├── 000746.pdg
+│   │   │   │   ├── 000464.pdg
+│   │   │   │   ├── 000374.pdg
+│   │   │   │   ├── 000062.pdg
+│   │   │   │   ├── 000622.pdg
+│   │   │   │   ├── 000080.pdg
+│   │   │   │   ├── 000476.pdg
+│   │   │   │   ├── 000570.pdg
+│   │   │   │   ├── 000685.pdg
+│   │   │   │   ├── 000769.pdg
+│   │   │   │   ├── 000574.pdg
+│   │   │   │   ├── 000798.pdg
+│   │   │   │   ├── 000430.pdg
+│   │   │   │   ├── 000629.pdg
+│   │   │   │   ├── 000109.pdg
+│   │   │   │   ├── 000376.pdg
+│   │   │   │   ├── 000694.pdg
+│   │   │   │   ├── 000668.pdg
+│   │   │   │   ├── 000753.pdg
+│   │   │   │   ├── 000202.pdg
+│   │   │   │   ├── 000328.pdg
+│   │   │   │   ├── 000679.pdg
+│   │   │   │   ├── 000752.pdg
+│   │   │   │   ├── 000205.pdg
+│   │   │   │   ├── 000410.pdg
+│   │   │   │   ├── 000026.pdg
+│   │   │   │   ├── 000468.pdg
+│   │   │   │   ├── 000143.pdg
+│   │   │   │   ├── 000240.pdg
+│   │   │   │   ├── 000530.pdg
+│   │   │   │   ├── 000058.pdg
+│   │   │   │   ├── 000775.pdg
+│   │   │   │   ├── 000730.pdg
+│   │   │   │   ├── 000325.pdg
+│   │   │   │   ├── 000121.pdg
+│   │   │   │   ├── 000615.pdg
+│   │   │   │   ├── 000343.pdg
+│   │   │   │   ├── 000499.pdg
+│   │   │   │   ├── 000030.pdg
+│   │   │   │   ├── 000350.pdg
+│   │   │   │   ├── 000275.pdg
+│   │   │   │   ├── 000123.pdg
+│   │   │   │   ├── 000599.pdg
+│   │   │   │   ├── 000228.pdg
+│   │   │   │   ├── 000496.pdg
+│   │   │   │   ├── 000053.pdg
+│   │   │   │   ├── 000317.pdg
+│   │   │   │   ├── 000124.pdg
+│   │   │   │   ├── 000533.pdg
+│   │   │   │   ├── 000610.pdg
+│   │   │   │   ├── 000075.pdg
+│   │   │   │   ├── 000508.pdg
+│   │   │   │   ├── 000054.pdg
+│   │   │   │   ├── 000215.pdg
+│   │   │   │   ├── 000795.pdg
+│   │   │   │   ├── 000584.pdg
+│   │   │   │   ├── 000299.pdg
+│   │   │   │   ├── 000621.pdg
+│   │   │   │   ├── 000498.pdg
+│   │   │   │   ├── 000455.pdg
+│   │   │   │   ├── 000465.pdg
+│   │   │   │   ├── 000348.pdg
+│   │   │   │   ├── 000732.pdg
+│   │   │   │   ├── 000291.pdg
+│   │   │   │   ├── 000532.pdg
+│   │   │   │   ├── 000248.pdg
+│   │   │   │   ├── 000234.pdg
+│   │   │   │   ├── 000368.pdg
+│   │   │   │   ├── 000569.pdg
+│   │   │   │   ├── 000603.pdg
+│   │   │   │   ├── 000161.pdg
+│   │   │   │   ├── 000379.pdg
+│   │   │   │   ├── 000063.pdg
+│   │   │   │   ├── 000444.pdg
+│   │   │   │   ├── 000158.pdg
+│   │   │   │   ├── 000749.pdg
+│   │   │   │   ├── 000344.pdg
+│   │   │   │   ├── 000505.pdg
+│   │   │   │   ├── 000541.pdg
+│   │   │   │   ├── 000333.pdg
+│   │   │   │   ├── 000527.pdg
+│   │   │   │   ├── 000423.pdg
+│   │   │   │   ├── 000100.pdg
+│   │   │   │   ├── 000697.pdg
+│   │   │   │   ├── 000094.pdg
+│   │   │   │   ├── 000479.pdg
+│   │   │   │   ├── 000741.pdg
+│   │   │   │   ├── 000134.pdg
+│   │   │   │   ├── 000115.pdg
+│   │   │   │   ├── 000585.pdg
+│   │   │   │   ├── 000137.pdg
+│   │   │   │   ├── 000227.pdg
+│   │   │   │   ├── 000460.pdg
+│   │   │   │   ├── 000517.pdg
+│   │   │   │   ├── 000405.pdg
+│   │   │   │   ├── 000477.pdg
+│   │   │   │   ├── 000397.pdg
+│   │   │   │   ├── 000592.pdg
+│   │   │   │   ├── 000743.pdg
+│   │   │   │   ├── 000314.pdg
+│   │   │   │   ├── 000116.pdg
+│   │   │   │   ├── 000392.pdg
+│   │   │   │   ├── 000555.pdg
+│   │   │   │   ├── 000447.pdg
+│   │   │   │   ├── 000386.pdg
+│   │   │   │   ├── 000801.pdg
+│   │   │   │   ├── 000369.pdg
+│   │   │   │   ├── 000377.pdg
+│   │   │   │   ├── 000484.pdg
+│   │   │   │   ├── 000658.pdg
+│   │   │   │   ├── 000144.pdg
+│   │   │   │   ├── 000266.pdg
+│   │   │   │   ├── 000638.pdg
+│   │   │   │   ├── 000713.pdg
+│   │   │   │   ├── 000744.pdg
+│   │   │   │   ├── 000033.pdg
+│   │   │   │   ├── 000164.pdg
+│   │   │   │   ├── 000782.pdg
+│   │   │   │   ├── 000214.pdg
+│   │   │   │   ├── 000300.pdg
+│   │   │   │   ├── 000456.pdg
+│   │   │   │   ├── 000247.pdg
+│   │   │   │   ├── 000298.pdg
+│   │   │   │   ├── 000686.pdg
+│   │   │   │   ├── 000804.pdg
+│   │   │   │   ├── !00002.pdg
+│   │   │   │   ├── 000383.pdg
+│   │   │   │   ├── 000016.pdg
+│   │   │   │   ├── 000148.pdg
+│   │   │   │   ├── 000361.pdg
+│   │   │   │   ├── 000502.pdg
+│   │   │   │   ├── 000290.pdg
+│   │   │   │   ├── 000208.pdg
+│   │   │   │   ├── 000028.pdg
+│   │   │   │   ├── 000625.pdg
+│   │   │   │   ├── 000747.pdg
+│   │   │   │   ├── 000791.pdg
+│   │   │   │   ├── 000748.pdg
+│   │   │   │   ├── 000705.pdg
+│   │   │   │   ├── 000296.pdg
+│   │   │   │   ├── 000745.pdg
+│   │   │   │   ├── 000076.pdg
+│   │   │   │   ├── 000125.pdg
+│   │   │   │   ├── 000601.pdg
+│   │   │   │   ├── 000481.pdg
+│   │   │   │   ├── 000091.pdg
+│   │   │   │   ├── 000273.pdg
+│   │   │   │   ├── 000607.pdg
+│   │   │   │   ├── 000023.pdg
+│   │   │   │   ├── 000695.pdg
+│   │   │   │   ├── 000001.pdg
+│   │   │   │   ├── 000704.pdg
+│   │   │   │   ├── 000099.pdg
+│   │   │   │   ├── 000184.pdg
+│   │   │   │   ├── 000182.pdg
+│   │   │   │   ├── 000684.pdg
+│   │   │   │   ├── 000074.pdg
+│   │   │   │   ├── 000150.pdg
+│   │   │   │   ├── 000213.pdg
+│   │   │   │   ├── 000390.pdg
+│   │   │   │   ├── 000556.pdg
+│   │   │   │   ├── 000633.pdg
+│   │   │   │   ├── 000612.pdg
+│   │   │   │   ├── 000018.pdg
+│   │   │   │   ├── 000236.pdg
+│   │   │   │   ├── 000345.pdg
+│   │   │   │   ├── 000796.pdg
+│   │   │   │   ├── 000384.pdg
+│   │   │   │   ├── 000600.pdg
+│   │   │   │   ├── 000425.pdg
+│   │   │   │   ├── 000609.pdg
+│   │   │   │   ├── 000007.pdg
+│   │   │   │   ├── 000653.pdg
+│   │   │   │   ├── 000729.pdg
+│   │   │   │   ├── 000401.pdg
+│   │   │   │   ├── 000363.pdg
+│   │   │   │   ├── 000327.pdg
+│   │   │   │   ├── 000156.pdg
+│   │   │   │   ├── fow001.pdg
+│   │   │   │   ├── 000487.pdg
+│   │   │   │   ├── 000562.pdg
+│   │   │   │   ├── 000438.pdg
+│   │   │   │   ├── 000095.pdg
+│   │   │   │   ├── 000052.pdg
+│   │   │   │   ├── 000731.pdg
+│   │   │   │   ├── 000590.pdg
+│   │   │   │   ├── 000088.pdg
+│   │   │   │   ├── 000268.pdg
+│   │   │   │   ├── 000358.pdg
+│   │   │   │   ├── 000693.pdg
+│   │   │   │   ├── 000400.pdg
+│   │   │   │   ├── 000112.pdg
+│   │   │   │   ├── 000718.pdg
+│   │   │   │   ├── 000056.pdg
+│   │   │   │   ├── 000342.pdg
+│   │   │   │   ├── 000276.pdg
+│   │   │   │   ├── 000529.pdg
+│   │   │   │   ├── 000274.pdg
+│   │   │   │   ├── 000065.pdg
+│   │   │   │   ├── 000648.pdg
+│   │   │   │   ├── 000243.pdg
+│   │   │   │   ├── 000244.pdg
+│   │   │   │   ├── 000223.pdg
+│   │   │   │   ├── 000724.pdg
+│   │   │   │   ├── 000089.pdg
+│   │   │   │   ├── 000759.pdg
+│   │   │   │   ├── 000310.pdg
+│   │   │   │   ├── 000141.pdg
+│   │   │   │   ├── 000061.pdg
+│   │   │   │   ├── 000233.pdg
+│   │   │   │   ├── 000246.pdg
+│   │   │   │   ├── 000673.pdg
+│   │   │   │   ├── 000802.pdg
+│   │   │   │   ├── 000644.pdg
+│   │   │   │   ├── 000180.pdg
+│   │   │   │   ├── 000072.pdg
+│   │   │   │   ├── 000719.pdg
+│   │   │   │   ├── 000467.pdg
+│   │   │   │   ├── 000217.pdg
+│   │   │   │   ├── 000035.pdg
+│   │   │   │   ├── 000786.pdg
+│   │   │   │   ├── 000239.pdg
+│   │   │   │   ├── 000133.pdg
+│   │   │   │   ├── 000742.pdg
+│   │   │   │   ├── 000194.pdg
+│   │   │   │   ├── 000257.pdg
+│   │   │   │   ├── 000669.pdg
+│   │   │   │   ├── 000485.pdg
+│   │   │   │   ├── 000424.pdg
+│   │   │   │   ├── 000559.pdg
+│   │   │   │   ├── 000197.pdg
+│   │   │   │   ├── 000651.pdg
+│   │   │   │   ├── 000367.pdg
+│   │   │   │   ├── 000790.pdg
+│   │   │   │   ├── 000507.pdg
+│   │   │   │   ├── 000378.pdg
+│   │   │   │   ├── 000672.pdg
+│   │   │   │   ├── 000069.pdg
+│   │   │   │   ├── 000540.pdg
+│   │   │   │   ├── 000320.pdg
+│   │   │   │   ├── 000229.pdg
+│   │   │   │   ├── 000140.pdg
+│   │   │   │   ├── 000677.pdg
+│   │   │   │   ├── 000659.pdg
+│   │   │   │   ├── 000676.pdg
+│   │   │   │   ├── 000526.pdg
+│   │   │   │   ├── 000322.pdg
+│   │   │   │   ├── !00003.pdg
+│   │   │   │   ├── 000331.pdg
+│   │   │   │   ├── 000768.pdg
+│   │   │   │   ├── 000252.pdg
+│   │   │   │   ├── 000078.pdg
+│   │   │   │   ├── 000136.pdg
+│   │   │   │   ├── 000047.pdg
+│   │   │   │   ├── 000661.pdg
+│   │   │   ├── 实验室化学品纯化手册
+│   │   │   │   ├── 实验室化学品纯化手册.pdf
+│   │   ├── 费曼物理学讲义
+│   │   │   ├── 费曼物理学讲义 第三卷_1989.pdf
+│   │   │   ├── 费曼物理学讲义习题集 1988.pdf
+│   │   │   ├── 费曼物理学讲义 第一卷_1983.pdf
+│   │   │   ├── 费曼物理学讲义 第二卷_1981.pdf
+│   │   ├── 药物化学
+│   │   │   ├── The art of drug synthesis
+│   │   │   │   ├── 新药合成艺术-The art of drug synthesis .pdf
+│   │   │   ├── 药物化学
+│   │   │   │   ├── 药物化学（2004）.pdf
+│   │   │   ├── 各国药典
+│   │   │   │   ├── 2014执业药师考试大纲及复习资料下载汇总.pdf
+│   │   │   │   ├── 英国药典BP2013.docx
+│   │   │   │   ├── 下载地址.txt
+│   │   │   │   ├── 各国药典下载地址.pdf
+│   │   ├── 高分子化学
+│   │   │   ├── Hierarchical Macromolecular Structures 60 Years after the Staudinger Nobel Prize I.pdf
+│   │   ├── 数据相关
+│   │   │   ├── 兰氏化学手册-第二版-原书第15版
+│   │   │   │   ├── Lange_s_Handbook_of_Chemistry_15_edition_John_Dean.pdf
+│   │   │   │   ├── 《兰氏化学手册》第二版(原书第15版).pdf
+│   │   │   ├── 化学实验常用数据表
+│   │   │   │   ├── 化学实验常用数据表.pdf
+│   │   │   ├── 哈米特常数
+│   │   │   │   ├── 哈米特常数.pdf
+│   │   │   │   ├── A Survey of Hammett Substituent Constants and Resonance and Field Parameters.pdf
+│   │   │   ├── 热力学数据表
+│   │   │   │   ├── 热力学数据表.pdf
+│   │   │   ├── 国际晶体学表
+│   │   │   │   ├── 国际晶体学表.pdf
+│   │   │   ├── 有机化合物pKa
+│   │   │   │   ├── pKa有机化合物.pdf
+│   │   ├── 吉米多维奇习题集16
+│   │   │   ├── 吉米多维奇1.pdf
+│   │   │   ├── 吉米多维奇6.pdf
+│   │   │   ├── 吉米多维奇3.pdf
+│   │   │   ├── 吉米多维奇2.pdf
+│   │   │   ├── 吉米多维奇4.pdf
+│   │   │   ├── 吉米多维奇5.pdf
+│   │   ├── 结构与谱学
+│   │   │   ├── 化学键的本质-上海科学技术出版社
+│   │   │   │   ├── 化学键的本质.pdf
+│   │   │   ├── 群论基础-侯云智
+│   │   │   │   ├── 群论的基础教程.pdf
+│   │   │   ├── 结构化学基础
+│   │   │   │   ├── 结构化学基础 第四版 较清晰.pdf
+│   │   │   │   ├── 结构化学基础习题答案_周公度_第4版.pdf
+│   │   │   ├── 群论应用-科顿
+│   │   │   │   ├── 群论在化学中的应用_科顿-无缺页版.pdf
+│   │   │   ├── 物质结构-赵成大等
+│   │   │   │   ├── 物质结构.pdf
+│   │   │   ├── 晶体学基础（秦善）
+│   │   │   │   ├── 晶体学基础（秦善）.pdf
+│   │   │   ├── 物质结构-第二版-徐光宪
+│   │   │   │   ├── 物质结构 第二版 徐光宪 科学 2010.10 734s.pdf
+│   │   │   ├── 王林军老师课题组入门指南A.Quick.Tour.Guide.for.LinJun.Group.pdf
+│   │   │   ├── 谱学导论（范康年）.pdf
+│   │   │   ├── 量子力学（曾谨言）第4版.pdf
+│   │   │   ├── Peter F. Bernath - Spectra of Atoms and Molecules-Oxford University Press (2016).pdf
+│   ├── 上课教材
+│   │   ├── 量子力学（曾谨言）第4版.pdf
+│   │   ├── 无机化学（宋天佑等）上册.pdf
+│   │   ├── 《有机化学》第4版 王彦广 吕萍等.pdf
+│   │   ├── 结构化学基础 第五版 周公度.pdf
+│   │   ├── 王林军老师课题组入门指南A.Quick.Tour.Guide.for.LinJun.Group.pdf
+│   │   ├── 谱学导论（范康年）.pdf
+│   │   ├── 结构化学基础习题答案_周公度_第4版.pdf
+│   │   ├── Analytical Chemistry（David Harvey） 2.0.pdf
+│   │   ├── 无机化学（宋天佑等）下册.pdf
+│   │   ├── 《物理化学讲义》彭笑刚.pdf
