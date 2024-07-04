@@ -25,7 +25,9 @@ Our platform covers the following content:
   - Statistical Thermodynamics(Lack Resources)
   - Quantum Chemistry(Lack Resources)
   - To be continued...
-  
+
+**Note:** Due to copyright issues, please be mindful of copyright concerns when uploading materials. If any infringement is found, please contact us for removal! This platform encourages students to upload their own study notes and learning experiences. 💗 
+
 ## 🚀 Quick Start
 
 1. Clone the repository to your local machine:
