@@ -63,7 +63,7 @@ git push origin {课程名} eg: git push origin Physical-Chemistry
 
 如果您有任何问题或建议，欢迎与我们联系！📧
 
-- 电子邮件: 674799562@qq.com
+- 电子邮件: 674799562@qq.com 如果您不熟悉git的使用可以通过邮箱联系我们的工作人员添加资料~
 - Gitee Issues：请随时提出需求，我们会及时回复！ 📝
 
 ## 🌟 致谢
@@ -75,8 +75,6 @@ git push origin {课程名} eg: git push origin Physical-Chemistry
 本项目在[MIT 许可证](LICENSE)下开源。请随意使用！
 
 ---
-译文:
-
 让我们一起探索奇妙的化学世界吧！🔍🔬✨
 
 > **化学让世界变得更美好！**
